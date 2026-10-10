@@ -1,0 +1,2674 @@
+- manifestVersion: 1
+  name: BepInEx-BepInExPack
+  authorName: BepInEx
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/
+  displayName: BepInExPack
+  description: BepInEx pack for Mono Unity games. Preconfigured and ready to use.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1774244739430
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 2305
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: chuxiaaaa-LoadAllLobby
+  authorName: chuxiaaaa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/chuxiaaaa/LoadAllLobby/
+  displayName: LoadAllLobby
+  description: Load all versions of lobbies
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1761796350993
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 7
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: NakiriFox-LC_Simplified_Chinese_Localization
+  authorName: NakiriFox
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/NakiriFox/LC_Simplified_Chinese_Localization/
+  displayName: LC_Simplified_Chinese_Localization
+  description: v64简中汉化+狐狸兼容原版优化包汉化
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1740284261584
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - chuxiaaaa-LoadAllLobby-1.0.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 5
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: notnotnotswipez-MoreCompany
+  authorName: notnotnotswipez
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/
+  displayName: MoreCompany
+  description: A stable lobby player count expansion mod. With cosmetics!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1777096616826
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 14
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: tinyhoot-ShipLobby
+  authorName: tinyhoot
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/
+  displayName: ShipLobby
+  description: Let people join late whenever you're in orbit in between missions.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1740284499042
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Drakorle-MoreItems
+  authorName: Drakorle
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/
+  displayName: MoreItems
+  description: >-
+    Changes the max amount of items that the game saves from 45 to 999. Requires
+    BepInEx.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1740284547827
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Evaisa-FixPluginTypesSerialization
+  authorName: Evaisa
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/Evaisa/FixPluginTypesSerialization/
+  displayName: FixPluginTypesSerialization
+  description: >-
+    Fix custom Serializable structs and such not properly getting deserialized
+    by Unity.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1759758582931
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 4
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Zehs-SellMyScrap
+  authorName: Zehs
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Zehs/SellMyScrap/
+  displayName: SellMyScrap
+  description: >-
+    [v40/v81+] Adds a few terminal commands to sell your scrap from the ship or
+    cruiser. Highly Configurable. Compatible with the ShipInventoryUpdated mod.
+    SellFromTerminal +
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1775484141433
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+    - Evaisa-FixPluginTypesSerialization-1.1.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 15
+    patch: 3
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: tinyhoot-ShipLoot
+  authorName: tinyhoot
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/
+  displayName: ShipLoot
+  description: Reliably shows the total value of all scrap in your ship.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1740285385229
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Hardy-LCMaxSoundsFix
+  authorName: Hardy
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/
+  displayName: LCMaxSoundsFix
+  description: >-
+    Simple mod that increase max number of simultaneous playing sounds,
+    hopefully fixing missing footsteps and other missing sound problems.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1740285978187
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Zaggy1024-PathfindingLib
+  authorName: Zaggy1024
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/
+  displayName: PathfindingLib
+  description: >-
+    Provides functionality for mod authors to run pathfinding off of the main
+    thread.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1760244571243
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 4
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Zehs-Hitmarker
+  authorName: Zehs
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Zehs/Hitmarker/
+  displayName: Hitmarker
+  description: >-
+    Shows a hitmarker when you successfully hit an enemy. With additional
+    features. (Client-side)
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1740286816530
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 3
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: ButteryStancakes-EnemySoundFixes
+  authorName: ButteryStancakes
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/
+  displayName: EnemySoundFixes
+  description: >-
+    Fixes numerous issues with missing sound effects, or SFX playing when they
+    shouldn't.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1791618809077
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+    - Hardy-LCMaxSoundsFix-1.2.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 9
+    patch: 21
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: sunnobunno-YippeeMod
+  authorName: sunnobunno
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/
+  displayName: YippeeMod
+  description: Changes the chitter SFX of the Hoarding Bug to the yippee-tbh sound
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1749358277760
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 4
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: x753-More_Suits
+  authorName: x753
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/x753/More_Suits/
+  displayName: More_Suits
+  description: >-
+    Adds more suits to choose from, and can be used as a library to load your
+    own suits!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1785391048847
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 4
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Ghostx10-Even_More_Suits
+  authorName: Ghostx10
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Ghostx10/Even_More_Suits/
+  displayName: Even_More_Suits
+  description: >-
+    This is an edited version of the original mod by x753, all credits to him. I
+    plan on adding suits frequently. Actual suits are listed on the changelog
+    (original mod ones are not mentioned).
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1750656623845
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - x753-More_Suits-1.4.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: FlipMods-TooManyEmotes
+  authorName: FlipMods
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/
+  displayName: TooManyEmotes
+  description: >-
+    Adds over 300 new emotes! Includes emote wheel, allows Masked Enemies to
+    emote, adds emote music (can be muted), implements a system for purchasing
+    emotes on the store (optional), and much more!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1780317222560
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Rune580-LethalCompany_InputUtils-0.7.10
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 3
+    patch: 17
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Rune580-LethalCompany_InputUtils
+  authorName: Rune580
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/
+  displayName: LethalCompany_InputUtils
+  description: >-
+    API/Library for creating Unity InputActions with in-game re-binding support.
+    Provides an alternative UI that allows for supporting mods to have in-game
+    re-bindable keybinds.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1775484141172
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 7
+    patch: 13
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: BomBom-TalkingHeads
+  authorName: BomBom
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/BomBom/TalkingHeads/
+  displayName: TalkingHeads
+  description: A client side mod that scales player heads when they're talking
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1750658735521
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Verity-TooManySuits
+  authorName: Verity
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/
+  displayName: TooManySuits
+  description: More Suits Addon that adds pages to the suit rack.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1780816462734
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - x753-More_Suits-1.5.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 4
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Hamunii-DetourContext_Dispose_Fix
+  authorName: Hamunii
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/Hamunii/DetourContext_Dispose_Fix/
+  displayName: DetourContext_Dispose_Fix
+  description: >-
+    A BepInEx patcher to fix MonoMod.RuntimeDetour's DetourContext.Dispose not
+    working.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1777808863658
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 9
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Hamunii-AutoHookGenPatcher
+  authorName: Hamunii
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Hamunii/AutoHookGenPatcher/
+  displayName: AutoHookGenPatcher
+  description: >-
+    Automatically generates MonoMod.RuntimeDetour.HookGen's MMHOOK files during
+    the BepInEx preloader phase.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1777808863785
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Hamunii-DetourContext_Dispose_Fix-1.0.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: qwbarch-OpusDotNet
+  authorName: qwbarch
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/qwbarch/OpusDotNet/
+  displayName: OpusDotNet
+  description: >-
+    An easy-to-use library for encoding and decoding 16-bit audio using the Opus
+    Audio Codec.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1750734409666
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 30
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: qwbarch-Concentus
+  authorName: qwbarch
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/qwbarch/Concentus/
+  displayName: Concentus
+  description: Portable C# implementation of the Opus audio compression codec
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1750734409723
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 3
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: willis81808-LethalSettings
+  authorName: willis81808
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/
+  displayName: LethalSettings
+  description: A centralized place for configuring mods from in-game
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1750734409778
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Bobbie-NAudio
+  authorName: Bobbie
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Bobbie/NAudio/
+  displayName: NAudio
+  description: Audio and MIDI library for .NET
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1750734409835
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 2
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: qwbarch-MirageCore
+  authorName: qwbarch
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/qwbarch/MirageCore/
+  displayName: MirageCore
+  description: Core dependencies for Mirage.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1750734409912
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Bobbie-NAudio-2.2.2
+    - willis81808-LethalSettings-1.4.1
+    - qwbarch-Concentus-2.3.0
+    - qwbarch-OpusDotNet-1.0.30
+    - Hamunii-AutoHookGenPatcher-1.0.6
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: ButteryStancakes-MaskFixes
+  authorName: ButteryStancakes
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/
+  displayName: MaskFixes
+  description: Fixes several problems with mask items and masked enemies.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1790400304919
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 6
+    patch: 3
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: VirusTLNR-MaskedInvisFix
+  authorName: VirusTLNR
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/VirusTLNR/MaskedInvisFix/
+  displayName: MaskedInvisFix
+  description: >-
+    [V81]Fixes bugs (1 Currently) where masked are invisible. make this a
+    dependency, or add your own implementation in your own masked mimicking mod.
+    I dont mind :) Any mod that makes masked look like the player they are
+    copying will need this.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1775652718521
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 3
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: qwbarch-Mirage
+  authorName: qwbarch
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/
+  displayName: Mirage
+  description: >-
+    Voice mimicking where all players hear the same voice, with a focus on
+    masked enemies. Alternative to Skinwalkers + MaskedEnemyOverhaul.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1778832002559
+  loaders: []
+  dependencies:
+    - qwbarch-MirageCore-1.0.4
+    - ButteryStancakes-MaskFixes-1.6.0
+    - VirusTLNR-MaskedInvisFix-0.0.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 29
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Lordfirespeed-OdinSerializer
+  authorName: Lordfirespeed
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/
+  displayName: OdinSerializer
+  description: Fast, robust, powerful and extendible .NET serializer built for Unity
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1750735837450
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2024
+    minor: 2
+    patch: 2700
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: fumiko-CullFactory
+  authorName: fumiko
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/fumiko/CullFactory/
+  displayName: CullFactory
+  description: >-
+    Stops rendering interior rooms that aren't visible - Helps with performance
+    without affecting visuals.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1781625180724
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 11
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: mattymatty-AsyncLoggers
+  authorName: mattymatty
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/
+  displayName: AsyncLoggers
+  description: YEET the logs to their own thread!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1791618809063
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2304
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 4
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: mattymatty-EntranceTeleportOptimizations
+  authorName: mattymatty
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/
+  displayName: EntranceTeleportOptimizations
+  description: Mod to optimize EntranceTeleport scripts
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1775484141041
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: XuXiaolan-ReXuvination
+  authorName: XuXiaolan
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/XuXiaolan/ReXuvination/
+  displayName: ReXuvination
+  description: Mod that currently completely optimises collision performance in the game.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1754112808952
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: DiFFoZ-HarmonyXTranspilerFix
+  authorName: DiFFoZ
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/DiFFoZ/HarmonyXTranspilerFix/
+  displayName: HarmonyXTranspilerFix
+  description: Fixes HarmonyX Transpiler cause patched method to behave incorrectly
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1789640590368
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 0
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: DiFFoZ-LethalPerformance
+  authorName: DiFFoZ
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/
+  displayName: LethalPerformance
+  description: Optimizes the game by caching frequently searchable components
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1791618809046
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - DiFFoZ-HarmonyXTranspilerFix-1.1.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 3
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: MaxWasUnavailable-LethalModDataLib
+  authorName: MaxWasUnavailable
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/MaxWasUnavailable/LethalModDataLib/
+  displayName: LethalModDataLib
+  description: >-
+    A library for Lethal Company, providing a standardised way to save and load
+    modded data.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1754113158246
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 2
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: IAmBatby-LethalLevelLoader
+  authorName: IAmBatby
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/
+  displayName: LethalLevelLoader
+  description: >-
+    A Custom API to support the manual and dynamic integration of all forms of
+    custom content in Lethal Company. (v81 Compatible)
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1790241383145
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+    - Evaisa-FixPluginTypesSerialization-1.1.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 7
+    patch: 13
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: JacobG5-ReverbTriggerFix
+  authorName: JacobG5
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/
+  displayName: ReverbTriggerFix
+  description: Attempts to improve performance with AudioReverbTriggers
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1776704380026
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 4
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher
+  authorName: DiFFoZ
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/
+  displayName: BepInEx_Faster_Load_AssetBundles_Patcher
+  description: Makes start up loading time faster
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1789640590202
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: linkoid-DissonanceLagFix
+  authorName: linkoid
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/linkoid/DissonanceLagFix/
+  displayName: DissonanceLagFix
+  description: >-
+    This plugin significantly reduces the duration of lag spikes simply by
+    changing the log level of DissonanceVoip.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1759773836804
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Bobbie-FixRPCLag
+  authorName: Bobbie
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Bobbie/FixRPCLag/
+  displayName: FixRPCLag
+  description: >-
+    Fixes RPC lag. This should fix the several second slowdown that occurs when
+    some mods throw exceptions in the console.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1759773902407
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: BlueAmulet-LogNeuter
+  authorName: BlueAmulet
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/BlueAmulet/LogNeuter/
+  displayName: LogNeuter
+  description: Utility to block certain log messages from the game
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1759773929733
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: ButteryStancakes-WeedKillerFixes
+  authorName: ButteryStancakes
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ButteryStancakes/WeedKillerFixes/
+  displayName: WeedKillerFixes
+  description: Fixes several major issues with weed killer.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1789640590045
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 1
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: Zehs-RemoveInteriorFog
+  authorName: Zehs
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Zehs/RemoveInteriorFog/
+  displayName: RemoveInteriorFog
+  description: '[v81] Removes interior fog. Configurable!'
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1777991830491
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: chuxiaaaa-ChuxiaFixes
+  authorName: chuxiaaaa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/chuxiaaaa/ChuxiaFixes/
+  displayName: ChuxiaFixes
+  description: >-
+    (V81)A collection of Fixes for the vanilla game.(including LateJoin, Player
+    Name, and various bug fixes.)
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1782105605708
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 7
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Pooble-LCBetterSaves
+  authorName: Pooble
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/
+  displayName: LCBetterSaves
+  description: Have as many saves as you want! (And rename them, too!)
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1767082850192
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 7
+    patch: 3
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Zehs-LCBetterSavesFix
+  authorName: Zehs
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Zehs/LCBetterSavesFix/
+  displayName: LCBetterSavesFix
+  description: Fixes the LCBetterSaves mod to work properly with the LethalModDataLib mod.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1767082850294
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Pooble-LCBetterSaves-1.7.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: taffyko-BetterSprayPaint
+  authorName: taffyko
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/
+  displayName: BetterSprayPaint
+  description: >-
+    Significantly more responsive and reliable painting, many bug-fixes,
+    infinite spray paint, longer range, quieter sounds. Adds an erase feature,
+    as well as the ability to control color and brush size. All configurable.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1769408316474
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Rune580-LethalCompany_InputUtils-0.6.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: aoirint-SkipDropshipCompany
+  authorName: aoirint
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/aoirint/SkipDropshipCompany/
+  displayName: SkipDropshipCompany
+  description: >-
+    [v81] Skips the dropship for item purchases on the Company and in some
+    limited situations.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1784381175927
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 8
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: rainbow137-NewYearJester
+  authorName: rainbow137
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/rainbow137/NewYearJester/
+  displayName: NewYearJester
+  description: Making Jester More Festive!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770207667774
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: SoftDiamond-LethalPresents
+  authorName: SoftDiamond
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/SoftDiamond/LethalPresents/
+  displayName: LethalPresents
+  description: >-
+    A mod which gives Presents a configurable chance of spawning a random enemy
+    when opened. v80 Compatible!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1775484140527
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+    - Hamunii-AutoHookGenPatcher-1.0.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 4
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: MonoDetour-MonoDetour
+  authorName: MonoDetour
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour/
+  displayName: MonoDetour
+  description: >-
+    Easy and convenient .NET detouring library, powered by
+    MonoMod.RuntimeDetour.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1789640589731
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 7
+    patch: 16
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: MonoDetour-MonoDetour_BepInEx_5
+  authorName: MonoDetour
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour_BepInEx_5/
+  displayName: MonoDetour_BepInEx_5
+  description: >-
+    HarmonyX interop & BepInEx 5 logger integration for MonoDetour. Initializes
+    MonoDetour early as a side effect.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1789640589888
+  loaders: []
+  dependencies:
+    - MonoDetour-MonoDetour-0.7.16
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 7
+    patch: 16
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: Evaisa-HookGenPatcher
+  authorName: Evaisa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/
+  displayName: HookGenPatcher
+  description: >-
+    Generates MonoMod.RuntimeDetour.HookGen's MMHOOK file during the BepInEx
+    preloader phase.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1771501885111
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 5
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: xibao_love-FixEladsHUD
+  authorName: xibao_love
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/xibao_love/FixEladsHUD/
+  displayName: FixEladsHUD
+  description: >-
+    修复EladsHUD在v81中无法显示工具槽的问题（Fix the bug of the EladsHUD not displaying the
+    utility slot in v81）
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1776416729944
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Zaggy1024-PathfindingLagFix
+  authorName: Zaggy1024
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/
+  displayName: PathfindingLagFix
+  description: >-
+    Improves overall performance by threading vanilla AI pathfinding and
+    patching slow methods.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779105762244
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zaggy1024-PathfindingLib-2.4.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 4
+    patch: 2
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: mattymatty-MonkeyInjectionLibrary
+  authorName: mattymatty
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/mattymatty/MonkeyInjectionLibrary/
+  displayName: MonkeyInjectionLibrary
+  description: >-
+    A library mod that lets other mods add properties and methods to existing
+    base-game classes at runtime, without modifying game files.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1791618809004
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2304
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: JacobG5-DestroyItemInSlotFix
+  authorName: JacobG5
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/JacobG5/DestroyItemInSlotFix/
+  displayName: DestroyItemInSlotFix
+  description: >-
+    Fixes niche vanilla issue with PlayerControllerB.DestroyItemInSlot(int
+    itemSlot) and the new utility slot.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1777097218383
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: TeamXiaolan-DawnLib
+  authorName: TeamXiaolan
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/
+  displayName: DawnLib
+  description: A modern API for Lethal Company content and all sizes of mods [V81]
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1783748768781
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+    - Evaisa-FixPluginTypesSerialization-1.1.4
+    - Hamunii-AutoHookGenPatcher-1.0.9
+    - mattymatty-MonkeyInjectionLibrary-1.0.2
+    - Zaggy1024-PathfindingLib-2.4.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 9
+    patch: 25
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: AudioKnight-StarlancerAIFix
+  authorName: AudioKnight
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/
+  displayName: StarlancerAIFix
+  description: >-
+    Automatically assigns interior/exterior AI for enemies based on their spawn
+    location and adjusts certain behaviors so that they act appropriately. Part
+    of my Starlancer Series!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1780317222183
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 13
+    patch: 2
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: JacobG5-JLL
+  authorName: JacobG5
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/JacobG5/JLL/
+  displayName: JLL
+  description: Jacob's Lethal Libraries - For Jacob's Mods
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1777808863047
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+    - JacobG5-DestroyItemInSlotFix-1.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 10
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Evaisa-LethalLib
+  authorName: Evaisa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
+  displayName: LethalLib
+  description: Personal modding tools for Lethal Company
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1777097218912
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - MonoDetour-MonoDetour_BepInEx_5-0.6.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: pacoito-itolib
+  authorName: pacoito
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/pacoito/itolib/
+  displayName: itolib
+  description: '[v80] Wondrous gizmos and gadgets for the restless mind.'
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1777097219020
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+    - IAmBatby-LethalLevelLoader-1.6.9
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 9
+    patch: 3
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: WhiteSpike-Moon_Day_Speed_Multiplier_Patcher
+  authorName: WhiteSpike
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/WhiteSpike/Moon_Day_Speed_Multiplier_Patcher/
+  displayName: Moon_Day_Speed_Multiplier_Patcher
+  description: >-
+    Patches the time passing mechanism to solve problems whenever day speed
+    multiplier value has been changed. This is meant for people who wish to use
+    these values and are able to configure them to their desire.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1777097219249
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: DarthLilo-LevelMusicLib
+  authorName: DarthLilo
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/DarthLilo/LevelMusicLib/
+  displayName: LevelMusicLib
+  description: Allows custom moons to load their own music
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1777097219366
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: TheWildSkelaah-SkelaahsWildMoons
+  authorName: TheWildSkelaah
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TheWildSkelaah/SkelaahsWildMoons/
+  displayName: SkelaahsWildMoons
+  description: >-
+    Adds 10 Vanilla+ moons, each having their own unique sizes, biomes,
+    mechanics and gimmicks. (v80+ compatible)
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1789640589562
+  loaders: []
+  dependencies:
+    - AudioKnight-StarlancerAIFix-3.13.2
+    - DarthLilo-LevelMusicLib-1.0.2
+    - Evaisa-LethalLib-1.2.0
+    - IAmBatby-LethalLevelLoader-1.7.9
+    - JacobG5-JLL-1.10.1
+    - pacoito-itolib-0.9.3
+    - TeamXiaolan-DawnLib-0.9.25
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 1
+    patch: 5
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: ZetaArcade-SpectateEnemiesFork
+  authorName: ZetaArcade
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ZetaArcade/SpectateEnemiesFork/
+  displayName: SpectateEnemiesFork
+  description: Fork for v81. Allows you to spectate enemies when dead.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1777260236748
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+    - Rune580-LethalCompany_InputUtils-0.7.13
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 9
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: chuxiaaaa-LoadingInfo
+  authorName: chuxiaaaa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/chuxiaaaa/LoadingInfo/
+  displayName: LoadingInfo
+  description: display the players who have not yet finished loading.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1777261200859
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 4
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: ButteryStancakes-ButteryFixes
+  authorName: ButteryStancakes
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/
+  displayName: ButteryFixes
+  description: >-
+    Fixes a lot of miscellaneous gameplay issues with vanilla. See store
+    description and wiki for more details (and recommendations for other great
+    bugfix packages)
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1791618808986
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 17
+    patch: 23
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: Zaggy1024-DunGenReferenceFixer
+  authorName: Zaggy1024
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Zaggy1024/DunGenReferenceFixer/
+  displayName: DunGenReferenceFixer
+  description: Fixes interior assets' references if they haven't been updated to v80.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1777808862787
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Beaniebe-Beanie_Lib
+  authorName: Beaniebe
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Beaniebe/Beanie_Lib/
+  displayName: Beanie_Lib
+  description: A Library for my niche (But maybe useful) scripts
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1780653459321
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-FixPluginTypesSerialization-1.1.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 9
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Generic_GMD-Generic_Doorscript
+  authorName: Generic_GMD
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Doorscript/
+  displayName: Generic_Doorscript
+  description: >-
+    (V80) Makes doorways with the tag id 7779 unable to connect. Does nothing on
+    its own.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1778052241786
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - IAmBatby-LethalLevelLoader-1.2.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Generic_GMD-Generic_Interiors
+  authorName: Generic_GMD
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Interiors/
+  displayName: Generic_Interiors
+  description: >-
+    Currently adds 6 interiors. Includes Storehouse, Bunker, Drains, Substation,
+    Tower, and Liminal Facility. Now with separate assetbundles!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1790241382811
+  loaders: []
+  dependencies:
+    - Beaniebe-Beanie_Lib-1.0.2
+    - BepInEx-BepInExPack-5.4.2100
+    - Generic_GMD-Generic_Doorscript-1.0.0
+    - Generic_GMD-ManuLib-1.0.0
+    - IAmBatby-LethalLevelLoader-1.2.2
+    - JacobG5-JLL-1.6.5
+    - rectorado-JKConfig-1.0.0
+    - rectorado-KenjiLib-0.2.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 2
+    patch: 1
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: v0xx-TerraMesh
+  authorName: v0xx
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/v0xx/TerraMesh/
+  displayName: TerraMesh
+  description: An API for terrain to mesh conversion and mesh manipulation
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1778053033831
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: ScienceBird-Universal_Radar
+  authorName: ScienceBird
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ScienceBird/Universal_Radar/
+  displayName: Universal_Radar
+  description: Improved, dynamic, and configurable contour maps (and more) for every moon.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1778053033966
+  loaders: []
+  dependencies:
+    - v0xx-TerraMesh-1.2.0
+    - BepInEx-BepInExPack-5.4.2305
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 4
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: AudioKnight-StarlancerMoons
+  authorName: AudioKnight
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerMoons/
+  displayName: StarlancerMoons
+  description: >-
+    (LLL) 4 new moons: 1 free, 1 intermediate, 1 late-game, and 1 hidden. Part
+    of my Starlancer series!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1783079045018
+  loaders: []
+  dependencies:
+    - AudioKnight-Auralis-4.0.1
+    - AudioKnight-Solace-4.0.1
+    - AudioKnight-StarlancerAIFix-3.13.2
+    - AudioKnight-StarlancerZero-4.0.1
+    - AudioKnight-Triskelion-4.0.1
+    - BepInEx-BepInExPack-5.4.2305
+    - Hardy-LCMaxSoundsFix-1.2.0
+    - TeamXiaolan-DawnLib-0.9.24
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 4
+    minor: 0
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Smxrez-FashionableCompany
+  authorName: Smxrez
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Smxrez/FashionableCompany/
+  displayName: FashionableCompany
+  description: Adds 20 new vanilla-esque fashion themed cosmetics via MoreCompany
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1781349602607
+  loaders: []
+  dependencies:
+    - notnotnotswipez-MoreCompany-1.14.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: AudioKnight-Triskelion
+  authorName: AudioKnight
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AudioKnight/Triskelion/
+  displayName: Triskelion
+  description: A desolate mining platform above a turbulent gas giant.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1783079044889
+  loaders: []
+  dependencies:
+    - AudioKnight-StarlancerAIFix-3.13.2
+    - BepInEx-BepInExPack-5.4.2100
+    - Hardy-LCMaxSoundsFix-1.2.0
+    - TeamXiaolan-DawnLib-0.9.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 4
+    minor: 0
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: AudioKnight-StarlancerZero
+  authorName: AudioKnight
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerZero/
+  displayName: StarlancerZero
+  description: A corrupted moon.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1783079044746
+  loaders: []
+  dependencies:
+    - AudioKnight-StarlancerAIFix-3.13.2
+    - BepInEx-BepInExPack-5.4.2100
+    - Hardy-LCMaxSoundsFix-1.2.0
+    - TeamXiaolan-DawnLib-0.9.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 4
+    minor: 0
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: AudioKnight-Solace
+  authorName: AudioKnight
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AudioKnight/Solace/
+  displayName: Solace
+  description: A peaceful island moon.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1789640589111
+  loaders: []
+  dependencies:
+    - AudioKnight-StarlancerAIFix-3.13.2
+    - BepInEx-BepInExPack-5.4.2100
+    - Hardy-LCMaxSoundsFix-1.2.0
+    - TeamXiaolan-DawnLib-0.9.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 4
+    minor: 0
+    patch: 2
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: AudioKnight-Auralis
+  authorName: AudioKnight
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AudioKnight/Auralis/
+  displayName: Auralis
+  description: A perilous and frigid moon.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1783079044441
+  loaders: []
+  dependencies:
+    - AudioKnight-StarlancerAIFix-3.13.2
+    - BepInEx-BepInExPack-5.4.2100
+    - Hardy-LCMaxSoundsFix-1.2.0
+    - TeamXiaolan-DawnLib-0.9.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 4
+    minor: 0
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: Generic_GMD-ManuLib
+  authorName: Generic_GMD
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Generic_GMD/ManuLib/
+  displayName: ManuLib
+  description: >-
+    Wonderous doohickeys for the Generics and the nonGenerics to use for the
+    stuff and things
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1789640588926
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 3
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: Tomatobird-DestroyTemporaryEffects
+  authorName: Tomatobird
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/Tomatobird/DestroyTemporaryEffects/
+  displayName: DestroyTemporaryEffects
+  description: Destroys temporary effects every time ship goes into orbit.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1783925393566
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2304
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: chuxiaaaa-LethalError
+  authorName: chuxiaaaa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/chuxiaaaa/LethalError/
+  displayName: LethalError
+  description: Reduce the chances of "An error occured!"
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1783925452866
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 6
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: bcs4313-Lethal_Nuke
+  authorName: bcs4313
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/bcs4313/Lethal_Nuke/
+  displayName: Lethal_Nuke
+  description: Adds a nuke as a scrap that may or may not be extremely dangerous
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1784000966726
+  loaders: []
+  dependencies:
+    - AinaVT-LethalConfig-1.4.6
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-LethalLib-1.1.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 4
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: loaforc-FacilityMeltdown
+  authorName: loaforc
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/
+  displayName: FacilityMeltdown
+  description: Maybe taking the apparatus out isn't such a great idea...
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1784435508935
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - TeamXiaolan-DawnLib-0.9.21
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 7
+    patch: 5
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: lethal_coder-PizzaProbabilityUpdated
+  authorName: lethal_coder
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/lethal_coder/PizzaProbabilityUpdated/
+  displayName: PizzaProbabilityUpdated
+  description: >-
+    Adds per-moon chance to the FacilityMeltdown mod. Improves interoperability
+    with PizzaTowerEscapeMusic. Includes optional extras.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1784436846975
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - loaforc-FacilityMeltdown-2.7.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 6
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: rectorado-KenjiLib
+  authorName: rectorado
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/rectorado/KenjiLib/
+  displayName: KenjiLib
+  description: The tiniest collection of scripts I'll use in my projects
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1787311459188
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 7
+    patch: 1
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: rectorado-JKConfig
+  authorName: rectorado
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/rectorado/JKConfig/
+  displayName: JKConfig
+  description: >-
+    An Addon for JLL to allow Items and Enemies registered with LLL to have
+    configs
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1785391048043
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - IAmBatby-LethalLevelLoader-1.6.0
+    - JacobG5-JLL-1.9.9
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: xilophor-StaticNetcodeLib
+  authorName: xilophor
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/xilophor/StaticNetcodeLib/
+  displayName: StaticNetcodeLib
+  description: A library/patcher for NGO in a static context.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1786893300814
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Lordfirespeed-OdinSerializer-2024.2.2700
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  onlineSource: false
+  trustedPackage: false
+- manifestVersion: 1
+  name: LegitGamer1017-BunkbedRevive_LegitsFork
+  authorName: LegitGamer1017
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/LegitGamer1017/BunkbedRevive_LegitsFork/
+  displayName: BunkbedRevive_LegitsFork
+  description: Revive dead players at the bunkbeds
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1786893301658
+  loaders: []
+  dependencies:
+    - AinaVT-LethalConfig-1.4.6
+    - BepInEx-BepInExPack-5.4.2304
+    - xilophor-StaticNetcodeLib-1.1.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 2
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: mattymatty-AsyncLoggers_Experimental
+  authorName: mattymatty
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers_Experimental/
+  displayName: AsyncLoggers_Experimental
+  description: YEET the logs to their own thread!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1789641126093
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2304
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 21
+    minor: 2
+    patch: 4
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: Beaniebe-Beanies_Moons
+  authorName: Beaniebe
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Beaniebe/Beanies_Moons/
+  displayName: Beanies_Moons
+  description: A moon pack that adds 11 Vanilla Plus themed moons!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1790353094180
+  loaders: []
+  dependencies:
+    - AudioKnight-StarlancerAIFix-3.8.4
+    - Beaniebe-Beanie_Lib-1.0.9
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - IAmBatby-LethalLevelLoader-1.3.10
+    - JacobG5-JLL-1.9.9
+    - pacoito-itolib-0.9.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 0
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: xilophor-LethalNetworkAPI
+  authorName: xilophor
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/
+  displayName: LethalNetworkAPI
+  description: A library/API to allow developers to easily add networking to their mods.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1790245614997
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Lordfirespeed-OdinSerializer-2024.2.2700
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 4
+    patch: 2
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: Sniper1_1-MaterialAssetRestorerCore
+  authorName: Sniper1_1
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/Sniper1_1/MaterialAssetRestorerCore/
+  displayName: MaterialAssetRestorerCore
+  description: >-
+    API that lets moon/interior devs use some of the vanilla materials that get
+    broken during ripping game files into Unity.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1790245615172
+  loaders: []
+  dependencies:
+    - xilophor-LethalNetworkAPI-3.4.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 0
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: Sniper1_1-WaterAssetRestorer
+  authorName: Sniper1_1
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Sniper1_1/WaterAssetRestorer/
+  displayName: WaterAssetRestorer
+  description: >-
+    Lets moon/interior devs use some of the vanilla water materials that get
+    broken during ripping game files into Unity.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1790245615345
+  loaders: []
+  dependencies:
+    - Sniper1_1-MaterialAssetRestorerCore-1.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 0
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: BLB_Thunderstore_Mods_LOL-SpectreLib
+  authorName: BLB_Thunderstore_Mods_LOL
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/BLB_Thunderstore_Mods_LOL/SpectreLib/
+  displayName: SpectreLib
+  description: Library made by Boom for Vanilla Variant enthusiasts.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1791618808895
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 56
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: Alice-DungeonGenerationPlus
+  authorName: Alice
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Alice/DungeonGenerationPlus/
+  displayName: DungeonGenerationPlus
+  description: API to expand the compatibilities of Lethal Company's dungeon generation
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1790245615699
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-FixPluginTypesSerialization-1.1.4
+    - IAmBatby-LethalLevelLoader-1.6.9
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 1
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: BLB_Thunderstore_Mods_LOL-Lead_Interiors
+  authorName: BLB_Thunderstore_Mods_LOL
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/BLB_Thunderstore_Mods_LOL/Lead_Interiors/
+  displayName: Lead_Interiors
+  description: '[V81] Adds in 7 new interior for you to play in. (Contains the Crimson Keep)'
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1791618808968
+  loaders: []
+  dependencies:
+    - Alice-DungeonGenerationPlus-1.5.0
+    - Beaniebe-Beanie_Lib-1.0.8
+    - BepInEx-BepInExPack-5.4.2100
+    - BLB_Thunderstore_Mods_LOL-SpectreLib-1.2.55
+    - IAmBatby-LethalLevelLoader-1.7.1
+    - JacobG5-JLL-1.9.10
+    - pacoito-itolib-0.9.3
+    - Sniper1_1-WaterAssetRestorer-1.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 14
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: Scandal-Scandals_Tweaks
+  authorName: Scandal
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Scandal/Scandals_Tweaks/
+  displayName: Scandals_Tweaks
+  description: General all-purpose tweaks
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1791618808821
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 9
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: Scandal-ScandalLib
+  authorName: Scandal
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Scandal/ScandalLib/
+  displayName: ScandalLib
+  description: A library containing useful scripts for use in my works
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1791618809022
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+    - mattymatty-MonkeyInjectionLibrary-1.0.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 24
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: Glojam-Company_Hauler
+  authorName: Glojam
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Glojam/Company_Hauler/
+  displayName: Company_Hauler
+  description: Adds a 5-seater pickup truck to the terminal
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1791618808874
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+    - IAmBatby-LethalLevelLoader-1.7.12
+    - Rune580-LethalCompany_InputUtils-0.7.13
+    - Scandal-ScandalLib-1.0.24
+    - Scandal-Scandals_Tweaks-1.4.9
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 36
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: SylviBlossom-TerminalConflictFix
+  authorName: SylviBlossom
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/SylviBlossom/TerminalConflictFix/
+  displayName: TerminalConflictFix
+  description: Narrows down terminal conflicts if more letters match one word than another
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1790255352481
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 2
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: Bobbie-UniTask
+  authorName: Bobbie
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/
+  displayName: UniTask
+  description: Provides an efficient allocation free async/await integration for Unity.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1790255352648
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 5
+    patch: 0
+  enabled: true
+  onlineSource: true
+  trustedPackage: false
+- manifestVersion: 1
+  name: Scandal-Vandal_Electronics_Scanvan
+  authorName: Scandal
+  websiteUrl: >-
+    https://thunderstore.io/c/lethal-company/p/Scandal/Vandal_Electronics_Scanvan/
+  displayName: Vandal_Electronics_Scanvan
+  description: YOUR KEYS ARE IN THE IGNITION.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1791618808848
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2305
+    - Bobbie-NAudio-2.2.2
+    - Bobbie-UniTask-2.5.0
+    - Evaisa-FixPluginTypesSerialization-1.1.4
+    - IAmBatby-LethalLevelLoader-1.7.12
+    - Rune580-LethalCompany_InputUtils-0.7.13
+    - Scandal-ScandalLib-1.0.24
+    - Scandal-Scandals_Tweaks-1.4.9
+    - SylviBlossom-TerminalConflictFix-1.2.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 9
+    patch: 31
+  enabled: true
+  onlineSource: true
+  trustedPackage: false

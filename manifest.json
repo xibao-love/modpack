@@ -1,0 +1,4715 @@
+{
+  "version": "0.1",
+  "files": [
+    {
+      "path": ".doorstop_version",
+      "size": 5,
+      "sha256": "75a2f501000d4fe28f74bc7ee66dae5581959d28b6c44f0c1b0c05cd5ba261e6"
+    },
+    {
+      "path": "doorstop_config.ini",
+      "size": 1460,
+      "sha256": "4d5c6dfa0f771c6a5b1b0c559aca0bd0ece7d08b08fff894708dc3b73ce73cfc"
+    },
+    {
+      "path": "mods.yml",
+      "size": 72726,
+      "sha256": "577b7e1a821906d96e8410d80c5f5a27ea9142382561eea106de8bd503909192"
+    },
+    {
+      "path": "winhttp.dll",
+      "size": 26112,
+      "sha256": "8c6cdbc38836dee87e3368f5de1994d7c0ccebf29e4ce7aba3c0981f9375412c"
+    },
+    {
+      "path": "BepInEx/LogOutput.sqlite",
+      "size": 33394688,
+      "sha256": "079c3facf1a6ca07c924f3b2a53ebfa07786c5156174a59581f0a88ea632efa0"
+    },
+    {
+      "path": "BepInEx/LogOutput.sqlite-shm",
+      "size": 32768,
+      "sha256": "fd7e371f62512967609042f63caec4108c2d89bdd8b45012aad61546723cbb86"
+    },
+    {
+      "path": "BepInEx/LogOutput.sqlite-wal",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "BepInEx/LogOutput.sqlite.1",
+      "size": 104538112,
+      "sha256": "2975939126a0d278f9c9ef54b6782639e8a7faf6bb365d9a418dff2346186b99"
+    },
+    {
+      "path": "_state/installation_state.yml",
+      "size": 17,
+      "sha256": "12f8872c01c7714018d46aa0b31e18e69197dc84ba34989564d4de227b2b957f"
+    },
+    {
+      "path": "BepInEx/config/.LCMaxSoundsFix.cfg",
+      "size": 621,
+      "sha256": "0093bae709cec57fd3f4f3bc5af22231b16944a666768e7ecf879430693f73a2"
+    },
+    {
+      "path": "BepInEx/config/AudioKnight.StarlancerAIFix.cfg",
+      "size": 374,
+      "sha256": "c24186ba7fd1a703aacf228b999ee22364109b320effa3d634d84c6fe44edbc6"
+    },
+    {
+      "path": "BepInEx/config/AutoHookGenPatcher.cfg",
+      "size": 671,
+      "sha256": "a4fe9898425531dc195138137c2bd018734399e0b79f64c8448730782d921e1a"
+    },
+    {
+      "path": "BepInEx/config/BepInEx.cfg",
+      "size": 5529,
+      "sha256": "5b32b49399ce6cf09917ef32cf6cfdc85c2e3123a1975af069f4bbe6a1d835df"
+    },
+    {
+      "path": "BepInEx/config/BlueAmulet.LogNeuter.cfg",
+      "size": 588,
+      "sha256": "c7424fc079cb5772eda0d916d722d54946f4a320dabc7a9bf148653a955045dc"
+    },
+    {
+      "path": "BepInEx/config/butterystancakes.lethalcompany.butteryfixes.cfg",
+      "size": 4798,
+      "sha256": "dc9849755f9494f08c20dde4b14496283516f52bca91a465a25aa17ee01b52db"
+    },
+    {
+      "path": "BepInEx/config/butterystancakes.lethalcompany.enemysoundfixes.cfg",
+      "size": 2108,
+      "sha256": "f5677d1884f6900915f4bbd57609a194df15a7fc047e0e8f7bb792e46c797cf4"
+    },
+    {
+      "path": "BepInEx/config/butterystancakes.lethalcompany.maskfixes.cfg",
+      "size": 2559,
+      "sha256": "a44ba9a4423c16c4b86178d92553f0cca5addd014286238de80c853a9214f598"
+    },
+    {
+      "path": "BepInEx/config/ChuxiaFixes.cfg",
+      "size": 1088,
+      "sha256": "28660c04e015471254446e7b2253b7fb7cfa12b03f504e8c2defbf35b2f67b63"
+    },
+    {
+      "path": "BepInEx/config/com.aoirint.SkipDropshipCompany.cfg",
+      "size": 587,
+      "sha256": "e40cf97d0af38b037239dc8c215549671be476af3a55f59c663ec90c5adc19d8"
+    },
+    {
+      "path": "BepInEx/config/com.fumiko.CullFactory.cfg",
+      "size": 5759,
+      "sha256": "fb7371963783db3b9b520c783b85189e01a5f25238513ed8efdccb48bcc54293"
+    },
+    {
+      "path": "BepInEx/config/com.github.teamxiaolan.dawnlib.cfg",
+      "size": 6762,
+      "sha256": "1d2b2997941e11bc16a3decd585458d3b8303e90ac2e42ea38de969ae471ef2f"
+    },
+    {
+      "path": "BepInEx/config/com.github.tinyhoot.ShipLoot.cfg",
+      "size": 289,
+      "sha256": "973629da1628bde38dd8032466133f8ce1dd10f8e56bb31893d77613959923f0"
+    },
+    {
+      "path": "BepInEx/config/com.github.zehsteam.Hitmarker.cfg",
+      "size": 1311,
+      "sha256": "d6e23884f8253ddb3084d4302c557c90d8136f3f453d4826eb293a5e59a1b263"
+    },
+    {
+      "path": "BepInEx/config/com.github.zehsteam.RemoveInteriorFog.cfg",
+      "size": 2176,
+      "sha256": "852e6e6dbbf4c0d5272e17b423a829623775c85af5b6d49bf8c2821a040a64a4"
+    },
+    {
+      "path": "BepInEx/config/com.github.zehsteam.SellMyScrap.cfg",
+      "size": 4931,
+      "sha256": "f9c13061454c3c297ac41b7b754da4670c946a56ff2ab0745bb5aafeb2165768"
+    },
+    {
+      "path": "BepInEx/config/com.rune580.LethalCompanyInputUtils.cfg",
+      "size": 688,
+      "sha256": "db7ad4873157749b3542ebc3b0e06038e0882e88d4ef8de193c5301f8d42dd5f"
+    },
+    {
+      "path": "BepInEx/config/dev.bobbie.fixrpclag.cfg",
+      "size": 453,
+      "sha256": "9efb8d0390e03f024ccf277061b179d15f113f38f0db05008c8c778343d67d55"
+    },
+    {
+      "path": "BepInEx/config/dev.ladyalice.dungenplus.cfg",
+      "size": 314,
+      "sha256": "cfb05e2019b83d0d6e3b22b88a78b3f9ae295ab77fc0c6198d21291d374807c2"
+    },
+    {
+      "path": "BepInEx/config/evaisa.lethallib.cfg",
+      "size": 498,
+      "sha256": "c7f8cd49354335d63601cfd6d2161fdec463804c22c3c79f093e3367e1e8172b"
+    },
+    {
+      "path": "BepInEx/config/FixPluginTypesSerialization.cfg",
+      "size": 2435,
+      "sha256": "0a4816065effdef7da5130b25a7da58721807eb742517303be98ede2eb52ef76"
+    },
+    {
+      "path": "BepInEx/config/FlipMods.TooManyEmotes.cfg",
+      "size": 12859,
+      "sha256": "38b0f23b076560ee1a1de5e082aebf4ed23e021fc0f6287d53501266a07a7768"
+    },
+    {
+      "path": "BepInEx/config/GameTranslator.cfg",
+      "size": 2138,
+      "sha256": "9cd4791fd15037833dfd0dd017d934976c64bbdb8c5ec350bce79c04eda6a741"
+    },
+    {
+      "path": "BepInEx/config/glojam.CompanyHauler.cfg",
+      "size": 436,
+      "sha256": "3aa6af9c8befaee57b20ea0961bfdb27ef94dd423c0f87150b01852a508f4e7e"
+    },
+    {
+      "path": "BepInEx/config/HookGenPatcher.cfg",
+      "size": 500,
+      "sha256": "99e029c170499e5655f189ea5c36e12c8449b8ca29e1b6880107ed5c749d34ed"
+    },
+    {
+      "path": "BepInEx/config/JacobG5.JLL.cfg",
+      "size": 383,
+      "sha256": "3cd61546347d2685407a74d9fb7be5990149f4a8bc523aaa2f54a6c035209e7e"
+    },
+    {
+      "path": "BepInEx/config/JacobG5.ReverbTriggerFix.cfg",
+      "size": 574,
+      "sha256": "3ea067a77454a88e742ff5d94aecdf3e80b82d239b22bd65613ab04071be74bc"
+    },
+    {
+      "path": "BepInEx/config/LethalError.cfg",
+      "size": 323,
+      "sha256": "dca3f21e2af60ab0b7c1a82ee4a3011237b022ffb114123d3bdf7f69a896c1d2"
+    },
+    {
+      "path": "BepInEx/config/LethalLevelLoader.cfg",
+      "size": 205743,
+      "sha256": "0f52308cb5c7ad75c0c962ba12af20cc2eb2ab453e6141222d30021eb04c86ff"
+    },
+    {
+      "path": "BepInEx/config/LethalPerformance.cfg",
+      "size": 1610,
+      "sha256": "67650e901d39ce2d130c6fe56f898718ec2239d16eb5e8d56254a33b09efaf5e"
+    },
+    {
+      "path": "BepInEx/config/LethalPresents.cfg",
+      "size": 2316,
+      "sha256": "58d61da4f85b535e8a36a427b6573609a47b7bddfb8a9d92495a9c35f5419b15"
+    },
+    {
+      "path": "BepInEx/config/Lethal_Nuke.cfg",
+      "size": 470,
+      "sha256": "0a0f91417c0aa674f81a0afe19443c34aaef6448b3b44c6625721e475b950371"
+    },
+    {
+      "path": "BepInEx/config/LoadAllLobby.cfg",
+      "size": 689,
+      "sha256": "6f19625d86fea6cdb359242f5e96ab95dc7bfee55fb983e3147cb9ce4fd4a7f8"
+    },
+    {
+      "path": "BepInEx/config/LoadingInfo.cfg",
+      "size": 388,
+      "sha256": "2eb6f3becb82eb6d44fb85554cec64052221622bc83fd09387a41483c9a98129"
+    },
+    {
+      "path": "BepInEx/config/mattymatty.EntranceTeleportOptimizations.cfg",
+      "size": 1056,
+      "sha256": "f1bd3c386ddaa1d585b7811813535ce4ed60bca9b72bc3326a483c434f4e9da5"
+    },
+    {
+      "path": "BepInEx/config/me.eladnlg.customhud.cfg",
+      "size": 1664,
+      "sha256": "f1f00ad7b987e9ebefd4244e01de29f73075e863346cfadc0f72fe7954c54d48"
+    },
+    {
+      "path": "BepInEx/config/me.loaforc.facilitymeltdown.cfg",
+      "size": 2833,
+      "sha256": "239603664673fca77492e05d29c895ee79ed59e194515ff615356e990c6b875f"
+    },
+    {
+      "path": "BepInEx/config/me.loaforc.facilitymeltdown.Client.cfg",
+      "size": 1201,
+      "sha256": "b922d89b8514c68bce6a61c43b2cc8f45301fad6aec664b51dd3de108014bb3c"
+    },
+    {
+      "path": "BepInEx/config/me.swipez.melonloader.morecompany.cfg",
+      "size": 1061,
+      "sha256": "abf9c282ec67a875ad6c0491fdfa58bba67708ef225e0d65bfc056044f281e6a"
+    },
+    {
+      "path": "BepInEx/config/Mirage.Enemies.cfg",
+      "size": 2324,
+      "sha256": "6529cef803dacc1e5af8063e119869220fd8aafcf71ea7c7e4095886b1c6ad36"
+    },
+    {
+      "path": "BepInEx/config/Mirage.General.cfg",
+      "size": 4012,
+      "sha256": "848aff1818f6d4ff60bd277d915f5634ab309472c2d39344b9930c2a2484b1c8"
+    },
+    {
+      "path": "BepInEx/config/Mirage.Items.cfg",
+      "size": 9994,
+      "sha256": "f44d38d0a04e49f7f039dae4f389aafef35b07246893a439b8790cbd08bb483e"
+    },
+    {
+      "path": "BepInEx/config/MonkeyInjectionLibrary.cfg",
+      "size": 279,
+      "sha256": "f16a4dab562de4746402e56050a37560e4da0c41a6fd1423f889db95164e8106"
+    },
+    {
+      "path": "BepInEx/config/PizzaProbability.cfg",
+      "size": 39114,
+      "sha256": "48d5169cdc1d85eeea1fe5592f67b655ef6657eca1b5905f6b4c8f20f86ca658"
+    },
+    {
+      "path": "BepInEx/config/rectorado.KenjiLib.cfg",
+      "size": 319,
+      "sha256": "da9e37ca613784c01c6bc92a6419555550122029af96c2683720cc69f8337daf"
+    },
+    {
+      "path": "BepInEx/config/scandal.scandallib.cfg",
+      "size": 219,
+      "sha256": "771b083260fbd931b399ed89cbf3f0002c663d4aaf8d1fbb91fab567af0ec594"
+    },
+    {
+      "path": "BepInEx/config/scandal.scanvan.cfg",
+      "size": 1446,
+      "sha256": "d7b2045ee6a6b3ecab268569d74c9e302f7a611ff62def3446153c4756b04110"
+    },
+    {
+      "path": "BepInEx/config/ScienceBird.UniversalRadar.cfg",
+      "size": 90313,
+      "sha256": "2e07c7a406261d57a883ab862443c3ab14a7e762ee69bde6874672447ef68a96"
+    },
+    {
+      "path": "BepInEx/config/Skelaah.Skelaah's Wild Moons.cfg",
+      "size": 1798,
+      "sha256": "94170712cc74f74f6152902d73544134e9e6959861f5db1f0f253ff6e0489d2c"
+    },
+    {
+      "path": "BepInEx/config/SpectateEnemy.cfg",
+      "size": 3627,
+      "sha256": "67bab1af8775a74cf1646a70973b4a73e5faba6207528b4447f37994dc850d80"
+    },
+    {
+      "path": "BepInEx/config/Starlancer.Auralis.cfg",
+      "size": 2836,
+      "sha256": "fdca5cd73cfc5156e6c176bce07c007032d577d99f613b76231d4319bc7970ea"
+    },
+    {
+      "path": "BepInEx/config/Starlancer.Solace.cfg",
+      "size": 2798,
+      "sha256": "5dbc07763803c7ef0f8b52747252afefb38b9434d53770b1c95c353ceb0a9050"
+    },
+    {
+      "path": "BepInEx/config/Starlancer.StarlancerZero.cfg",
+      "size": 2971,
+      "sha256": "e6a0445af9ddc3391a27a8f39cc3db2979a6643ee60029711764bd074737e326"
+    },
+    {
+      "path": "BepInEx/config/Starlancer.Triskelion.cfg",
+      "size": 2930,
+      "sha256": "b28e26cd08ea91540763250c8bc3628d6c80cec1897bdddebc690cb446f3d453"
+    },
+    {
+      "path": "BepInEx/config/SylviBlossom.TerminalConflictFix.cfg",
+      "size": 355,
+      "sha256": "baed4825563ab91d3bd9ef833967fb29ff8a378d06489b9295354aa3d615958c"
+    },
+    {
+      "path": "BepInEx/config/taffyko.BetterSprayPaint.cfg",
+      "size": 4154,
+      "sha256": "685b5b92d6fef0f93f83656a2bc603bd765697644b0e49e424105cdf0cbfd733"
+    },
+    {
+      "path": "BepInEx/config/TalkingHeads.cfg",
+      "size": 302,
+      "sha256": "1fd0885de127c0b8205cc16b60d1423c9c4192767eac98a45e1fed6b0373bfb0"
+    },
+    {
+      "path": "BepInEx/config/TooManySuits.cfg",
+      "size": 414,
+      "sha256": "d75e104283682de1a48c6cc9db326c0a1d7aa22dc78d811100c687d87537c7b5"
+    },
+    {
+      "path": "BepInEx/config/viviko.BunkbedRevive.cfg",
+      "size": 1361,
+      "sha256": "b3cd7cbc77ec619785f66f8f1d0f8d9197b3fcdb10754fff92ee0500732f1551"
+    },
+    {
+      "path": "BepInEx/config/x753.More_Suits.cfg",
+      "size": 1244,
+      "sha256": "417406c38f01410a99031527fe786cc959d07905ac60b8ad7edbec36d99204f3"
+    },
+    {
+      "path": "BepInEx/config/XuuXiaolan.ReXuvination.cfg",
+      "size": 261,
+      "sha256": "a9d1a9df9cfca6bdf73e5a11c9da2df304a4c903445f7aef393a868c1bd607d6"
+    },
+    {
+      "path": "BepInEx/config/Zaggy1024.PathfindingLagFix.cfg",
+      "size": 656,
+      "sha256": "e4cf182d47021ead1d7f7a3b176bb031efde5a9b056639aa9f7592731085c8bd"
+    },
+    {
+      "path": "BepInEx/config/Zaggy1024.PathfindingLib.cfg",
+      "size": 348,
+      "sha256": "a0d5c72c4f5c7d27cc7620fe236b743228af32b553d7f7335064e6cec60baf85"
+    },
+    {
+      "path": "BepInEx/core/0Harmony.dll",
+      "size": 204800,
+      "sha256": "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031"
+    },
+    {
+      "path": "BepInEx/core/0Harmony.xml",
+      "size": 267107,
+      "sha256": "d1f02fc3ada3a13da307de421225bfe56ebe24064370980979391c4be021672f"
+    },
+    {
+      "path": "BepInEx/core/0Harmony20.dll",
+      "size": 112640,
+      "sha256": "c755a5ab2712915a32f9a850d580a8c1b70ff1653bc76600f2767aa8ffccc663"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.dll",
+      "size": 128512,
+      "sha256": "8255b28902886085c578b9e427d3073c97002db85176d2090cdeda90ef14ce70"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Harmony.dll",
+      "size": 6656,
+      "sha256": "00c8f2ac48593e4d45ce4eb26ce4e68b18113c5c489b38b8bf0850f65830d601"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Harmony.xml",
+      "size": 4056,
+      "sha256": "a04fedf08f7c81f5d01aba6f2840a7ffce50b79bbd24587d8dbe69ab73971d29"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Preloader.dll",
+      "size": 43008,
+      "sha256": "55d3895351a9d16b63b6f35f1c01b44ac650979e853d0bd3a442b92a082af64f"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Preloader.xml",
+      "size": 7964,
+      "sha256": "33275b2783b7b99495a02c098ee86d6a9a2783e884a5c9369021f20c94cf99e7"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.xml",
+      "size": 89835,
+      "sha256": "7ba2266061b9f8a9f146218a312bfdd0d7f2b53a99a7e66c957215c6b66ca0d7"
+    },
+    {
+      "path": "BepInEx/core/HarmonyXInterop.dll",
+      "size": 23552,
+      "sha256": "7ce1342d3afa0334b59a3e38c0aed15e162b9abe9d46f95f34be44af47f3b493"
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.dll",
+      "size": 339456,
+      "sha256": "7ae470288fff4a402899c254d0a76cefef55877f5c54f96e83c797cc5bb6e2f6"
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Mdb.dll",
+      "size": 43008,
+      "sha256": "5896d1898f616701fff18f3b2c71e6b844d2390ef9f41e1c5fccce8cb27c698e"
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Pdb.dll",
+      "size": 86528,
+      "sha256": "174db44a067f58561510af746f3caeb032037762c57a31c8d9ee32db25174984"
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Rocks.dll",
+      "size": 27648,
+      "sha256": "54ac539fb5ddc8b44c0e9acd0fcb7324f89d1a072edf8ebc1b06dd691e3d3927"
+    },
+    {
+      "path": "BepInEx/core/MonoMod.RuntimeDetour.dll",
+      "size": 105984,
+      "sha256": "40e49bb314391cd7bddc2644f8553eeba92c194b940836b103df16955c464e0c"
+    },
+    {
+      "path": "BepInEx/core/MonoMod.RuntimeDetour.xml",
+      "size": 9414,
+      "sha256": "54887808960d156550b37d602d08847607aa9e908d039f2765fb0b5e79394aa4"
+    },
+    {
+      "path": "BepInEx/core/MonoMod.Utils.dll",
+      "size": 187904,
+      "sha256": "9d1495f147ac93c4f81f84538c1a326e8f8a6aefc78d6289d798f3ce1162c5e9"
+    },
+    {
+      "path": "BepInEx/core/MonoMod.Utils.xml",
+      "size": 78973,
+      "sha256": "0577b362023a3432d6e8d7934c5eddc3e08fdbb19e191af083e341562c5ede38"
+    },
+    {
+      "path": "BepInEx/plugins/AutoRechargeMod.dll",
+      "size": 7680,
+      "sha256": "557556555aeaa531b0cba5dd68d9542e897707d6ed56d86ae03a5226405dba5b"
+    },
+    {
+      "path": "BepInEx/plugins/ShipItemCounter.dll",
+      "size": 10752,
+      "sha256": "1583ba8831606c25cdd8974f8b9c59dc818f0a44aa4acfddfe0750eed53e8921"
+    },
+    {
+      "path": "BepInEx/plugins/Alice-DungeonGenerationPlus/CHANGELOG.md",
+      "size": 1902,
+      "sha256": "c8edd6c0bf7d49d542b036b960b22168dfa2ba46d35955914648ae9b928e0ae1"
+    },
+    {
+      "path": "BepInEx/plugins/Alice-DungeonGenerationPlus/DunGenPlus.dll",
+      "size": 871424,
+      "sha256": "d6a437943ca536cc79a057308c9d2035d75b1f315336642da03800ffed945e13"
+    },
+    {
+      "path": "BepInEx/plugins/Alice-DungeonGenerationPlus/icon.png",
+      "size": 70943,
+      "sha256": "b251b37255e8c7b3554f89411bcf84b5142c47decd3b40b119509361e38d8772"
+    },
+    {
+      "path": "BepInEx/plugins/Alice-DungeonGenerationPlus/LICENSE",
+      "size": 1078,
+      "sha256": "94baf75319cecb509758ce01488a3b751e3e6fdcf73b481d0e4da7f393ad4f04"
+    },
+    {
+      "path": "BepInEx/plugins/Alice-DungeonGenerationPlus/LICENSE.txt",
+      "size": 18545,
+      "sha256": "33d3b1685796252291023afe844cbfec8959c76f1875b1c487d0792c7380243b"
+    },
+    {
+      "path": "BepInEx/plugins/Alice-DungeonGenerationPlus/README.md",
+      "size": 2202,
+      "sha256": "01ee1b0885eb0c45e84c150e3bdab5a499c0fa4d84de2feecc8b8e9d037fb299"
+    },
+    {
+      "path": "BepInEx/plugins/aoirint-SkipDropshipCompany/CHANGELOG.md",
+      "size": 6862,
+      "sha256": "76b1c0a18d6f2476641703c534610a781bbb1a7b7490ef962cbdb15df8f89f46"
+    },
+    {
+      "path": "BepInEx/plugins/aoirint-SkipDropshipCompany/com.aoirint.SkipDropshipCompany.dll",
+      "size": 35328,
+      "sha256": "4852644086c73d4dfadd7a246806090b8a30db68f2efb8114c3aa2b838e97199"
+    },
+    {
+      "path": "BepInEx/plugins/aoirint-SkipDropshipCompany/icon.png",
+      "size": 11742,
+      "sha256": "4e9e29b7a16e7bf93bb556558fe417fa394cb21b65558c1bba67647c9c47fa54"
+    },
+    {
+      "path": "BepInEx/plugins/aoirint-SkipDropshipCompany/LICENSE",
+      "size": 1085,
+      "sha256": "1fb79ced146d20423df82ebae13c27cfe80435d5c3ffd58329634d2096d327fd"
+    },
+    {
+      "path": "BepInEx/plugins/aoirint-SkipDropshipCompany/README.md",
+      "size": 6519,
+      "sha256": "f3806c009863fa13fd40415cd4c228495bd15e0ed779b1af8689d26a0f24d7ee"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Auralis/auralismainassets.duskmod",
+      "size": 7003,
+      "sha256": "57c328046cdfcbf55efb6c5b45fe756146da264a87277a901a3a5c55c33dd8a4"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Auralis/CHANGELOG.md",
+      "size": 269,
+      "sha256": "937d6d536a456997f55844bfae4a30e2937b3d0c0e458031dcf7de245882726a"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Auralis/icon.png",
+      "size": 8024,
+      "sha256": "3e70230e7467f45316e9e3f60e32ddac959b989bf46fcfbbea932a324718d9fd"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Auralis/README.md",
+      "size": 1395,
+      "sha256": "5f83f6ae1433d92d2d9cd51ad813ea0f36f8edcb32e4110c5ae3b33aa66874e8"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Auralis/StarlancerAuralisPlugin.dll",
+      "size": 6656,
+      "sha256": "cb3eeb0f17aa3f851b75bc83a343f00008b84e0e65ef16012a23330e0f437b18"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Solace/CHANGELOG.md",
+      "size": 640,
+      "sha256": "0f9ae0e1a7198b8f8f344d1f1db5b1a4bad9e5fd825af30dd7ec323545fe11ef"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Solace/icon.png",
+      "size": 8114,
+      "sha256": "9c258e569478d4818d00aba8f9f2ebfd1928da0279404686852c6c168d654a75"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Solace/README.md",
+      "size": 773,
+      "sha256": "17d5506753a55365a29718827a6a2f1e998a2bcaa606d584a4a5add7d29700a9"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Solace/solacemainassets.duskmod",
+      "size": 7130,
+      "sha256": "a7f98ee2c9e8a8958b0ce5deed29127b6c54db9f2e434a7e5bd23146f9b00d0a"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-StarlancerAIFix/CHANGELOG.md",
+      "size": 6428,
+      "sha256": "e5c52ca5f025d16eb3141f2cb573ab640fac6cdb933d75f0332c713ed9bc56ee"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-StarlancerAIFix/icon.png",
+      "size": 85070,
+      "sha256": "3d1f3ad2c5f327a0b19758634c1e0aa0c02e6c45b9c35dc2b493174b047e3b7c"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-StarlancerAIFix/README.md",
+      "size": 1105,
+      "sha256": "0f85cb9b783cb2493843424a6e6cdc6eb1367b97b46614077833bfbfe42ac39b"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-StarlancerAIFix/StarlancerAI.dll",
+      "size": 35840,
+      "sha256": "b517507b4acaabdfccf02e9b48ed13bc948cd7ca8f7c3374aed9d93e3cd37d99"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-StarlancerMoons/CHANGELOG.md",
+      "size": 26864,
+      "sha256": "3faa97af537e7f0c000c79b4cc80f65fd38fb1c165135cf90262c341d0168b2e"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-StarlancerMoons/icon.png",
+      "size": 25259,
+      "sha256": "aaebcfa643127600e20747a5e06b7c3373ac174002813339750c973d041fc1c7"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-StarlancerMoons/README.md",
+      "size": 5244,
+      "sha256": "5b2395b54deccbadaaacc384022ca8e39a82208ea5cee8ac997d9683c8e94d02"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-StarlancerZero/CHANGELOG.md",
+      "size": 246,
+      "sha256": "01f0e1bd86494ebb9dc58dd1cf30b1040885a158d36140b4304bf3d3cdae9745"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-StarlancerZero/icon.png",
+      "size": 5018,
+      "sha256": "9b4784b2c1dc7f27620edd41d492e6e45ff393385f09d5812a684ac316d08204"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-StarlancerZero/README.md",
+      "size": 883,
+      "sha256": "1c13756e06c9cd041f000a757630ba3cba102babfa8812c77265ce8ca3826c93"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-StarlancerZero/starlancerzeromainassets.duskmod",
+      "size": 5857,
+      "sha256": "fb122e378c8df939c2587c7c2186b073ba48029a128b8de6194c4a37ad0f4835"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-StarlancerZero/StarlancerZeroPlugin.dll",
+      "size": 6144,
+      "sha256": "32f1f8f7019b744912a0b1df7790135b4434b4a1997071bbe2b589ea489a986f"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Triskelion/CHANGELOG.md",
+      "size": 372,
+      "sha256": "786c8380a31667cfeef58822ee0ee78c24de5679ddb5dc06228dfaa1b93e8cc4"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Triskelion/icon.png",
+      "size": 9287,
+      "sha256": "99d43123c4116065587ae1adfe9fabbbf37560cdf1f1a90196cd208a37f8c82d"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Triskelion/README.md",
+      "size": 1099,
+      "sha256": "ca9650e6abc851ecbbf452cbc78574ee539f6667e9dd3c34c9fc964a19559643"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Triskelion/triskelionmainassets.duskmod",
+      "size": 7674,
+      "sha256": "343171383c7f7b26ec2b0458536b3f97948981c39051093fd7c7e0db9ca510ab"
+    },
+    {
+      "path": "BepInEx/plugins/bcs4313-Lethal_Nuke/bcs_lethal_nuke",
+      "size": 1795757,
+      "sha256": "e899e3c0c52428c776f13b8d1cca87736d95dc42ebd9f3ed058d8cc250e918a5"
+    },
+    {
+      "path": "BepInEx/plugins/bcs4313-Lethal_Nuke/icon.png",
+      "size": 51713,
+      "sha256": "fd9148b10044f2de3839b8e44f5cd06470bcceb314550eb8d8f8c58df573e278"
+    },
+    {
+      "path": "BepInEx/plugins/bcs4313-Lethal_Nuke/Lethal_Nuke.dll",
+      "size": 33792,
+      "sha256": "4356a58915a55f072a2df6ca1b456f8f4b1cb9fbc0d4844c7787c6cec6b7697f"
+    },
+    {
+      "path": "BepInEx/plugins/bcs4313-Lethal_Nuke/README.md",
+      "size": 1414,
+      "sha256": "85a9d01b03f32a5d4a3e553d296e13186df6f45f5a32669ef7cb67066e158abf"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/52-desperation.lethalbundle",
+      "size": 2682653,
+      "sha256": "5bac93fe9793c4250e7cb78c77e12a982b15d01b8303bbf72297ea6928d237bc"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/52-desperationscene.lethalbundle",
+      "size": 26730582,
+      "sha256": "842d65e67fcf8f9046107624b6aa6c9187cf01e2050b51a7cff64fed2f905e7c"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/atrophymod.lethalbundle",
+      "size": 1780296,
+      "sha256": "a6e77db730c3f7f72ddac7c4dda816338032d6a30315a2e9cdff0ef2dbc8b878"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/atrophyscene.lethalbundle",
+      "size": 27621201,
+      "sha256": "683d57e2c9ce781bd7512642b6323674b140f2891d63a5b377e21e3981d81815"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/CHANGELOG.md",
+      "size": 6898,
+      "sha256": "a989a174fcf080a7f64bfa8b838728f34205bb4218960281f67fc3c0ebd5c1eb"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/halcyonmod.lethalbundle",
+      "size": 420233,
+      "sha256": "9bb6d888afeea2c216f51bbdc53fcc3508e45dc7b21db19ab34335e923204e25"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/halcyonscene.lethalbundle",
+      "size": 17555048,
+      "sha256": "0158b43a521947c80a884dd3f09b7c25b2e45f1896c9be5757324ffa7de7d22f"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/icon.png",
+      "size": 127463,
+      "sha256": "9039d8aaf951faa3dac36774a929688c5f09152a44cf86bd390f26b1eec6d0f8"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/ingressmod.lethalbundle",
+      "size": 519099,
+      "sha256": "78333ea3d61bec5007069dc36939ba365ab9c7dbd5f64c0fc6bd3d0fed5cb65b"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/ingressscene.lethalbundle",
+      "size": 31466832,
+      "sha256": "33085f92c4fa1e0806f01c9c804087726ad7a489878dad18e0a975a3d4cbe98e"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/interventmod.lethalbundle",
+      "size": 642144,
+      "sha256": "20ce37cdb6bd7922513c2ab025429d6d4c299125652f51914b7e180c5094dd85"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/interventscene.lethalbundle",
+      "size": 23627944,
+      "sha256": "a87be4ac2c08d64fa5b2d8265eb9a72dea9786cf35e59b2d3c1f3eea2965d013"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/nephrite.lethalbundle",
+      "size": 407660,
+      "sha256": "8b5f5cc4aa35686c4487251ddee62c26a0aecb4ebea09ae90f0e7f9827604d67"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/nephritescene.lethalbundle",
+      "size": 18700365,
+      "sha256": "b0254210c027d46c31d1662ddddbc3268233c37e7a2dbff17aaba3951937e5ae"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/README.md",
+      "size": 4587,
+      "sha256": "85e24d16305d1fe762f189510b148ee53e87224c769cf8864b812adea99539e6"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/reignmod.lethalbundle",
+      "size": 2256429,
+      "sha256": "adef2bcb84f7b6332ea49dc9817189550662fc0306748e335814a7fe468e2da8"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/reignscene.lethalbundle",
+      "size": 34683417,
+      "sha256": "31b81c2e5e0a9afe9e001938b01a904bcdc8bbc028dffd48c4940cdece2b1aff"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/solitude.lethalbundle",
+      "size": 28681990,
+      "sha256": "649aa399c1dab5e385367913df5eaa584dfe222543c53225ad44a1a334bbae2d"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/solitudeextended.lethalbundle",
+      "size": 2252199,
+      "sha256": "937370979c469cf32deac5098a5dbc41caf99600cc8479ee5cc93b426bf2ba1f"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/symbiosismod.lethalbundle",
+      "size": 519277,
+      "sha256": "a6469bd69e965850056dbe8f851a6e31af3bc1c0c40633806ecc155bcd591af1"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/symbiosisscene.lethalbundle",
+      "size": 34410785,
+      "sha256": "c4b1966feba13f172bc1d9cbb16bf5724c83ca58dc64e1a8abd6d795cff2a62b"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/thallasicmod.lethalbundle",
+      "size": 518956,
+      "sha256": "2b2852838c1e38536771bdbb7f027d5e97f9f84f46aa6d7b1a5930fa2bb9fabe"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/thallasicscene.lethalbundle",
+      "size": 32539256,
+      "sha256": "ccaeed85dc456cdaa35520e401d74779cbfb30293fcce9b6fa1885b0cfda1c72"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/veldmod.lethalbundle",
+      "size": 379974,
+      "sha256": "be7736f3f15af7ce5d55c432794a7019d5d81c00211da0127357834153bdaea8"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanies_Moons/veldscene.lethalbundle",
+      "size": 47606133,
+      "sha256": "117edd94ed292fd4b37cae57ec30fe9b554692a7e5ad18906c7cd8e3f6132b3c"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanie_Lib/CHANGELOG.md",
+      "size": 2217,
+      "sha256": "48d01422e9dbccb2a1fb541f6e2c29113215124f268955268df2dfdbef7c4bbd"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanie_Lib/icon.png",
+      "size": 56471,
+      "sha256": "152588b486a44218ff8c04536f8494b97d7cc7617e982e4a9fc6a1e8eefe9764"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanie_Lib/LethalGravityControl.dll",
+      "size": 49152,
+      "sha256": "6d95757edf8e772474979ac191fd188beab9e361434e644d781e7729d2864324"
+    },
+    {
+      "path": "BepInEx/plugins/Beaniebe-Beanie_Lib/README.md",
+      "size": 10604,
+      "sha256": "5fec27a0edafc2a1f8b0df3bf2605b92e144dc4a2108fee169d852adab103f16"
+    },
+    {
+      "path": "BepInEx/plugins/BLB_Thunderstore_Mods_LOL-Lead_Interiors/boomsinterior.lethalbundle",
+      "size": 211023767,
+      "sha256": "425d1c34f7a9aeca09e75291982e631ab276214c92834ed5fdbb1ee0822db446"
+    },
+    {
+      "path": "BepInEx/plugins/BLB_Thunderstore_Mods_LOL-Lead_Interiors/CHANGELOG.md",
+      "size": 3437,
+      "sha256": "61403f8540e9377d52b39afa8047c2f17a496bbbfff77101da02ad0f10f4d48f"
+    },
+    {
+      "path": "BepInEx/plugins/BLB_Thunderstore_Mods_LOL-Lead_Interiors/icon.png",
+      "size": 94079,
+      "sha256": "6ceb75eef25ad36cd8cc273c57a142c66136a64866d7d015f0c2ece3894265ac"
+    },
+    {
+      "path": "BepInEx/plugins/BLB_Thunderstore_Mods_LOL-Lead_Interiors/README.md",
+      "size": 2483,
+      "sha256": "2a2581f155d30a3ae058fa4785a4c16f68d6e3ddadc2d2400dde5bd64aa88918"
+    },
+    {
+      "path": "BepInEx/plugins/BLB_Thunderstore_Mods_LOL-SpectreLib/CHANGELOG.md",
+      "size": 1387,
+      "sha256": "3460ec7db436378dbbfd06e574f515a52ff0034a7fe775ad4a9ebaf6ba7d5e40"
+    },
+    {
+      "path": "BepInEx/plugins/BLB_Thunderstore_Mods_LOL-SpectreLib/icon.png",
+      "size": 100010,
+      "sha256": "6a825b5d6e75d40947273dba98683ca35b4cb8ff31ddface5db885826fbb4ce4"
+    },
+    {
+      "path": "BepInEx/plugins/BLB_Thunderstore_Mods_LOL-SpectreLib/README.md",
+      "size": 1102,
+      "sha256": "13325b367055b56fa7223654ce26a7770a292348ec158180229e92d3fa76ba1f"
+    },
+    {
+      "path": "BepInEx/plugins/BLB_Thunderstore_Mods_LOL-SpectreLib/UhhSomething.dll",
+      "size": 847360,
+      "sha256": "de89efc71e4bf4b1d1585a950b1757b744dd1ffc27e32bef26d890d2a1eba53c"
+    },
+    {
+      "path": "BepInEx/plugins/BlueAmulet-LogNeuter/icon.png",
+      "size": 53487,
+      "sha256": "fa62f708bbac3bfce36c433f842a77c0f2f099a8b4d5648a302d527d5ed92296"
+    },
+    {
+      "path": "BepInEx/plugins/BlueAmulet-LogNeuter/LogNeuter.dll",
+      "size": 15360,
+      "sha256": "82db6ddbf3ecbfcfbdf33c5c9648c45cb20b153050d52d6679eedd4b806db4fa"
+    },
+    {
+      "path": "BepInEx/plugins/BlueAmulet-LogNeuter/README.md",
+      "size": 2772,
+      "sha256": "8c19779994cacba778f13a594c160fd2350e4eece3aa7e96974d920e88c67919"
+    },
+    {
+      "path": "BepInEx/plugins/Bobbie-FixRPCLag/FixRPCLag.dll",
+      "size": 6144,
+      "sha256": "bdca69b8d51c0467f403527fc153e889a1bb187baee337773ff9c2815c1fb9d2"
+    },
+    {
+      "path": "BepInEx/plugins/Bobbie-FixRPCLag/icon.png",
+      "size": 13249,
+      "sha256": "9997be21b46313096d61ec9c4c4ac76f9b5361b4d15893f2328b327562407ec6"
+    },
+    {
+      "path": "BepInEx/plugins/Bobbie-FixRPCLag/README.md",
+      "size": 441,
+      "sha256": "b830329f79679411744bc6018326331df9994135a39c60698353f4b36031d789"
+    },
+    {
+      "path": "BepInEx/plugins/Bobbie-NAudio/CHANGELOG.md",
+      "size": 78,
+      "sha256": "585ed13ef669ed37e82540da17a3e0520cdc9e3be113d2d35cf549b4e92ac0f1"
+    },
+    {
+      "path": "BepInEx/plugins/Bobbie-NAudio/icon.png",
+      "size": 5700,
+      "sha256": "db9eb77f7f71193ff9a6a340929d45663e4d3d28b73d23cce5f7aca85437cbcf"
+    },
+    {
+      "path": "BepInEx/plugins/Bobbie-NAudio/README.md",
+      "size": 554,
+      "sha256": "b2d0d2aaa97c68e9ca10b96948a29d572a16126948ce9f1fdc0911ef9d8306d4"
+    },
+    {
+      "path": "BepInEx/plugins/Bobbie-UniTask/icon.png",
+      "size": 3807,
+      "sha256": "d86924fa7b03314b1f0348063807408bd99909b8631bb11d50ecb2877a90c737"
+    },
+    {
+      "path": "BepInEx/plugins/Bobbie-UniTask/README.md",
+      "size": 1779,
+      "sha256": "7160e5190b5cc5e29284d2594ed827a9458bc8bbe0682e0afe31f94ea3b7fd9b"
+    },
+    {
+      "path": "BepInEx/plugins/BomBom-TalkingHeads/icon.png",
+      "size": 61874,
+      "sha256": "7de5f5687eb53e0754d5f6eabffec05c40643f6f65c8d791532c9f100bdab08a"
+    },
+    {
+      "path": "BepInEx/plugins/BomBom-TalkingHeads/README.md",
+      "size": 761,
+      "sha256": "4091fabd3d04af18fca188ba2e806e0db3d3b85c540971c4cc17b5bb6f827390"
+    },
+    {
+      "path": "BepInEx/plugins/BomBom-TalkingHeads/TalkingHeads.dll",
+      "size": 10752,
+      "sha256": "d0e195a3d65c723a69d0809b3d854b627eeff9a82f2330c359d54fa3dc9fdfe6"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-ButteryFixes/ButteryFixes.dll",
+      "size": 184320,
+      "sha256": "ebb7f94331bf06fe1488d6fae06f1ae77865628ff4ad668c7364fff7be864b6c"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-ButteryFixes/CHANGELOG.md",
+      "size": 46916,
+      "sha256": "ddb0a5f59a3383b8eb9a8b848640762b869111d0c88c7291538722b4542114cc"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-ButteryFixes/filmgrain",
+      "size": 1502,
+      "sha256": "d6b4734b1ac5b8a22bb92fd5cc16a65bb9dc4e05ff61a61cc55242ba0b016462"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-ButteryFixes/icon.png",
+      "size": 28192,
+      "sha256": "c18305511c9f57464fe38abc9029cf609ab3ceef8160c6b7db0a9775bb31f038"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-ButteryFixes/README.md",
+      "size": 7512,
+      "sha256": "a3cee5dccd4aa38091cdcd761688663ddcefdb7bb225b4f72bc56ba383be93e0"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-EnemySoundFixes/CHANGELOG.md",
+      "size": 11996,
+      "sha256": "2b55d728378877e0a4afc5f85bcd4abad1756239b9353082db9b1324aab1aeeb"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-EnemySoundFixes/enemysoundfixes",
+      "size": 90012,
+      "sha256": "9d9eb6972a124af0dd47d3915d34a01e32734b6336e5c67de765a638821a6a47"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-EnemySoundFixes/EnemySoundFixes.dll",
+      "size": 74752,
+      "sha256": "078e43b3775da0b2eeed76dc491fc872a7fc991cfe463fb0259902da3819445a"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-EnemySoundFixes/icon.png",
+      "size": 33674,
+      "sha256": "b98d90fd766b0eed882af1c6550bdbfc292d71de8642ba5860549abeb7cc9def"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-EnemySoundFixes/README.md",
+      "size": 8060,
+      "sha256": "81a9ec34c6322454a0b6264750414e56b97d4e79f6a3a8c357201a0df167a8a4"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-MaskFixes/CHANGELOG.md",
+      "size": 2261,
+      "sha256": "ab8b3618bbf9de1903c70c6834d6489fc06a97756c76812fc3fb129b0598bcb2"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-MaskFixes/icon.png",
+      "size": 70042,
+      "sha256": "6089cadc168271cb120254bf3926bf89de52a49f99078def186e2ff3a683bd4d"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-MaskFixes/MaskFixes.dll",
+      "size": 43008,
+      "sha256": "eebde01f5c0b7760248d826dcabf685d4e0b50d4fe0ee9c4e8c02c664a6d0e2b"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-MaskFixes/README.md",
+      "size": 8438,
+      "sha256": "c0a2cc66f8f38fdbded8da6f7738a4fc5c1e1de9fbd7fdd2785cd1de5b4da9f7"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-WeedKillerFixes/CHANGELOG.md",
+      "size": 586,
+      "sha256": "c12539ead6f0feb958770fbd435e56822b0bbdfb361a11430ac00c759f9f87f7"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-WeedKillerFixes/icon.png",
+      "size": 17673,
+      "sha256": "4c067dadac7b30682969a029c6ac0edaf4589e82d3cb8ce62fed322b38953a68"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-WeedKillerFixes/README.md",
+      "size": 568,
+      "sha256": "debc3cfe6eb3d4d3a1e3c0ea090f09e68f4a852a00df1bb1f3668812ee769a7d"
+    },
+    {
+      "path": "BepInEx/plugins/ButteryStancakes-WeedKillerFixes/WeedKillerFixes.dll",
+      "size": 17920,
+      "sha256": "c1becd23f6e18eff2b5f097ae8b53ce2bbd6764f132f8b50d31f62317a30d78d"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-ChuxiaFixes/CHANGELOG.md",
+      "size": 1009,
+      "sha256": "07cbf871768aa3f1b2e7e79570062fee3cf4322683699f59ef1bf599d784f9a1"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-ChuxiaFixes/ChuxiaFixes.deps.json",
+      "size": 18948,
+      "sha256": "5a7c43ee2d8c08cd6b96d4704c93b6592411efc56ca3004b23d24de7727b7844"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-ChuxiaFixes/ChuxiaFixes.dll",
+      "size": 38912,
+      "sha256": "32e5868c265c719bfb471f65a4b9b2e23f35260d58eec9350223a03ac7b6dd53"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-ChuxiaFixes/icon.png",
+      "size": 5771,
+      "sha256": "814e02b3d58edcd3155b347f1982b0bdc9025d7e17f0051e656b7ac10a4bad03"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-ChuxiaFixes/README.md",
+      "size": 2549,
+      "sha256": "250161111e18a033381b9a5204421c82fde5d38a9046fddc76bd6144f3d9cd0f"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-LethalError/CHANGELOG.md",
+      "size": 483,
+      "sha256": "71540cb9d4dc777b9a605f290ab807df57c9b89007480365d0c79ad494c4d541"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-LethalError/icon.png",
+      "size": 4169,
+      "sha256": "1577aec8d2e6b00bfdf3729dcc5e699b4398870d104009509f16d9a9c5912f24"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-LethalError/README.md",
+      "size": 932,
+      "sha256": "5487f8bfb9a68e6907666febedd203eba5f272696db2f330c30a863fe8f3ec0b"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-LoadAllLobby/icon.png",
+      "size": 6450,
+      "sha256": "22a7ffbff291da3fcb34f8c4555ad098661487140a3cdf0bf0e8c1e274907b91"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-LoadAllLobby/LoadAllLobby.dll",
+      "size": 16896,
+      "sha256": "583f3ea57886bb429422f39f44e73f2b867718278eb0a4c5ae54c1a19088b7a8"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-LoadAllLobby/README.md",
+      "size": 2412,
+      "sha256": "9ae39c98bb352ea90229ba1a41cd0675b205b59c388257cae47eeeee48c276f0"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-LoadingInfo/CHANGELOG.md",
+      "size": 1879,
+      "sha256": "d155409ee2b3329f01cb616d21e566cae194e2f538c77c3c743748c5a144af2d"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-LoadingInfo/icon.png",
+      "size": 69434,
+      "sha256": "4a3dc2f23345c4a6e4495f4b8475ca93effc3336402f20eedb35ba64ee91aa50"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-LoadingInfo/LoadingInfo.dll",
+      "size": 28672,
+      "sha256": "94c40f12699eead27701035a0741812e323c7ee9adf80e7de783b2b84f8b965d"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-LoadingInfo/README.md",
+      "size": 751,
+      "sha256": "2f49f044c3e6ea921cf2d0da9011f7f4fd923ae32f12680d234bb461256e0820"
+    },
+    {
+      "path": "BepInEx/plugins/DarthLilo-LevelMusicLib/CHANGELOG.md",
+      "size": 239,
+      "sha256": "b0daadaf55654910d5cee048abb9cddd7ceb1e3e12f00b8b1d864ac2399bd69d"
+    },
+    {
+      "path": "BepInEx/plugins/DarthLilo-LevelMusicLib/DarthLilo.LevelMusicLib.dll",
+      "size": 21504,
+      "sha256": "c55f11e08b030e159ce8a7fb80fd2229e01a23118a875e7f12f56af52fe03ecf"
+    },
+    {
+      "path": "BepInEx/plugins/DarthLilo-LevelMusicLib/icon.png",
+      "size": 31004,
+      "sha256": "bdab864f697934f7e7835265d330f4c17cae9355b779a2c849590c4caa3f27e8"
+    },
+    {
+      "path": "BepInEx/plugins/DarthLilo-LevelMusicLib/LICENSE",
+      "size": 7815,
+      "sha256": "f831e7eed577481687a9bc0b48024e5e40b6f655fcde073ede964b50be5d55d9"
+    },
+    {
+      "path": "BepInEx/plugins/DarthLilo-LevelMusicLib/README.md",
+      "size": 625,
+      "sha256": "d8cb3f935fa54c3551bf59779362bfac559ef43a86ae0e9d8804cf90f37d3559"
+    },
+    {
+      "path": "BepInEx/plugins/DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher/CHANGELOG.md",
+      "size": 3268,
+      "sha256": "20c483e5bd6ede429cbc475708fcf120a6b86f5266c10866f3661934bc8f1ade"
+    },
+    {
+      "path": "BepInEx/plugins/DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher/icon.png",
+      "size": 11104,
+      "sha256": "65699fb88ebc4b269a8eaa3c8fdb67bd355b65e6bd877e74816f360e78380de0"
+    },
+    {
+      "path": "BepInEx/plugins/DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher/README.md",
+      "size": 813,
+      "sha256": "1a78b3ee2e440b036e45444b1988f210ebbeb532cc17e08c512ec4b6e07e3f0a"
+    },
+    {
+      "path": "BepInEx/plugins/DiFFoZ-HarmonyXTranspilerFix/CHANGELOG.md",
+      "size": 701,
+      "sha256": "648d06205e405dfad87830b05bfd3cd50a66846ad8127697cef44b7946a421c8"
+    },
+    {
+      "path": "BepInEx/plugins/DiFFoZ-HarmonyXTranspilerFix/icon.png",
+      "size": 11084,
+      "sha256": "7578e658c63865a0644344e9b49cd44408c585e448ea2ba19d37201e3b60a8d9"
+    },
+    {
+      "path": "BepInEx/plugins/DiFFoZ-HarmonyXTranspilerFix/README.md",
+      "size": 539,
+      "sha256": "5ceb4b45074a773ba6bd6a75b5143147ccc45437e37071da5d586d6c64be914b"
+    },
+    {
+      "path": "BepInEx/plugins/DiFFoZ-LethalPerformance/CHANGELOG.md",
+      "size": 12480,
+      "sha256": "856e9343a8833ec02d6910d2f2982d4d88015cf3bec52aa688d9f58b069f4adc"
+    },
+    {
+      "path": "BepInEx/plugins/DiFFoZ-LethalPerformance/icon.png",
+      "size": 42381,
+      "sha256": "2b6666453c69b067efbc19389ef51e7e11bdedf504eb51737e54713ac4e4edcb"
+    },
+    {
+      "path": "BepInEx/plugins/DiFFoZ-LethalPerformance/README.md",
+      "size": 3796,
+      "sha256": "6699966b8f762551a4c24d4c4deb7e8a26fa7552e2b3d8cc205b08d8cc0f0a8d"
+    },
+    {
+      "path": "BepInEx/plugins/Drakorle-MoreItems/icon.png",
+      "size": 85150,
+      "sha256": "535bb9e9de99c045e7015b8a04ddc0962175a09caf9c77ac84c6b57e02b19772"
+    },
+    {
+      "path": "BepInEx/plugins/Drakorle-MoreItems/MoreItems.dll",
+      "size": 9728,
+      "sha256": "893be116c24f6daa858ee4b51ae24fa5595a686d2ef24ea88746b2cf8bf65565"
+    },
+    {
+      "path": "BepInEx/plugins/Drakorle-MoreItems/README.md",
+      "size": 1255,
+      "sha256": "f475305115d4750501c57c5e73712639c4d453f3b9eb6fba35f4148f87da716e"
+    },
+    {
+      "path": "BepInEx/plugins/Evaisa-FixPluginTypesSerialization/CHANGELOG.md",
+      "size": 399,
+      "sha256": "6d1b38389c9dffc315ac50ae4f8fa4940c38eac18894cbaefb8295982214d9ba"
+    },
+    {
+      "path": "BepInEx/plugins/Evaisa-FixPluginTypesSerialization/icon.png",
+      "size": 38384,
+      "sha256": "79198f9af5ddcea7d2dab25757e6c14118489fe5ed3396ce631fdf22d13ec878"
+    },
+    {
+      "path": "BepInEx/plugins/Evaisa-FixPluginTypesSerialization/README.md",
+      "size": 772,
+      "sha256": "e0bbd48693480095b0470d1e843ea77dedd311fd22dd1c98fde7f2bdf0bb1d6f"
+    },
+    {
+      "path": "BepInEx/plugins/Evaisa-HookGenPatcher/icon.png",
+      "size": 4535,
+      "sha256": "24c50d109cda4de62e36a5e178127599b131367e66b241ac646e8f79e1ca0d5a"
+    },
+    {
+      "path": "BepInEx/plugins/Evaisa-HookGenPatcher/README.md",
+      "size": 519,
+      "sha256": "05e82bd9742577aae0ea5b6e1f6a3c55b73ae23eec60d1045abb31e5c30a7b8f"
+    },
+    {
+      "path": "BepInEx/plugins/Evaisa-LethalLib/CHANGELOG.md",
+      "size": 7928,
+      "sha256": "21eeb9dc639bbd129507b8fe81b3b58fb43457e19224446a845dd7daf7406337"
+    },
+    {
+      "path": "BepInEx/plugins/Evaisa-LethalLib/icon.png",
+      "size": 5440,
+      "sha256": "dc8e31e378d0c379beb73bf78acc1d501a29259992d144c93dfa53a0b9a41e15"
+    },
+    {
+      "path": "BepInEx/plugins/Evaisa-LethalLib/LICENSE",
+      "size": 1063,
+      "sha256": "2b6167eee285ba2d4041c8da5ce3c5a818cdce0754eebeb634fa9c136b83d292"
+    },
+    {
+      "path": "BepInEx/plugins/Evaisa-LethalLib/README.md",
+      "size": 2819,
+      "sha256": "39710dbfa73e93d8199ee0d202ed9d734caf2cda206914adc020cc91fc504866"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/CHANGELOG.md",
+      "size": 43009,
+      "sha256": "af8939c01f83df0488332f736ea0a8f1d3390c2f1a8262ea2a19307074fc286b"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/icon.png",
+      "size": 76591,
+      "sha256": "abe49e7a6d7c82e41c1461210473bb08dfb667b604ce3b4d97a5569cd34effb2"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/README.md",
+      "size": 9858,
+      "sha256": "ecd25f2851f416fbd9ae8c92a3fe8db66472d0919ee6e3bef8aafa5a3acb332b"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/TooManyEmotes.dll",
+      "size": 224768,
+      "sha256": "d122e10e6eb942d001607b08f31f315f194ba9367f6437b749841473f5ac9131"
+    },
+    {
+      "path": "BepInEx/plugins/fumiko-CullFactory/CHANGELOG.md",
+      "size": 13411,
+      "sha256": "929d4412fa597615929147d5055c1a339d24345fc766d6c9cbb08d0b156d7b87"
+    },
+    {
+      "path": "BepInEx/plugins/fumiko-CullFactory/CullFactory.dll",
+      "size": 120832,
+      "sha256": "18d72dbfe68714045d7f0728920d7f83b104c65f20681072246af581d2d3de6d"
+    },
+    {
+      "path": "BepInEx/plugins/fumiko-CullFactory/CullFactoryBurstPlugin.dll",
+      "size": 26112,
+      "sha256": "27168f6ddfeac5f9fdffda65864792db7ad5f7cdfb026c47c5de3f3d9c15de85"
+    },
+    {
+      "path": "BepInEx/plugins/fumiko-CullFactory/icon.png",
+      "size": 13462,
+      "sha256": "2d8c49915cb8f45ffe937e13a1dd7739a62c54c62296028753e0e5869e165004"
+    },
+    {
+      "path": "BepInEx/plugins/fumiko-CullFactory/lib_burst_generated.data",
+      "size": 38400,
+      "sha256": "173f5d720048fc8af8733fa1e6694e84d42abda22e36069a39990be6fc37fff8"
+    },
+    {
+      "path": "BepInEx/plugins/fumiko-CullFactory/LICENSE",
+      "size": 1071,
+      "sha256": "302083afcb8840dd120bbfc94620c3507670699d3c264ffc5680cf7b4f4653a3"
+    },
+    {
+      "path": "BepInEx/plugins/fumiko-CullFactory/README.md",
+      "size": 4627,
+      "sha256": "91975ac25f3cae63bea25a46e46f9ad17605c38c363493d0b64f6ded42681b8a"
+    },
+    {
+      "path": "BepInEx/plugins/fumiko-CullFactory/version",
+      "size": 6,
+      "sha256": "c55c15e21f44ba198cc83edf0c67a20dee0817382aaea4b79d989ae3b915a42f"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Doorscript/CHANGELOG.md",
+      "size": 183,
+      "sha256": "3206342a2c4d290a66d7b313faf8265355d7ed8188d5ed41441d1f6f24acadd6"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Doorscript/GenericInteriorModifications.dll",
+      "size": 6144,
+      "sha256": "42c47af80146f243d1c8a102fd70bf4ddae8e3bb75ca2b501e2eebacdb58cbae"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Doorscript/icon.png",
+      "size": 129376,
+      "sha256": "4d131c0063507d79bf245b18461eae9a284aa8f7ffcf4df76182fd06ed1485df"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Doorscript/README.md",
+      "size": 1325,
+      "sha256": "691a5b9113e7216aa042de2f10b651e54aa9f4640c132e23d0d79c6e2e73889a"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/1load bearing awesome doohickey blaster.lethalbundle",
+      "size": 1285587,
+      "sha256": "650a5b319ce3df40f77cc3eed4ec3c69ae32eb6e1c5856527cf1aa018b4a99c5"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/CHANGELOG.md",
+      "size": 16958,
+      "sha256": "2214a5812568403f211d3cb42081d3595855941097627c7283c835631c46169f"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/generic interiors bunker.lethalbundle",
+      "size": 68697865,
+      "sha256": "a6058c3d32219e8d9d1af29b19e6a16e457c6760454f3b8fed9baea5c8fd931e"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/generic interiors dr and ss.lethalbundle",
+      "size": 40398050,
+      "sha256": "06d8c6db96d6481b409d7e656ee00027e0d6ae7661e3fc4f88f3d0bd62e61a72"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/generic interiors sh and br.lethalbundle",
+      "size": 66431332,
+      "sha256": "92ed05416722865c2ea1e6e55d762daeb6dc6ad12add8a116c535a240e61a985"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/generic interiors tower.lethalbundle",
+      "size": 40622577,
+      "sha256": "2ec32f82a779aa09b70381c1edcef97553841ebc41d653704af5ecddf9f8a0db"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/generic scrap bunker crowbar.lethalbundle",
+      "size": 373589,
+      "sha256": "eef30397e31f676dc71d5693a7e0d66dcaed3101053368b1d6b81cf52c650e47"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/generic scrap bunker general.lethalbundle",
+      "size": 1212849,
+      "sha256": "84c54e68a7be938b597ac50c5f3c5e8f75c31de000edbdff211a5eb85108c4e8"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/generic scrap bunker impact grenade.lethalbundle",
+      "size": 815696,
+      "sha256": "9c5b09856a04d0bc669b85970e1454734003ded0df1a9a2081c74c33af61c638"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/generic scrap bunker jammer.lethalbundle",
+      "size": 573945,
+      "sha256": "f0f67ab393655709cd73613977cbe3e0e95627537accb36bbc9dcc57ffcf67d1"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/generic scrap bunker military shotgun.lethalbundle",
+      "size": 1012708,
+      "sha256": "afd95afe8fc2b8d091acc7898396a04a68d32864a3c97588ea4f9376dca456ad"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/generic scrap bunker single shotgun.lethalbundle",
+      "size": 1012014,
+      "sha256": "18449197f619d1d719b60039cb0fc6d5ee1bd45642b5eec02ffaa0f20ba66bb9"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/generic scrap tower elevator key.lethalbundle",
+      "size": 373395,
+      "sha256": "e3b3b9a0b634129bfeb5ddc056a8888c9e956f38c9b9da76ed6bd3e7cfc1a1a7"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/icon.png",
+      "size": 33267,
+      "sha256": "dfd9d612df9a982e875d068a3719f8c500b8d8bae0623167c2a1ea5e3277d3b7"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/jll config generic interiors.lethalbundle",
+      "size": 2178,
+      "sha256": "8bf4f802e3cb973f00bcb773d36b6f19a67bd470c1a72d0eb050d05b99bae532"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-Generic_Interiors/README.md",
+      "size": 10644,
+      "sha256": "faf42b8ca3b0b51fed157e10460722f34644bccd8e4a9e3b746a65e574af40d5"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-ManuLib/CHANGELOG.md",
+      "size": 810,
+      "sha256": "5def2bb954b6397f8d9d1f9bbc3a43148a4b9002062e438b88002930196a03e7"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-ManuLib/icon.png",
+      "size": 16739,
+      "sha256": "fc4879740f6bbbcd7dd02a9d7aa4e76d27fbfee262db9949320ea422fe7e8cea"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-ManuLib/IconHighQuality.png",
+      "size": 55956,
+      "sha256": "8a9b2a8f5da6586f4afd5034c37ce5e8b41ed117e8820a10965a9050c8ac3d50"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-ManuLib/ManuLib.dll",
+      "size": 29696,
+      "sha256": "3b4d274e09a2d187a003e1fb9a06921d476fe9cfe208abce197ba5ce42604ffb"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-ManuLib/manulib_blue.png",
+      "size": 36867,
+      "sha256": "f77ff61d56e86677633e4ebe6da399fe6ba323853580549163c406cc88075ddc"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-ManuLib/manulib_gray.png",
+      "size": 29555,
+      "sha256": "03b58370e4b61e367d0d7068df8a0a4ba1c83f155c5a259c8009d83ee117c6e2"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-ManuLib/manulib_greeb.png",
+      "size": 27093,
+      "sha256": "6877a925013c1f840d4aae3f218d2c6ab2f1ffcdaaee2329c1bccbe3f62155ae"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-ManuLib/manulib_red.png",
+      "size": 33588,
+      "sha256": "8544b1a8f515dc6c758adf2427c689394d5d13b98fec28cc12f25aeb08e3e943"
+    },
+    {
+      "path": "BepInEx/plugins/Generic_GMD-ManuLib/README.md",
+      "size": 2216,
+      "sha256": "4c36565e54ba05ec1c8c5d4563854cda3f407c11261d64e640b7b01de7cc2601"
+    },
+    {
+      "path": "BepInEx/plugins/Ghostx10-Even_More_Suits/CHANGELOG.md",
+      "size": 94,
+      "sha256": "7479f40baabc058d559b253bcc6b5f11364a48525ce15cc975d4124c788b9096"
+    },
+    {
+      "path": "BepInEx/plugins/Ghostx10-Even_More_Suits/icon.png",
+      "size": 86628,
+      "sha256": "605a2a77bf5d8dc43726ce5e38d554e3f692f40be1ef85923fd1b6ba438b2bfd"
+    },
+    {
+      "path": "BepInEx/plugins/Ghostx10-Even_More_Suits/README.md",
+      "size": 2002,
+      "sha256": "95afce79182e1422672c6f922e6120eb9415e46f1d4d7d0beabdc836f9348693"
+    },
+    {
+      "path": "BepInEx/plugins/Glojam-Company_Hauler/CHANGELOG.md",
+      "size": 10420,
+      "sha256": "6e71be1187c2aaf2c727325933fa9e1617efe546954b551ab823d4585e589169"
+    },
+    {
+      "path": "BepInEx/plugins/Glojam-Company_Hauler/icon.png",
+      "size": 93135,
+      "sha256": "2ea0e4b67af6c5a33c933b817fb05022ac75b07bdb9b1e01215e8a0a16c10afe"
+    },
+    {
+      "path": "BepInEx/plugins/Glojam-Company_Hauler/LICENSE.txt",
+      "size": 35821,
+      "sha256": "81cbae84a29ce7e770bf2bc7b178e50bda0ce8de6067aba661b0bc7b05b562f8"
+    },
+    {
+      "path": "BepInEx/plugins/Glojam-Company_Hauler/README.md",
+      "size": 4002,
+      "sha256": "1fb2a8e20eaba6d26f347d56c4819c514b810331ec3ca9e31efe06c7a7aa21d7"
+    },
+    {
+      "path": "BepInEx/plugins/Hamunii-AutoHookGenPatcher/CHANGELOG.md",
+      "size": 2425,
+      "sha256": "65757b2386528478b24c680112ad80815eb23f80ed0d1d53b6abe3766bb0b900"
+    },
+    {
+      "path": "BepInEx/plugins/Hamunii-AutoHookGenPatcher/icon.png",
+      "size": 13143,
+      "sha256": "f2c67926d934c47f55e3c82af3d3f572f16e41ed61b7bfb254266c4e00df71c8"
+    },
+    {
+      "path": "BepInEx/plugins/Hamunii-AutoHookGenPatcher/LICENSE",
+      "size": 1125,
+      "sha256": "c105f075188b1df1b94817cfc21c28ef367ab18bca30fbc6a15b7367ec185d27"
+    },
+    {
+      "path": "BepInEx/plugins/Hamunii-AutoHookGenPatcher/README.md",
+      "size": 3053,
+      "sha256": "7ffa9c7676cc12f91831f7ae623122f19ca418b1a000fc0d5742278b2122692a"
+    },
+    {
+      "path": "BepInEx/plugins/Hamunii-DetourContext_Dispose_Fix/CHANGELOG.md",
+      "size": 1099,
+      "sha256": "e892b4034bdb834a295b7b0b5c2a005416815c71ececaef6dd55238b39ec6be3"
+    },
+    {
+      "path": "BepInEx/plugins/Hamunii-DetourContext_Dispose_Fix/icon.png",
+      "size": 18890,
+      "sha256": "352500fb9d8798e027b69d22ed437325f99a8fbb22ac06ef42c6c2443cb9dca6"
+    },
+    {
+      "path": "BepInEx/plugins/Hamunii-DetourContext_Dispose_Fix/README.md",
+      "size": 931,
+      "sha256": "df681ee4bd174a49a5f070300a89c65f787f28e9d6d1e6481b9ff251579f2abf"
+    },
+    {
+      "path": "BepInEx/plugins/Hardy-LCMaxSoundsFix/CHANGELOG.md",
+      "size": 338,
+      "sha256": "96aef05532e52bfcf18c84f837d7de320c8ceebffaa0ae7de5f4e8c2be38e567"
+    },
+    {
+      "path": "BepInEx/plugins/Hardy-LCMaxSoundsFix/icon.png",
+      "size": 10251,
+      "sha256": "6c9538d796cdb3737af34a970dfc79ef2ec1da987182eeb6ee1ff1eff9dcd62a"
+    },
+    {
+      "path": "BepInEx/plugins/Hardy-LCMaxSoundsFix/LCMaxSoundsFix.dll",
+      "size": 9728,
+      "sha256": "92416046aa0be0a6226aa644772c7e1f0174accce42a29968619523a13afcfbd"
+    },
+    {
+      "path": "BepInEx/plugins/Hardy-LCMaxSoundsFix/README.md",
+      "size": 354,
+      "sha256": "c844cf73f4b4587fbe92acf0b8aa5b1794209e1fe7bbe916cbfb71a7a5860887"
+    },
+    {
+      "path": "BepInEx/plugins/IAmBatby-LethalLevelLoader/CHANGELOG.md",
+      "size": 57288,
+      "sha256": "64be8a76b949f76f7a194bf2719bb0779c1416b5608d19b07990c09fe2aa7ee8"
+    },
+    {
+      "path": "BepInEx/plugins/IAmBatby-LethalLevelLoader/icon.png",
+      "size": 9706,
+      "sha256": "ffd4413400887e789ea57f7a3f60064fc526e617a9f8263ff3501d95ab7df751"
+    },
+    {
+      "path": "BepInEx/plugins/IAmBatby-LethalLevelLoader/LethalLevelLoader.dll",
+      "size": 437248,
+      "sha256": "e9e44020713102ca89aa4a74176a0645eff41d859dd2767903f5f80b93264e75"
+    },
+    {
+      "path": "BepInEx/plugins/IAmBatby-LethalLevelLoader/LICENSE.md",
+      "size": 1084,
+      "sha256": "14f1be5fedb88b90ae962237bf2fb30a59148e443ed6307abe9673a28d4c8d70"
+    },
+    {
+      "path": "BepInEx/plugins/IAmBatby-LethalLevelLoader/README.md",
+      "size": 5045,
+      "sha256": "e0e22dca4dda897f16baaf0186eb70403f78747e3fd73a61414bdf120d68953e"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-DestroyItemInSlotFix/CHANGELOG.md",
+      "size": 28,
+      "sha256": "a459635c2d7189876debb88e4e82c8a5b55361bb2eeaff0c2fbb120522df7a15"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-DestroyItemInSlotFix/DestroyItemInSlotFix.dll",
+      "size": 10240,
+      "sha256": "5e57698b7a0eb54a7bcc20a6ad1d5107886f93d504f817e510ee3502543fa5b2"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-DestroyItemInSlotFix/icon.png",
+      "size": 4587,
+      "sha256": "c3874d6b14c712c38a185b51b3472956ed2526c6a1b406da9cbf917d6e521d4d"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-DestroyItemInSlotFix/README.md",
+      "size": 713,
+      "sha256": "59574123b6cc529d873e89df88de5abcd0fcedb3796e092dea5545789ce87bf0"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-JLL/CHANGELOG.md",
+      "size": 53564,
+      "sha256": "057a3b6cdc5b4546a3e23b7909bfa30698d4d56ecbb613730ad8c0e9be7e7b68"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-JLL/icon.png",
+      "size": 56776,
+      "sha256": "bd312f90e52f3bb282b123cdfc83eeed1d60ef608cdb8c6747ee658e415cde6a"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-JLL/LICENSE.txt",
+      "size": 1083,
+      "sha256": "d5c73c2367ff0eac09505d4dfb7b2781ac498b361430329e0e78115552cf56f0"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-JLL/README.md",
+      "size": 238,
+      "sha256": "ad4c2f6e02f273a387d3bbc34cb81dce53a0d160d6a867649c3cea02c1b234a4"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-ReverbTriggerFix/CHANGELOG.md",
+      "size": 788,
+      "sha256": "775deb4b7eaedb62eb52415b768dd4f3b52cb99c7c351a256e58c1190052b1ea"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-ReverbTriggerFix/icon.png",
+      "size": 2552,
+      "sha256": "1181ae51e9011d9807b1262bfac58b239f246c6cb6341486cd6fe794badb2dac"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-ReverbTriggerFix/README.md",
+      "size": 1564,
+      "sha256": "93f678b287d492281b286c42c36bdc53b670c0b90e19927cd1544b16bcfff262"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-ReverbTriggerFix/ReverbTriggerFix.dll",
+      "size": 12288,
+      "sha256": "4918b82e82cd0fc5f7d6f26a844313fd858cfd1cc63b685307ca6fa69c19c8b9"
+    },
+    {
+      "path": "BepInEx/plugins/LegitGamer1017-BunkbedRevive_LegitsFork/BunkbedRevive.dll",
+      "size": 46080,
+      "sha256": "b42aceab6c4e92f62c0d06380905db4d3b2903488a9a3494ebfe5f283efd23f7"
+    },
+    {
+      "path": "BepInEx/plugins/LegitGamer1017-BunkbedRevive_LegitsFork/CHANGELOG.md",
+      "size": 940,
+      "sha256": "52fe8efdb952738906b2b2c110a9e0c17b222dd65c2a0d54537f98707bb58f8d"
+    },
+    {
+      "path": "BepInEx/plugins/LegitGamer1017-BunkbedRevive_LegitsFork/icon.png",
+      "size": 39671,
+      "sha256": "18dc910e44a842f073d32e2b88d1410ea5354ac2d324956ab584749dfcc34ccd"
+    },
+    {
+      "path": "BepInEx/plugins/LegitGamer1017-BunkbedRevive_LegitsFork/README.md",
+      "size": 2069,
+      "sha256": "df0b7497ee5d2f28cda296365033175c064d97ceb619cf4cfb632ead87de9d30"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/CHANGELOG.md",
+      "size": 1990,
+      "sha256": "9f2d248ac14c27ca1a611afe166f05a79477fce681d82b209b797ea46aef7eff"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/icon.png",
+      "size": 2026,
+      "sha256": "0cf6379ce651fbecd8e8157b34361e537674b67c602367111deab162e2c1b2bb"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/PizzaProbability.dll",
+      "size": 24576,
+      "sha256": "6a3f17d5ca67d68cb477143887ab2cd5d126e6ba6e564e50473e73b7664969ea"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/README.md",
+      "size": 7043,
+      "sha256": "ee28c71439dfb3512dc6a3e3bd78f810413f85179fb44604a213cb7ef238669e"
+    },
+    {
+      "path": "BepInEx/plugins/linkoid-DissonanceLagFix/icon.png",
+      "size": 20683,
+      "sha256": "7a9a06d46e77bef87c38e3b8438db7299ed2ea3c46b224ecd22fe5a1a92c1fa9"
+    },
+    {
+      "path": "BepInEx/plugins/linkoid-DissonanceLagFix/Linkoid.Dissonance.LagFix.dll",
+      "size": 6144,
+      "sha256": "a201be32769297076cd19d0c0a06a718a689c517d7684e96ad47893d7823e8ae"
+    },
+    {
+      "path": "BepInEx/plugins/linkoid-DissonanceLagFix/README.md",
+      "size": 1030,
+      "sha256": "9ab3765e57dcd4d2452b243597ad762e0e997a7ef825c026d37bb8ae7c3fb053"
+    },
+    {
+      "path": "BepInEx/plugins/loaforc-FacilityMeltdown/CHANGELOG.md",
+      "size": 603,
+      "sha256": "4d543c9dcf05f0f9022c955a71ab68d5161aae2c4246d3ce74421c34266a2e4b"
+    },
+    {
+      "path": "BepInEx/plugins/loaforc-FacilityMeltdown/icon.png",
+      "size": 16769,
+      "sha256": "bcd3f5486cfd12f4b7a69009d5fac88601a0e0c152623e0d9f75d6c02cc4e47f"
+    },
+    {
+      "path": "BepInEx/plugins/loaforc-FacilityMeltdown/README.md",
+      "size": 4147,
+      "sha256": "c222779f571ef34c547f5f04664b33c31bb294320f05fb291b3ab7eb71c2d3f4"
+    },
+    {
+      "path": "BepInEx/plugins/Lordfirespeed-OdinSerializer/icon.png",
+      "size": 6850,
+      "sha256": "a1141258c570f85258d418d083e7a4574c4824d507ae8fe7e7908f5ffd239fe1"
+    },
+    {
+      "path": "BepInEx/plugins/Lordfirespeed-OdinSerializer/LICENSE",
+      "size": 10172,
+      "sha256": "59899c6091b540582ed617e8eeaac4919dc985ccfc35459ee9752b699be5205b"
+    },
+    {
+      "path": "BepInEx/plugins/Lordfirespeed-OdinSerializer/README.md",
+      "size": 31903,
+      "sha256": "9b42eb30c6d29c3f0282c7456fbccd025bbc50935dd5adabde68786d3e35a9c4"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-AsyncLoggers/CHANGELOG.md",
+      "size": 3238,
+      "sha256": "a143058f6823e460c60e9abc21649173bda93362574d84119deeda1e290603ca"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-AsyncLoggers/icon.png",
+      "size": 24361,
+      "sha256": "27276452e91d9709e416f3fdf0f7bde761e3869223a89b52dcfa7a17a17bf90d"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-AsyncLoggers/LICENSE",
+      "size": 27030,
+      "sha256": "7ffe1954587c77dfba1cf8eb9b2ea743671fa6e63f9e7a2f258119d42e14eefe"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-AsyncLoggers/README.md",
+      "size": 2239,
+      "sha256": "dd17afeacb1dc036e0015bcee850b717cd38260a83c9ab40e88e279981507483"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-AsyncLoggers_Experimental/CHANGELOG.md",
+      "size": 3139,
+      "sha256": "6f29cf267a391f6518484a12b69974d03965cd41e7687a20bb75f0ba42f47318"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-AsyncLoggers_Experimental/icon.png",
+      "size": 24361,
+      "sha256": "27276452e91d9709e416f3fdf0f7bde761e3869223a89b52dcfa7a17a17bf90d"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-AsyncLoggers_Experimental/LICENSE",
+      "size": 27030,
+      "sha256": "7ffe1954587c77dfba1cf8eb9b2ea743671fa6e63f9e7a2f258119d42e14eefe"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-AsyncLoggers_Experimental/README.md",
+      "size": 2239,
+      "sha256": "dd17afeacb1dc036e0015bcee850b717cd38260a83c9ab40e88e279981507483"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-EntranceTeleportOptimizations/CHANGELOG.md",
+      "size": 485,
+      "sha256": "fe60416bdc277418c35466eaa1a62bfe800d287779508721575a4c511bedfb84"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-EntranceTeleportOptimizations/EntranceTeleportOptimizations.dll",
+      "size": 68096,
+      "sha256": "56c0d1d09cef254802d8a825285ca3780a0546c80183abfb96b3dce0d6110179"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-EntranceTeleportOptimizations/icon.png",
+      "size": 5942,
+      "sha256": "af03374360b78c5b9540c86a612b9e20e466454c461bc426a4e089444f4983e0"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-EntranceTeleportOptimizations/LICENSE",
+      "size": 35184,
+      "sha256": "6f1e622c82a380075843bb084a7ec3b1f1d12a4a02526d75e78b0924a860aa75"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-EntranceTeleportOptimizations/README.md",
+      "size": 3276,
+      "sha256": "4633f8b04230051621a04e56c3ee7d5a78adf5ec7c047453153411788ea72c3e"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-MonkeyInjectionLibrary/CHANGELOG.md",
+      "size": 418,
+      "sha256": "8855c885eba4036b5e146559ff347f35dca9f27f83cee55cad9b18fec9c52e3b"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-MonkeyInjectionLibrary/icon.png",
+      "size": 27197,
+      "sha256": "445b059d1dc15b4bf3ec20ac9921f327a655613677336c56fb0e0606b3de2f7b"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-MonkeyInjectionLibrary/LICENSE",
+      "size": 27030,
+      "sha256": "7ffe1954587c77dfba1cf8eb9b2ea743671fa6e63f9e7a2f258119d42e14eefe"
+    },
+    {
+      "path": "BepInEx/plugins/mattymatty-MonkeyInjectionLibrary/README.md",
+      "size": 5045,
+      "sha256": "9c11f80ea2b2c069fcfa8b8a593a8f7dbfb5549e4e0abf87296195919789563a"
+    },
+    {
+      "path": "BepInEx/plugins/MaxWasUnavailable-LethalModDataLib/CHANGELOG.md",
+      "size": 4768,
+      "sha256": "713e6274924a86dd1fff87c189fc5e688782c4e46782889d5c97b1d8bbfc87ad"
+    },
+    {
+      "path": "BepInEx/plugins/MaxWasUnavailable-LethalModDataLib/icon.png",
+      "size": 2301,
+      "sha256": "68697e5d847a9c08ed243379d426bd21e7cf936e3f8d9e23a9604817fff61a33"
+    },
+    {
+      "path": "BepInEx/plugins/MaxWasUnavailable-LethalModDataLib/LICENSE",
+      "size": 7489,
+      "sha256": "7cd1c884e32c9ede9cf6451040c53a9ab3319578007b54053bace93b8d6a6910"
+    },
+    {
+      "path": "BepInEx/plugins/MaxWasUnavailable-LethalModDataLib/README.md",
+      "size": 18566,
+      "sha256": "a5be66e53163ef80edc8f6623ebe8773eb50075c2992f8064088446225e73b7d"
+    },
+    {
+      "path": "BepInEx/plugins/MMHOOK/MMHOOK_AmazingAssets.TerrainToMesh.dll",
+      "size": 474112,
+      "sha256": "b040e0c563d6cd209664492af33506948b8a7600571641b1a1709ee8aa2e905c"
+    },
+    {
+      "path": "BepInEx/plugins/MMHOOK/MMHOOK_ClientNetworkTransform.dll",
+      "size": 7680,
+      "sha256": "a4ab45e3d756eece5085efe6e37896e831c2c87500f5669b4d869a19aa4a04c6"
+    },
+    {
+      "path": "BepInEx/plugins/MMHOOK/MMHOOK_Facepunch Transport for Netcode for GameObjects.dll",
+      "size": 20480,
+      "sha256": "e0f39222c60e408561f7a22ae121dd80b298328e700e41fdadadb90e3bce8105"
+    },
+    {
+      "path": "BepInEx/plugins/MMHOOK/MMHOOK_Facepunch.Steamworks.Win64.dll",
+      "size": 2063360,
+      "sha256": "febb17a08bd2c9f8e2b82efdeb5cef031ab8dfa02fc3e77b779c17131edf0141"
+    },
+    {
+      "path": "BepInEx/plugins/MonoDetour-MonoDetour/CHANGELOG.md",
+      "size": 122,
+      "sha256": "c6bbd006bd049cca0863d01f39167fc9fd98c5186ae0c343fcf8dbb4762bc7ec"
+    },
+    {
+      "path": "BepInEx/plugins/MonoDetour-MonoDetour/icon.png",
+      "size": 9972,
+      "sha256": "da1fc802f3bf09457710bb37aa2538824f277ff7077530c0e74fd2296d44780f"
+    },
+    {
+      "path": "BepInEx/plugins/MonoDetour-MonoDetour/LICENSE",
+      "size": 1064,
+      "sha256": "8bc457743ad24dbe23c5d39d92a4ef735717a89f24b95b49f9a96ed9f44d6507"
+    },
+    {
+      "path": "BepInEx/plugins/MonoDetour-MonoDetour/README.md",
+      "size": 1201,
+      "sha256": "701c0c279df82ff3babf8f4e9cacd379a8c44e8b85e9ca067ef5315fd9261794"
+    },
+    {
+      "path": "BepInEx/plugins/MonoDetour-MonoDetour_BepInEx_5/CHANGELOG.md",
+      "size": 122,
+      "sha256": "c6bbd006bd049cca0863d01f39167fc9fd98c5186ae0c343fcf8dbb4762bc7ec"
+    },
+    {
+      "path": "BepInEx/plugins/MonoDetour-MonoDetour_BepInEx_5/icon.png",
+      "size": 9972,
+      "sha256": "da1fc802f3bf09457710bb37aa2538824f277ff7077530c0e74fd2296d44780f"
+    },
+    {
+      "path": "BepInEx/plugins/MonoDetour-MonoDetour_BepInEx_5/LICENSE",
+      "size": 1064,
+      "sha256": "8bc457743ad24dbe23c5d39d92a4ef735717a89f24b95b49f9a96ed9f44d6507"
+    },
+    {
+      "path": "BepInEx/plugins/MonoDetour-MonoDetour_BepInEx_5/README.md",
+      "size": 682,
+      "sha256": "1739e5596c086603a4595ef102114200cd1e09aec4caed132d30929b8ccc1401"
+    },
+    {
+      "path": "BepInEx/plugins/NakiriFox-LC_Simplified_Chinese_Localization/AHook.dll",
+      "size": 16384,
+      "sha256": "20958a0424eccb6d02bface5ed19b80494e32da820294da5fc6214e1ce98f5f9"
+    },
+    {
+      "path": "BepInEx/plugins/NakiriFox-LC_Simplified_Chinese_Localization/CHANGELOG.md",
+      "size": 4029,
+      "sha256": "2084a159766f65f70c8e6d40cf2698cf9ad6a531a49fbfbbd945380c967c31c9"
+    },
+    {
+      "path": "BepInEx/plugins/NakiriFox-LC_Simplified_Chinese_Localization/GameTranslator.dll",
+      "size": 100864,
+      "sha256": "5ed8a025cc3dc33f54382f8ace59661379fe7c82222ad6b9feb7e1b5b61cc726"
+    },
+    {
+      "path": "BepInEx/plugins/NakiriFox-LC_Simplified_Chinese_Localization/icon.png",
+      "size": 63232,
+      "sha256": "db14e01c7cea39e609523ccec9361325e9864a41d7903c14e93f6dd00b98f655"
+    },
+    {
+      "path": "BepInEx/plugins/NakiriFox-LC_Simplified_Chinese_Localization/README.md",
+      "size": 1973,
+      "sha256": "14c05e82a66cf630b04e30f044c18ac7fd6c672262b8952aacb15334466eb161"
+    },
+    {
+      "path": "BepInEx/plugins/notnotnotswipez-MoreCompany/icon.png",
+      "size": 103170,
+      "sha256": "1c962db7f986c27306618f17ca63d65e60f6d4c79f428e39c03dec80b39aa798"
+    },
+    {
+      "path": "BepInEx/plugins/notnotnotswipez-MoreCompany/MoreCompany.dll",
+      "size": 10451968,
+      "sha256": "d1947db8908fdf5b2d20a3e40c571099c656f6880434594e6997b20ec57b7fd7"
+    },
+    {
+      "path": "BepInEx/plugins/notnotnotswipez-MoreCompany/README.md",
+      "size": 7590,
+      "sha256": "11d85fa12e88830055ab615888476c47bae07d3c78a8273772a6cab2382694ed"
+    },
+    {
+      "path": "BepInEx/plugins/pacoito-itolib/CHANGELOG.md",
+      "size": 37829,
+      "sha256": "820d3d8b23958f85c6b937251454a044dba76a7e462ca6e2d49436b445332a21"
+    },
+    {
+      "path": "BepInEx/plugins/pacoito-itolib/icon.png",
+      "size": 83967,
+      "sha256": "e32632b256a02ed4fef900d8c1c311a7641d93d02f9dd5da4473988ff36163e6"
+    },
+    {
+      "path": "BepInEx/plugins/pacoito-itolib/itolib.deps.json",
+      "size": 37764,
+      "sha256": "4f57127efe344945a092206dea445322670a494231b851f34b961d381f6a2e24"
+    },
+    {
+      "path": "BepInEx/plugins/pacoito-itolib/itolib.dll",
+      "size": 361984,
+      "sha256": "f454dcb67041914124f0f3ee415282b078409bb413ef51e3e9639a9d8dcb07d6"
+    },
+    {
+      "path": "BepInEx/plugins/pacoito-itolib/itolib.xml",
+      "size": 459628,
+      "sha256": "8165cae4c3912216816a9b1e814b357d2578bf0bc9218c2d41daba61845ef178"
+    },
+    {
+      "path": "BepInEx/plugins/pacoito-itolib/LICENSE",
+      "size": 1085,
+      "sha256": "777fca29b7b65e0866dd172bc7a1a8a59cca2e4031ee3102c70cb539d7d6306f"
+    },
+    {
+      "path": "BepInEx/plugins/pacoito-itolib/README.md",
+      "size": 22389,
+      "sha256": "71d9587d7a803158b9bfa89d8ae300080bb68718d51eeea813d94d10b855c47f"
+    },
+    {
+      "path": "BepInEx/plugins/Pooble-LCBetterSaves/icon.png",
+      "size": 45341,
+      "sha256": "fefb9cd2c3b4cbaa69f8c7d655b21190386a6618cf830ff48b3118ac297bf19a"
+    },
+    {
+      "path": "BepInEx/plugins/Pooble-LCBetterSaves/LCBetterSaves.dll",
+      "size": 24576,
+      "sha256": "659694a858a91c96bf007224a4812a6cc8efa299a44ab23d607037963343d911"
+    },
+    {
+      "path": "BepInEx/plugins/Pooble-LCBetterSaves/README.md",
+      "size": 1296,
+      "sha256": "75c05c08babaf1317d9779e1fa4af8e6ac89f8a1f0679c95765a0e1744b4a1a6"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Concentus/Concentus.dll",
+      "size": 392192,
+      "sha256": "11a6de9cbf2ccf27fe359c4847ba63d8ed593284b97ef884e0dc2e9dc7583a01"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Concentus/Concentus.Oggfile.Fork.dll",
+      "size": 51712,
+      "sha256": "7ec13e6e863a7a8e87cf08053eed1df57be31977165cf7ac4986a1e46b226b29"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Concentus/icon.png",
+      "size": 16330,
+      "sha256": "9f6ac41f7167359da588b0efa1ec4b14896ee9b6b71bd7864ccbdd4f79bf301d"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Concentus/LICENSE",
+      "size": 2200,
+      "sha256": "c17f3900e66526e46b23839b62e4b507b03a51cc262d925fb8ad5c753afc0026"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Concentus/LICENSE.md",
+      "size": 2813,
+      "sha256": "04886fb57190f03fd145f14bd870132c309e6baa37dcba9adcccf4369c142d45"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Concentus/README.md",
+      "size": 830,
+      "sha256": "9aaa43dc517a7d57fb2c7514f8a5ad3a9b13db87edba59f8c73fe5a3dece84d4"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Concentus/System.Buffers.dll",
+      "size": 21376,
+      "sha256": "c65fff603b283dc966d1a8b730c11d5e5e750e8021bd24640612f6cc3f2c6fb7"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Concentus/System.Memory.dll",
+      "size": 142752,
+      "sha256": "11590d8bb3b12f29f4202b3ef8593229a5cd6debb61e76cba9ac5493a82ee382"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Concentus/System.Numerics.Vectors.dll",
+      "size": 163464,
+      "sha256": "17924e5dc87e0d6229d2dd0bcfc1fdfabd820901b13a68baa89fcb80c4d1a67f"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Concentus/System.Runtime.CompilerServices.Unsafe.dll",
+      "size": 18024,
+      "sha256": "01748200f2400c742aa689f1f5101bd6298efdfd92c00c18f4fa473847235ba9"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Mirage/CHANGELOG.md",
+      "size": 34240,
+      "sha256": "ff636313718f0a259e2bfaedfe4378188ff718050e42fc9208f0f26f9e4f41b3"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Mirage/icon.png",
+      "size": 62924,
+      "sha256": "569ccfeeb8db498cbf6a050edeb757dc133ca18c858c5a44e8b6675f6d4f2ddb"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Mirage/LICENSE",
+      "size": 19530,
+      "sha256": "a60cc60ac16dd9d0067d760265a020357865de09dc3a3966e89d85bda13ed203"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Mirage/Mirage.Compatibility.dll",
+      "size": 26112,
+      "sha256": "7f645bc25def0297403f3b90877d197bb061ec2b600f1c91c3d9aad3b2562157"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Mirage/Mirage.Core.dll",
+      "size": 123392,
+      "sha256": "0a759fc6ded71c7c25dfd2082bff7e70e0bd451d40b89cf4d0e0c9c15be0ed13"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Mirage/Mirage.dll",
+      "size": 221696,
+      "sha256": "58e41ea1ecd5f5fa3e42428a8ab10eccc7bdfb66164a7d90cdc7e7c98964f92a"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Mirage/Mirage.Plugin.dll",
+      "size": 17408,
+      "sha256": "f0db1e0f5793deaf441fec040f9eb7fb6a722d6d3a895c451fac8bc97f04fbfd"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Mirage/Mirage.unity3d",
+      "size": 44126,
+      "sha256": "9dfda40bf4cd103434a3ed81c401c6d2fa7cf476bc06a89bc442957f92352d2b"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-Mirage/README.md",
+      "size": 11384,
+      "sha256": "25cda2f4b7bce8afc895d9c0770da775319ae15127c51b4584d1327c82c7da8d"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/Collections.Pooled.dll",
+      "size": 88064,
+      "sha256": "60b568248a6533c2c88bf80d521531476481cd14074aae2430dbf091799a30ab"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/FSharp.Core.dll",
+      "size": 2318112,
+      "sha256": "75e211e39e739477f73363dd8efe91a3fa71e475339d3b8e3b3a15dee88513d3"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/FSharpPlus.dll",
+      "size": 10380288,
+      "sha256": "d46484e44d6be9aee4656e8331b0f111e0c101fc7dd1266a9df60865db08ae26"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/IcedTasks.dll",
+      "size": 1383424,
+      "sha256": "71d63364dc9f79a441702cadff358477f471d044090dc19ef695773bff32f36b"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/IcedTasks.pdb",
+      "size": 73136,
+      "sha256": "909e14a256c4a267e9cf79770dd5249d08dba5314ec97b6606d0caa8193594d8"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/icon.png",
+      "size": 65387,
+      "sha256": "95d90050e4ccdbf32ddba9c131cad68f40adef78dd5fd6b3d83efb305f0c8bca"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/lang_dict_95.json",
+      "size": 2183,
+      "sha256": "70b62ef4939d712b960a8ed8aaea9e0d7117b10877e917a97cc4e8bbb7bd340f"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/lang_group_dict_95.json",
+      "size": 1626,
+      "sha256": "615dd33fcf7aae4d7bd16591dced12bb734773faec408991e696bc0874cd984f"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/LICENSE",
+      "size": 1095,
+      "sha256": "9cb98d261a9f2dfd347ee43b314343c68fe063ecc7f31514e24b248b1be727c6"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/Mirage.Core.Plugin.dll",
+      "size": 14336,
+      "sha256": "d14b256c16405dbaef2c8a1519cf85e78bb42d8e0d2f597a0dcecfbb496225e0"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/onnxruntime.dll",
+      "size": 10951200,
+      "sha256": "b9dba35ec85d49c0186332c19a01601ae598ede701b79dcc70de50d4dba36fa6"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/onnxruntime.lib",
+      "size": 2124,
+      "sha256": "5634552d72480529063392ded0effc0a3c793b8c8165d0b166f48d491faa0596"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/onnxruntime_providers_shared.dll",
+      "size": 22560,
+      "sha256": "ba645bf03bd60df622cf27d6111d1359506a90d0e3b5558f0a271f0b560cf97c"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/onnxruntime_providers_shared.lib",
+      "size": 2314,
+      "sha256": "d617cc3367080c2ac11c2855f6d2d02227537ce7fc59cc7f26035d711d6a28c4"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/README.md",
+      "size": 111,
+      "sha256": "4d1dc706810ecc22137872fbcac5bcee144ac62f8d35a483ff15a51520641196"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/SileroVAD.API.dll",
+      "size": 111616,
+      "sha256": "e6c15378274a8ad2310e86434ac1d888aa2af3d6fe2c303438231edc255afa41"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/SileroVAD.dll",
+      "size": 16384,
+      "sha256": "7543e6259b7464bcb43bc1fc8feb31bedbd35a54ac2864ce78ffdb73ffb689a8"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/silero_vad.jit",
+      "size": 1439299,
+      "sha256": "99033608562094bbb44e2363198cd47647a668f846c4c9a9edde68b4800b5fd4"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/silero_vad.onnx",
+      "size": 1807522,
+      "sha256": "a35ebf52fd3ce5f1469b2a36158dba761bc47b973ea3382b3186ca15b1f5af28"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-MirageCore/System.Threading.Channels.dll",
+      "size": 75952,
+      "sha256": "31c7e3704c0477c53d9306362dc6abe741088efb7a7b4e46cded0169cf7bb0b2"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-OpusDotNet/icon.png",
+      "size": 6977,
+      "sha256": "2e093582419b4c8ec7a907459b2f5baa08f19f21814de1c7fc5161a050367d63"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-OpusDotNet/LICENSE",
+      "size": 1088,
+      "sha256": "7bce3363aec6f9386982d8ab21d09a74292303176d8a8a329c97750c48ae7d3b"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-OpusDotNet/opus.dll",
+      "size": 367616,
+      "sha256": "79a8bfa83e13b19ce487023d5580621b632415d634d067ba4716566ae0918414"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-OpusDotNet/OpusDotNet.dll",
+      "size": 15360,
+      "sha256": "c84a9d5e0f9a1c9a8ddd5515c91f97cdceb26bd1754bb5214dc91bd1e422057f"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-OpusDotNet/OpusDotNet.pdb",
+      "size": 3800,
+      "sha256": "c390d3aa156c592d32425702a20caab78cedfaf50a4ad894e036f1b2557c571b"
+    },
+    {
+      "path": "BepInEx/plugins/qwbarch-OpusDotNet/README.md",
+      "size": 361,
+      "sha256": "6da17778dfa520450feb949a134977237ab7ab96c55f05fbec199ad2c9dda7c5"
+    },
+    {
+      "path": "BepInEx/plugins/rainbow137-NewYearJester/icon.png",
+      "size": 88532,
+      "sha256": "4649ed097142e2230c2d1ac5a78ca9f861aded369657a1717f1c597047fe69cf"
+    },
+    {
+      "path": "BepInEx/plugins/rainbow137-NewYearJester/jestervisuals",
+      "size": 17856487,
+      "sha256": "911f38e623b25bf85ad3d9c305b81d7d161bd0a6ca5a61426897e5f3ddf30b6a"
+    },
+    {
+      "path": "BepInEx/plugins/rainbow137-NewYearJester/NewYearJester.dll",
+      "size": 9216,
+      "sha256": "5d2942bcb9766f4cbca22c2c92092b2b5ba46af1741cbf48ed135d6d8504df64"
+    },
+    {
+      "path": "BepInEx/plugins/rainbow137-NewYearJester/README.md",
+      "size": 538,
+      "sha256": "b94bea8533fe663a84e4270ce7ae788a35aa97a48be49c16370b82c4adcf5b12"
+    },
+    {
+      "path": "BepInEx/plugins/rectorado-JKConfig/CHANGELOG.md",
+      "size": 164,
+      "sha256": "5acd46e4a373f585140624fb065e910b34f9f41f890153695d56d196a0d94c1a"
+    },
+    {
+      "path": "BepInEx/plugins/rectorado-JKConfig/icon.png",
+      "size": 11564,
+      "sha256": "02d4fe934b44c25be664d50ca2993fa4ff620417b2e60f9143dd761247bf80d2"
+    },
+    {
+      "path": "BepInEx/plugins/rectorado-JKConfig/JKConfig.dll",
+      "size": 22016,
+      "sha256": "dcc0b4e8ca85d5867dc87d0297022c01742498bfd89decadde2a4fc4e367c68a"
+    },
+    {
+      "path": "BepInEx/plugins/rectorado-JKConfig/README.md",
+      "size": 3578,
+      "sha256": "5ba27e024dede332497dc28220808ead7f767e9d6ef35e51d6cf2f5a3f5aeba0"
+    },
+    {
+      "path": "BepInEx/plugins/rectorado-KenjiLib/CHANGELOG.md",
+      "size": 1563,
+      "sha256": "f64ce9f8a1192b32d77e4ac45d5a48daf21bcb6277e8a2605882fa9de5989f31"
+    },
+    {
+      "path": "BepInEx/plugins/rectorado-KenjiLib/icon.png",
+      "size": 3366,
+      "sha256": "5fce83d298bf29d3947122b894fd56778c438a5b35fd76664236bf651f5df64b"
+    },
+    {
+      "path": "BepInEx/plugins/rectorado-KenjiLib/KenjiLib.dll",
+      "size": 39936,
+      "sha256": "a37aa6f47914346911723519056612c9f49e364de32949311632d4a4c7ae78ce"
+    },
+    {
+      "path": "BepInEx/plugins/rectorado-KenjiLib/README.md",
+      "size": 2717,
+      "sha256": "01e4e3cce84f3fb142776a15fc263524e89be0fff6185b464bbcae3af6eff27f"
+    },
+    {
+      "path": "BepInEx/plugins/Rune580-LethalCompany_InputUtils/CHANGELOG.md",
+      "size": 6224,
+      "sha256": "30ce6c13b723a6e49d9bc12c65c3a01c9b7d0fde1d3db8dda941306b0211bd99"
+    },
+    {
+      "path": "BepInEx/plugins/Rune580-LethalCompany_InputUtils/icon.png",
+      "size": 105101,
+      "sha256": "8958f4b4b7c5ded1733362dc71257e599f3fcdc97e8f8d4cf9e410c72488e421"
+    },
+    {
+      "path": "BepInEx/plugins/Rune580-LethalCompany_InputUtils/LICENSE",
+      "size": 7652,
+      "sha256": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+    },
+    {
+      "path": "BepInEx/plugins/Rune580-LethalCompany_InputUtils/README.md",
+      "size": 13047,
+      "sha256": "93fb83089c047e3a7053eaf4d330820d31739742c95239548e8fcba58d526591"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-ScandalLib/CHANGELOG.md",
+      "size": 3003,
+      "sha256": "3ecd2d49ff5a769223eac44eda900b30d0fb76f2c1f53a59e26c9f32e07cd42b"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-ScandalLib/icon.png",
+      "size": 48048,
+      "sha256": "48d1334bb9a906fc79903216a5ef11301da1a55a7dea1663f348bc4f568f4ab3"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-ScandalLib/LICENSE",
+      "size": 1067,
+      "sha256": "b20f67822aaabed362ccc5780857402e599fe6af622b071da7ea751f929d5f0d"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-ScandalLib/README.md",
+      "size": 617,
+      "sha256": "61bf8d54fec945b5be4e39270d8777cad14d597e2f6e030ca0536c47218e07dc"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-Scandals_Tweaks/CHANGELOG.md",
+      "size": 4852,
+      "sha256": "5650f9fb4dfd51079dd537321d7b42ab860e2306ee98e60a2de74b614a1bec13"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-Scandals_Tweaks/icon.png",
+      "size": 7021,
+      "sha256": "e88ba006149b2fa4126f4b3006caaa66841047075ab25b43d448af45fac2d72c"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-Scandals_Tweaks/LICENSE",
+      "size": 1067,
+      "sha256": "b20f67822aaabed362ccc5780857402e599fe6af622b071da7ea751f929d5f0d"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-Scandals_Tweaks/README.md",
+      "size": 910,
+      "sha256": "45435789bc9029b7c4505bbdda2220513d2c5b3593e9bc49207dab159886eee8"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-Vandal_Electronics_Scanvan/CHANGELOG.md",
+      "size": 20500,
+      "sha256": "0236865b08a2ba34f47006811bbba775f201f7223b56d6101469e65b0e5e147f"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-Vandal_Electronics_Scanvan/icon.png",
+      "size": 79685,
+      "sha256": "86dae5dd7844ac494a3ac39ddb620f0e6c60a98571e9acad770c0581dbb5ce30"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-Vandal_Electronics_Scanvan/LICENSE",
+      "size": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-Vandal_Electronics_Scanvan/README.md",
+      "size": 5774,
+      "sha256": "46390d260d23dba91d89e589c2892735d2f3edd9f846e73a726f58fd8b0e855c"
+    },
+    {
+      "path": "BepInEx/plugins/ScienceBird-Universal_Radar/CHANGELOG.md",
+      "size": 6189,
+      "sha256": "1f79099f21d2e90cc162716097481b282619581e2de1a54ce6b578f4f4b6b771"
+    },
+    {
+      "path": "BepInEx/plugins/ScienceBird-Universal_Radar/icon.png",
+      "size": 10832,
+      "sha256": "b6aa1cd9a9029c6b642e8934c327dc9f999bb2c2970cd3b903209c335fc601af"
+    },
+    {
+      "path": "BepInEx/plugins/ScienceBird-Universal_Radar/LICENSE.txt",
+      "size": 6712,
+      "sha256": "98d096201b58b511d3f576a5f45419f74947760d335abdf0c7d728be0dd0f703"
+    },
+    {
+      "path": "BepInEx/plugins/ScienceBird-Universal_Radar/README.md",
+      "size": 21521,
+      "sha256": "62d8b4f5aead7ad941f4c16a0240e68feef8e3f634fbfeae67eb79c023608153"
+    },
+    {
+      "path": "BepInEx/plugins/ScienceBird-Universal_Radar/sburassets",
+      "size": 94593,
+      "sha256": "8e2eca5cead95145a9fe0e077667f541c58d3f09ec8f44953da21f5dc65a1511"
+    },
+    {
+      "path": "BepInEx/plugins/ScienceBird-Universal_Radar/ScienceBird.UniversalRadar.dll",
+      "size": 108544,
+      "sha256": "eaa35e16a6a56a18ad3f2f0d5b72e0899a1001c5000a99bb5b05a564f264d03d"
+    },
+    {
+      "path": "BepInEx/plugins/Smxrez-FashionableCompany/CHANGELOG.md",
+      "size": 1398,
+      "sha256": "e9d0c971e57fc3e103478473ffcac886cf655bb5e68add221a35c7fc888bcc4e"
+    },
+    {
+      "path": "BepInEx/plugins/Smxrez-FashionableCompany/icon.png",
+      "size": 22213,
+      "sha256": "5e6a4c0aae9b549829431b57dee53c08a66fb0e3d7c90e39d5a73e9ae6502cd3"
+    },
+    {
+      "path": "BepInEx/plugins/Smxrez-FashionableCompany/README.md",
+      "size": 2588,
+      "sha256": "791abaccb6dcf873bad1634e1090b64dbbb7a3217806e15a145519a873e3d3d3"
+    },
+    {
+      "path": "BepInEx/plugins/Sniper1_1-MaterialAssetRestorerCore/CHANGELOG.md",
+      "size": 2082,
+      "sha256": "3e3d62f3051338bf14b5dead3792ae7674f0f0b7844741cc10ee549e61349646"
+    },
+    {
+      "path": "BepInEx/plugins/Sniper1_1-MaterialAssetRestorerCore/icon.png",
+      "size": 6523,
+      "sha256": "2f0a7f740bfb2a16828733d4f52e528bc949a25155908266f4793f63df782d0b"
+    },
+    {
+      "path": "BepInEx/plugins/Sniper1_1-MaterialAssetRestorerCore/LICENSE.md",
+      "size": 136,
+      "sha256": "f5a3e50614d750e6c7fad269a68d3338e646a8fc80ade0af29ea2f54d8f9cc80"
+    },
+    {
+      "path": "BepInEx/plugins/Sniper1_1-MaterialAssetRestorerCore/README.md",
+      "size": 3857,
+      "sha256": "851f67024d8b792b91f3e271855cfa3d8e281332e0c7c9394746f206500e6c9c"
+    },
+    {
+      "path": "BepInEx/plugins/Sniper1_1-MaterialAssetRestorerCore/Sniper1_1.MaterialAssetRestorerCore.dll",
+      "size": 46080,
+      "sha256": "799fccdf77c279db5a3163ec3fa94e933d6c2b5945673627a1f0f47854cbb2a4"
+    },
+    {
+      "path": "BepInEx/plugins/Sniper1_1-WaterAssetRestorer/CHANGELOG.md",
+      "size": 643,
+      "sha256": "18d95f8fd00e0e97a1b47222bdf515ccfe58325a6d1af11c148b00b1b1e80334"
+    },
+    {
+      "path": "BepInEx/plugins/Sniper1_1-WaterAssetRestorer/icon.png",
+      "size": 5038,
+      "sha256": "d2f5114b986c1737dbf305229b88e2c06e465ee0369480c402ab9f0928b1ae3c"
+    },
+    {
+      "path": "BepInEx/plugins/Sniper1_1-WaterAssetRestorer/LICENSE.md",
+      "size": 129,
+      "sha256": "0328a9a0a6bd45d5cb4faf2d75ad7dc4e544b5ca795066f2360866c163a4b2a6"
+    },
+    {
+      "path": "BepInEx/plugins/Sniper1_1-WaterAssetRestorer/README.md",
+      "size": 1633,
+      "sha256": "316a4ae135fe2ff7cbf97ef837afb4f6eb7f5face2f059a18a76806fd1888819"
+    },
+    {
+      "path": "BepInEx/plugins/SoftDiamond-LethalPresents/CHANGELOG.md",
+      "size": 1558,
+      "sha256": "fb3e54d369504e7620cb844866502469f323ee72a223d30d5e497fc5554f7d6a"
+    },
+    {
+      "path": "BepInEx/plugins/SoftDiamond-LethalPresents/icon.png",
+      "size": 84056,
+      "sha256": "7a6d008ca46b32472fcb53bde48909a28328adae5f326e2c8c3daa8f8babbd6e"
+    },
+    {
+      "path": "BepInEx/plugins/SoftDiamond-LethalPresents/LethalPresents.dll",
+      "size": 29696,
+      "sha256": "1b6e59a193533a9ccacf172b9c1888fc13a0a516edbf504d8c5e2b6eaf0c1b95"
+    },
+    {
+      "path": "BepInEx/plugins/SoftDiamond-LethalPresents/README.md",
+      "size": 1290,
+      "sha256": "42920192efa3b70e6439335e4dd470f0b6b299abd79bfbc60a0e5b1aecce85a6"
+    },
+    {
+      "path": "BepInEx/plugins/sunnobunno-YippeeMod/icon.png",
+      "size": 95277,
+      "sha256": "ef79090d865a382d65ddcfe74b8feea72cd324b8113d9039e936482e47aa8961"
+    },
+    {
+      "path": "BepInEx/plugins/sunnobunno-YippeeMod/README.md",
+      "size": 1823,
+      "sha256": "7b321a7245939ecb154268203a69d2584a16b0c6d0b92f6df4de2fe40a96b8b5"
+    },
+    {
+      "path": "BepInEx/plugins/sunnobunno-YippeeMod/YippeeMod.dll",
+      "size": 6656,
+      "sha256": "69e55f25852b73638b9e29c0dad3dda1c06303da561335ae17523ff7726831bd"
+    },
+    {
+      "path": "BepInEx/plugins/sunnobunno-YippeeMod/yippeesound",
+      "size": 11357,
+      "sha256": "bab3b7271dc05e6ce5d0e980aba34fbc1387f86d1ab7cf2901a00cf61261e5c2"
+    },
+    {
+      "path": "BepInEx/plugins/SylviBlossom-TerminalConflictFix/CHANGELOG.md",
+      "size": 521,
+      "sha256": "694541f0b91d065124ed7c8a85025a9ad7cc5ae8c4a10111bc298b2e408e2245"
+    },
+    {
+      "path": "BepInEx/plugins/SylviBlossom-TerminalConflictFix/icon.png",
+      "size": 12365,
+      "sha256": "77e75515f399bffd681917bbdbfb32c66dd15f4902c754f9c35207750bc05172"
+    },
+    {
+      "path": "BepInEx/plugins/SylviBlossom-TerminalConflictFix/README.md",
+      "size": 251,
+      "sha256": "1ce97d2c29077989a09997a440fa8c51756aaae5cf56331ef3222362f4d0c3ec"
+    },
+    {
+      "path": "BepInEx/plugins/SylviBlossom-TerminalConflictFix/TerminalConflictFix.dll",
+      "size": 21504,
+      "sha256": "40eb6b2185fa8b411c3400e244885691f4d25d05ed75701cc2eafe69d42b942c"
+    },
+    {
+      "path": "BepInEx/plugins/taffyko-BetterSprayPaint/BetterSprayPaint.dll",
+      "size": 78848,
+      "sha256": "d5b7d27c8febecfe9f0c81dc493363c11c361aebf434c9d9637eae47ba5dda53"
+    },
+    {
+      "path": "BepInEx/plugins/taffyko-BetterSprayPaint/BetterSprayPaint.pdb",
+      "size": 28468,
+      "sha256": "f3666a56ee742f127fbaff354fc666394c0668e9b6d596f69d0edee001f22941"
+    },
+    {
+      "path": "BepInEx/plugins/taffyko-BetterSprayPaint/CHANGELOG.md",
+      "size": 2414,
+      "sha256": "adaf10dab52bfb6dfc53513e7ce942caee2c5b71a3f767c1b5f67916de138a7e"
+    },
+    {
+      "path": "BepInEx/plugins/taffyko-BetterSprayPaint/icon.png",
+      "size": 76205,
+      "sha256": "0e632342d842e50dad3881bf60a82cdad5f1958b4e5066ce77caf4fb20b32845"
+    },
+    {
+      "path": "BepInEx/plugins/taffyko-BetterSprayPaint/README.md",
+      "size": 2155,
+      "sha256": "e6cea563586cbbe7d71bde631ded3d03ccf542d4d1d4e3e43e8cb4d004e4fd68"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/CHANGELOG.md",
+      "size": 40903,
+      "sha256": "3086b2761a8716a658b9ae65c800654135aaf24f55e51600d418add523f08535"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/icon.png",
+      "size": 9810,
+      "sha256": "acaacd1d3af116a512c9a7f356a5607fdced3af4b16b5510bfadf9a5c22c4ea3"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/README.md",
+      "size": 6514,
+      "sha256": "7040d766034b774ef7caa1086f215d4a61d07085f0a85259501bdacd5aabcabc"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/acheronmoon.lethalbundle",
+      "size": 983442,
+      "sha256": "7553c3166494c34da39f5666d3b8eb6bd9b9da996919404ea85c4c3e2896c495"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/acheronscene.lethalbundle",
+      "size": 14371867,
+      "sha256": "65d851048dc15e753aa2b5a4f9e110c2e4d02092249a38532f7b40b3a7bbaf8a"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/bilgemoon.lethalbundle",
+      "size": 926094,
+      "sha256": "d7a0afaf9ce6e00a3171704998a3f9d59e39329c3408134e42a112c44c2ddc5f"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/bilgescene.lethalbundle",
+      "size": 17849255,
+      "sha256": "6632a9da797a45eea62ae339b436848bcb1edc196af0bce7e0e86cd45687a9b7"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/CHANGELOG.md",
+      "size": 29153,
+      "sha256": "dbadf29aaf23911124bcb57d3af63726469b6a4adcdfb1b2697d089bc60722a5"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/chronoslevel.lethalbundle",
+      "size": 17765986,
+      "sha256": "dde1228571c7d801a2c25697ce3fad89eea39cb0795bb316e5351796fe516d7f"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/chronosmoon.lethalbundle",
+      "size": 5975484,
+      "sha256": "8e8fe8a16bb447a57d80b4267ebf6d80f523c8cb59a73e9c863c17d0231c3f13"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/deadlockmoon.lethalbundle",
+      "size": 916987,
+      "sha256": "d8d4caf551347b90eb8e379067bc09076b5f6515438f2a8eaabb0247dc5d9c61"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/deadlockscene.lethalbundle",
+      "size": 14015780,
+      "sha256": "8c75c8b9861e8c4ecab0a62fec0c1d0747e85b3de94d42b35dd9ea6411f47dd1"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/fracturemoon.lethalbundle",
+      "size": 2024742,
+      "sha256": "2b232b52403c574c3db63779862adf3d76bd794c8ab3696f1e2c587170542e1f"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/fracturescene.lethalbundle",
+      "size": 18196168,
+      "sha256": "100a85b328ecb11b25ed1d9afdae3d847cbdc31e5972f92a86f5823e6ac77a05"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/icon.png",
+      "size": 72954,
+      "sha256": "b9ee1582961d177094b4635f5334036b8768c62a13fc188bb11e9d51f1b03c66"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/kaniemoon.lethalbundle",
+      "size": 3201411,
+      "sha256": "60fb71e2f24371524010cca576d9b442cda529fc8646d01be02e7a2dc1d4042d"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/kaniescene.lethalbundle",
+      "size": 25340236,
+      "sha256": "4cd00b1af6aecfbe2c621c8bdfc19d8198c2ed20c063e7d0d2b16274ab444b22"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/marsmoons.lethalbundle",
+      "size": 1725548,
+      "sha256": "1ec07c066aa674a0200384a5d13960fffe313973e41933412edde75dbef5685a"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/marsmoonslevel.lethalbundle",
+      "size": 19554089,
+      "sha256": "4ceb90cb59503014ec41ff78fde4bbfb7f8e65cd0a77867ca6927d20b9d96fe0"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/noctismoon.lethalbundle",
+      "size": 1801119,
+      "sha256": "80d18add9acfb022e6d8c2c4371b125a3c78b0b11777be28d8aad89c05c6bfab"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/noctisscene.lethalbundle",
+      "size": 11274405,
+      "sha256": "9a7c1e2904e08e4a9df633af4e9daca9315a8f0998c9e22ae5e0c408b58cdda4"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/obscuralevel.lethalbundle",
+      "size": 19516245,
+      "sha256": "a2d1e352a09fa6e3e524ac1050bd62434841e3cf550511e8f5cc9d35a680c07d"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/obscuramoon.lethalbundle",
+      "size": 1209385,
+      "sha256": "ab3c202c54ef538680b1a51ba4ecac157bbb24b09d70253c127bc80187079eb2"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/README.md",
+      "size": 11791,
+      "sha256": "62b138813734fcbceccd46b9368ee57083187597649363e70a5630c45052567c"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/skelaahachievements.duskmod",
+      "size": 23363,
+      "sha256": "29cec0cfadbf030de434b5047968dc119a04a2eaa613a5c6231969d598071ffd"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/terramoon.lethalbundle",
+      "size": 1954582,
+      "sha256": "39634e432a3ca8d6114057acd75b148e6b05def352c66dccc31583933ec2f173"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/terrascene.lethalbundle",
+      "size": 20982617,
+      "sha256": "f5aa6d14fdd4bbf02f9b299249ff18572c8c0378d06da7f2707a3c2d17516430"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/TheWildSkelaah.ChronosAnomaly.dll",
+      "size": 26112,
+      "sha256": "8b02ece314d1db8bdd427ed9b34e9a5af9396c9f4885f7fcd7555584c26fcc1d"
+    },
+    {
+      "path": "BepInEx/plugins/tinyhoot-ShipLobby/CHANGELOG.md",
+      "size": 373,
+      "sha256": "07dc94294f36d28d5f6e9543729b9d92c2c029d16273f2971ab0ba9852be5dbe"
+    },
+    {
+      "path": "BepInEx/plugins/tinyhoot-ShipLobby/icon.png",
+      "size": 85713,
+      "sha256": "7a098bef412b46199b59c952b39e5dece5b04571789d86510a03f5d239d06b75"
+    },
+    {
+      "path": "BepInEx/plugins/tinyhoot-ShipLobby/README.md",
+      "size": 1113,
+      "sha256": "fc9fdd7495446291d58809cdcdd1026b43588425ef34a9253f745589fe01d3e3"
+    },
+    {
+      "path": "BepInEx/plugins/tinyhoot-ShipLoot/CHANGELOG.md",
+      "size": 285,
+      "sha256": "c27b8b1519172e5cc5a37f1c11f1bc82f4a5791a3abe5390f89138bced74e11b"
+    },
+    {
+      "path": "BepInEx/plugins/tinyhoot-ShipLoot/icon.png",
+      "size": 52925,
+      "sha256": "276a63a418998aadf516471be0f45ce0a2629733f688108ac2aa6f057879d533"
+    },
+    {
+      "path": "BepInEx/plugins/tinyhoot-ShipLoot/README.md",
+      "size": 814,
+      "sha256": "caf8d1c6e8f9a17581c0e08ab335073dd4a82c8b4f2ff26e87e2e7c74edcfc3f"
+    },
+    {
+      "path": "BepInEx/plugins/Tomatobird-DestroyTemporaryEffects/CHANGELOG.md",
+      "size": 26,
+      "sha256": "be23b7b52cccea7e88d3f588c8389f52a7717f924a05fb4f6ecdb70aff797e42"
+    },
+    {
+      "path": "BepInEx/plugins/Tomatobird-DestroyTemporaryEffects/icon.png",
+      "size": 66389,
+      "sha256": "360a36141b207d2b44e3218cfff17bd6be4e7778cbaa26b5b78d915528ed6e3c"
+    },
+    {
+      "path": "BepInEx/plugins/Tomatobird-DestroyTemporaryEffects/README.md",
+      "size": 344,
+      "sha256": "7adf0df59a62a89529c89828fdaa51188e5670d2db08fadac7e04abe4697b4dc"
+    },
+    {
+      "path": "BepInEx/plugins/Tomatobird-DestroyTemporaryEffects/Tomatobird.DestroyTemporaryEffects.dll",
+      "size": 17920,
+      "sha256": "188a890ca2d506864936f16ecde91b4bf14e2f230f88f5d78647ae67ac4a3807"
+    },
+    {
+      "path": "BepInEx/plugins/v0xx-TerraMesh/CHANGELOG.md",
+      "size": 571,
+      "sha256": "b7cd6c6a5ff776dd1afd5fc8994267141f53e28906110eb3f8e879ec28f5010f"
+    },
+    {
+      "path": "BepInEx/plugins/v0xx-TerraMesh/icon.png",
+      "size": 12431,
+      "sha256": "362e20059faf1ced7269942ad3c4ac9eb3c0b1e127b60e707dffc308f826e422"
+    },
+    {
+      "path": "BepInEx/plugins/v0xx-TerraMesh/LICENSE.md",
+      "size": 19346,
+      "sha256": "3711f963c05d0be80d53e5923308a6dee31b203da23435c9cfb7c7b6e4dd5e19"
+    },
+    {
+      "path": "BepInEx/plugins/v0xx-TerraMesh/README.md",
+      "size": 2422,
+      "sha256": "ed45e51d491e61bcee0b61f75f0f9a1ff4050c7f01f00fbc4cd30d7550b8e1ff"
+    },
+    {
+      "path": "BepInEx/plugins/v0xx-TerraMesh/terramesh.assetbundle",
+      "size": 16119,
+      "sha256": "6e406331e97873c7d724a862f046adcbf825cbdd6e40a3b5be67d7b7a4f293cc"
+    },
+    {
+      "path": "BepInEx/plugins/v0xx-TerraMesh/voxx.TerraMesh.dll",
+      "size": 294912,
+      "sha256": "c5f2e129d6e9620e55870b8fd0a1d8ed8d5fa5ed45713dfa98fb0c94755edbb1"
+    },
+    {
+      "path": "BepInEx/plugins/Verity-TooManySuits/CHANGELOG.md",
+      "size": 3893,
+      "sha256": "8274044f3252382b31743e036230ea6ecdd738914366674b68951f3837d8b6b1"
+    },
+    {
+      "path": "BepInEx/plugins/Verity-TooManySuits/icon.png",
+      "size": 98222,
+      "sha256": "548273c77ef991ad8a03c0ab0176fc32d1d617955b1ba82c078b9df9b1c876f3"
+    },
+    {
+      "path": "BepInEx/plugins/Verity-TooManySuits/LICENSE",
+      "size": 1063,
+      "sha256": "c8e72ef6bb52ed8dce815d977415f5498552274711d3f668ac99b5e815777a9b"
+    },
+    {
+      "path": "BepInEx/plugins/Verity-TooManySuits/README.md",
+      "size": 817,
+      "sha256": "11135470dfb100068d6b313e387211416c4c2be3fe8928be1903a9a01e24ad6e"
+    },
+    {
+      "path": "BepInEx/plugins/Verity-TooManySuits/TooManySuits.dll",
+      "size": 93184,
+      "sha256": "4fce75a8c9f67af79316f081a50c03603fc1105121b98cbbe7328764ee4ad4fe"
+    },
+    {
+      "path": "BepInEx/plugins/VirusTLNR-MaskedInvisFix/CHANGELOG.md",
+      "size": 329,
+      "sha256": "3bb54ac56ce37957c38549c02028225bf59936ae04b93673ac27e4c6bb053a73"
+    },
+    {
+      "path": "BepInEx/plugins/VirusTLNR-MaskedInvisFix/icon.png",
+      "size": 4924,
+      "sha256": "ace1701f93601e3e65eaee3f315e24733e028ee3287787a19a46be9bd6f5c2ce"
+    },
+    {
+      "path": "BepInEx/plugins/VirusTLNR-MaskedInvisFix/LICENSE.txt",
+      "size": 1085,
+      "sha256": "a1e60884ed96061abff3d8ff0cc62d34c78ab9877e0956b49e257b8789e46d2b"
+    },
+    {
+      "path": "BepInEx/plugins/VirusTLNR-MaskedInvisFix/README.md",
+      "size": 886,
+      "sha256": "bab45c988a80338e045549b02d0599929bb926086ad7c71a84e6c44b934bd802"
+    },
+    {
+      "path": "BepInEx/plugins/WhiteSpike-Moon_Day_Speed_Multiplier_Patcher/CHANGELOG.md",
+      "size": 183,
+      "sha256": "c1b73aba80ba5084b7ad07393f7f8c4b595ab25a35d9915fe8c98775569d6567"
+    },
+    {
+      "path": "BepInEx/plugins/WhiteSpike-Moon_Day_Speed_Multiplier_Patcher/icon.png",
+      "size": 7210,
+      "sha256": "880879055caedf84ed3b85fdd38f2ad3a98d1f951574c2493a8d8facb2017c13"
+    },
+    {
+      "path": "BepInEx/plugins/WhiteSpike-Moon_Day_Speed_Multiplier_Patcher/LICENSE",
+      "size": 1087,
+      "sha256": "0e79c52cd764f1f42b7927196558d7127f7a41692bcf617102a17cec1ba29632"
+    },
+    {
+      "path": "BepInEx/plugins/WhiteSpike-Moon_Day_Speed_Multiplier_Patcher/README.md",
+      "size": 3236,
+      "sha256": "3561c7965dc2400c94dddff809857a6538017226c728a6aaeeb75da075d8e71b"
+    },
+    {
+      "path": "BepInEx/plugins/willis81808-LethalSettings/CHANGELOG.md",
+      "size": 1256,
+      "sha256": "de1cf944f65b334fbb42c6cfc61d5130ce65e4bd2137a844b16f7a4c25d4fea6"
+    },
+    {
+      "path": "BepInEx/plugins/willis81808-LethalSettings/icon.png",
+      "size": 31502,
+      "sha256": "4012e4df959718761b08483c93d0b0eabca7202125e0ec93bb5c0e29f2d5dfa1"
+    },
+    {
+      "path": "BepInEx/plugins/willis81808-LethalSettings/LethalSettings.dll",
+      "size": 303104,
+      "sha256": "3504887f60b6171e449becbb49106fc627db18fceb7a52d30d910956cfb3c5f1"
+    },
+    {
+      "path": "BepInEx/plugins/willis81808-LethalSettings/LethalSettings.pdb",
+      "size": 41064,
+      "sha256": "dad0999b3b74598cf558a41da2039897ea27d01bf7becc037b310728976dcfb6"
+    },
+    {
+      "path": "BepInEx/plugins/willis81808-LethalSettings/README.md",
+      "size": 3359,
+      "sha256": "7c943d27d9216d4746fc420c000de05b27f73050a8bce758b975e9b4372f8408"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/CHANGELOG.md",
+      "size": 2021,
+      "sha256": "95e594319946780a40ebb223562c214e8960fb1480e46f97a73a73527f81ab23"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/icon.png",
+      "size": 86628,
+      "sha256": "605a2a77bf5d8dc43726ce5e38d554e3f692f40be1ef85923fd1b6ba438b2bfd"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/MoreSuits.dll",
+      "size": 18432,
+      "sha256": "5536d89ee6742585834f41a479f0d3612de438d869a8cf9b106004c75f86ec44"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/README.md",
+      "size": 2090,
+      "sha256": "dc8a9614325d291346ee3807df8b1e6707c7a45057dde4b4e114211f0fefc3dc"
+    },
+    {
+      "path": "BepInEx/plugins/xibao_love-FixEladsHUD/FixEladsHUD.dll",
+      "size": 263680,
+      "sha256": "01a07f7567f1e96b4f4ed5f341c6f2695397a7909ae94fc9ca1bfe81ad931ac9"
+    },
+    {
+      "path": "BepInEx/plugins/xibao_love-FixEladsHUD/icon.png",
+      "size": 36403,
+      "sha256": "93b64f18ca5dbc935b6d4c7aae79954d23767152197452f8d217a040628d956b"
+    },
+    {
+      "path": "BepInEx/plugins/xibao_love-FixEladsHUD/README.md",
+      "size": 490,
+      "sha256": "9f8c4d801dc135de3276a419837fd966f489c6fc39c5e4f1111b9065d48bcb6e"
+    },
+    {
+      "path": "BepInEx/plugins/xilophor-LethalNetworkAPI/CHANGELOG.md",
+      "size": 6510,
+      "sha256": "471141818f3795dcbe981f72882c054e4327e1d07a555d38cc94c3fec20aaa74"
+    },
+    {
+      "path": "BepInEx/plugins/xilophor-LethalNetworkAPI/icon.png",
+      "size": 24729,
+      "sha256": "b57707389a84dde3aef890e1c872083ad3e69aeac5c8b5c00a66fdebf9721446"
+    },
+    {
+      "path": "BepInEx/plugins/xilophor-LethalNetworkAPI/LICENSE",
+      "size": 7500,
+      "sha256": "d37e425f410e347eca6cebbbcaead4257a0d79573fad00a79b31e7e47d894dcf"
+    },
+    {
+      "path": "BepInEx/plugins/xilophor-LethalNetworkAPI/README.md",
+      "size": 1369,
+      "sha256": "d75b92584f20ba7e656b984c2bfa3058b78d6969b8f77899ddc60a4a08c44ca4"
+    },
+    {
+      "path": "BepInEx/plugins/xilophor-StaticNetcodeLib/CHANGELOG.md",
+      "size": 985,
+      "sha256": "6aad1bb038d9e828947c935de5261b523556ad1ee4714ee8010ea974c861f8ce"
+    },
+    {
+      "path": "BepInEx/plugins/xilophor-StaticNetcodeLib/icon.png",
+      "size": 11139,
+      "sha256": "e679b11165e727073ea7e02a3476b92899a0a083baa3770ac18552e1ed58d789"
+    },
+    {
+      "path": "BepInEx/plugins/xilophor-StaticNetcodeLib/LICENSE",
+      "size": 7652,
+      "sha256": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+    },
+    {
+      "path": "BepInEx/plugins/xilophor-StaticNetcodeLib/README.md",
+      "size": 1879,
+      "sha256": "e3d09338a57304b035616e25ab18892f5ab12fbe127b8c7beee72083c0da7bbd"
+    },
+    {
+      "path": "BepInEx/plugins/XuXiaolan-ReXuvination/CHANGELOG.md",
+      "size": 1951,
+      "sha256": "ea4ffcfc63880ba2a9e78fb158b6251149bc19916f141d8f371702f439faee58"
+    },
+    {
+      "path": "BepInEx/plugins/XuXiaolan-ReXuvination/icon.png",
+      "size": 71556,
+      "sha256": "38c825aaf32cad6f727d800a207a584b6b51c32f7b5d758501d2197bb0aab406"
+    },
+    {
+      "path": "BepInEx/plugins/XuXiaolan-ReXuvination/LICENSE",
+      "size": 6,
+      "sha256": "c8f5b3060ea4d51f767a52603ce70d194f3f73b0ae86439c162536d0a05f6c2a"
+    },
+    {
+      "path": "BepInEx/plugins/XuXiaolan-ReXuvination/README.md",
+      "size": 1292,
+      "sha256": "2e702d11b224be7b23e55253a5e8887c010911af4157bb276010079f111eb763"
+    },
+    {
+      "path": "BepInEx/plugins/XuXiaolan-ReXuvination/ReXuvination.dll",
+      "size": 38400,
+      "sha256": "f882117c96853b0ba9a588c5f7a789a934a62fd53585699af4a7c18b4da16011"
+    },
+    {
+      "path": "BepInEx/plugins/Zaggy1024-DunGenReferenceFixer/CHANGELOG.md",
+      "size": 34,
+      "sha256": "2e35b8bbe75e4b600a8d6d201687a802ba373396ddc8b0e7cf3126d29eb89f93"
+    },
+    {
+      "path": "BepInEx/plugins/Zaggy1024-DunGenReferenceFixer/icon.png",
+      "size": 9790,
+      "sha256": "88a91d39672b406f75b6dbac61923be4931c8a19e2f87a9636b4f15632a30352"
+    },
+    {
+      "path": "BepInEx/plugins/Zaggy1024-DunGenReferenceFixer/LICENSE",
+      "size": 1087,
+      "sha256": "7d74cddbb935b3401d02a73f548ebf3e8c6e60ea279ac8890e3b04facbd18fc2"
+    },
+    {
+      "path": "BepInEx/plugins/Zaggy1024-DunGenReferenceFixer/README.md",
+      "size": 81,
+      "sha256": "23becea43e77ad17bf6393e3aacd92a77bc902219951c83e13887814f270b1bd"
+    },
+    {
+      "path": "BepInEx/plugins/Zaggy1024-PathfindingLagFix/CHANGELOG.md",
+      "size": 5743,
+      "sha256": "3270f009955f3d394adda8d729689ccdcbb3a3b1dee49f41e2283da47418ad5b"
+    },
+    {
+      "path": "BepInEx/plugins/Zaggy1024-PathfindingLagFix/icon.png",
+      "size": 85307,
+      "sha256": "b1a54c21ff922dca18db698a06c1c54e967ff149961116e799ea400e732d9b0b"
+    },
+    {
+      "path": "BepInEx/plugins/Zaggy1024-PathfindingLagFix/LICENSE",
+      "size": 1066,
+      "sha256": "43e711df6960b41cd06fcf597b24ccb95c25696a7a92db922f38fabfd9bc6171"
+    },
+    {
+      "path": "BepInEx/plugins/Zaggy1024-PathfindingLagFix/PathfindingLagFix.dll",
+      "size": 122368,
+      "sha256": "93611f74ae7ab7b8909f0df0fdd09c14d7f4e211a1a7a074684cd4d9a3418ee8"
+    },
+    {
+      "path": "BepInEx/plugins/Zaggy1024-PathfindingLagFix/README.md",
+      "size": 4559,
+      "sha256": "d213970d8f935e8a26386765ef0cb0164768f84c939e0db4e00a23b7a54dfc23"
+    },
+    {
+      "path": "BepInEx/plugins/Zaggy1024-PathfindingLib/CHANGELOG.md",
+      "size": 7478,
+      "sha256": "a5ad180519f9ea7aaa75e0e2729608701b30b42d28084885bcbb94c859704e5a"
+    },
+    {
+      "path": "BepInEx/plugins/Zaggy1024-PathfindingLib/icon.png",
+      "size": 31459,
+      "sha256": "34e61a898bdd9acaee5cef5538356e7b7f6bf74893996fcc6c5aa2d754b182f4"
+    },
+    {
+      "path": "BepInEx/plugins/Zaggy1024-PathfindingLib/LICENSE",
+      "size": 1066,
+      "sha256": "43e711df6960b41cd06fcf597b24ccb95c25696a7a92db922f38fabfd9bc6171"
+    },
+    {
+      "path": "BepInEx/plugins/Zaggy1024-PathfindingLib/PathfindingLib.dll",
+      "size": 131072,
+      "sha256": "140c1776f3d3eeda102dc290951d3029066a646ab08deed08fe9ae6f6916eef7"
+    },
+    {
+      "path": "BepInEx/plugins/Zaggy1024-PathfindingLib/README.md",
+      "size": 5507,
+      "sha256": "de226d53bab2b49a366e5a3dd1faf6ed42844283a22b099170c8d7449938830c"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-Hitmarker/CHANGELOG.md",
+      "size": 1747,
+      "sha256": "93d6c92311f28c58f297699a471fe918d3086aa74b039d37bbe44eb498d9c01d"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-Hitmarker/com.github.zehsteam.Hitmarker.dll",
+      "size": 31744,
+      "sha256": "724057a9d44952298714e68f32124a57df46ae3706f8d81f261b12b28075c1bf"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-Hitmarker/hitmarker_assets",
+      "size": 205080,
+      "sha256": "a59867f272e72fb8ca3376c472424f87d1515ef87cebc4e2844eb051d8b67bd5"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-Hitmarker/icon.png",
+      "size": 98013,
+      "sha256": "66dabdb8770411a6c3eb8f2e26e4a4b9dc4155394aaccc32d3d52f0756345444"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-Hitmarker/README.md",
+      "size": 2255,
+      "sha256": "8f85391af6bbd1c01a9ded13da2f76a459d693a5a11669c4e2f8f393b4545227"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-LCBetterSavesFix/CHANGELOG.md",
+      "size": 28,
+      "sha256": "6d9100eafb2b0865b17a78122f7471acbe8da60a0d4e98ef459bd656454c62d4"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-LCBetterSavesFix/com.github.zehsteam.LCBetterSavesFix.dll",
+      "size": 22016,
+      "sha256": "3dfabacb6e49c076825e0a0392db1d151195a080c08ed32f68c0d6e7f6ee02b1"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-LCBetterSavesFix/icon.png",
+      "size": 58101,
+      "sha256": "080fbfdfb2c23ecdbca978d68751c52ba5f396cf5cd26594a2712c16f68d030a"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-LCBetterSavesFix/README.md",
+      "size": 818,
+      "sha256": "080fd0560fb93b5cbf3fe78a6794e7ba665e7ec19586f0fddb5c62d868c2fcd5"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-RemoveInteriorFog/CHANGELOG.md",
+      "size": 593,
+      "sha256": "aaeb6f860a660e2254af7e24fa44c84a8b82ccd2ab11168a4d768916d8d5b784"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-RemoveInteriorFog/com.github.zehsteam.RemoveInteriorFog.dll",
+      "size": 50688,
+      "sha256": "a5cf4f84687ba3bc21e109e992ccdbdadea0cef46ad26a472e19dab4359dbf5f"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-RemoveInteriorFog/icon.png",
+      "size": 54877,
+      "sha256": "0ab438d70e99ac4615161d12625dd36732e60142e4ac7281e5df2fafb412fa0b"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-RemoveInteriorFog/LICENSE.txt",
+      "size": 1082,
+      "sha256": "879183a7022ffe339e7b0f6cd52af63cf63c627d3e09693228de1874684ecd33"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-RemoveInteriorFog/README.md",
+      "size": 1636,
+      "sha256": "de6ffd1b1f98b62ef82301c8a7b21cc45c85363887afd056c23e686b8cd66afe"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-SellMyScrap/CHANGELOG.md",
+      "size": 15101,
+      "sha256": "176930cfa21cfe8558a8b488744cd6c3b1b4d05cbe645d340d065593ff058f47"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-SellMyScrap/com.github.zehsteam.SellMyScrap.dll",
+      "size": 208384,
+      "sha256": "1a27500f4e1c683f569325ceeea7a780506be96a935275407c5a881dfc95800d"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-SellMyScrap/com.github.zehsteam.SellMyScrap.v40-v72.dll",
+      "size": 207872,
+      "sha256": "0ab886b906c58768af2d8601745b75591e49aec606bf1b8f528122dcc2de89a8"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-SellMyScrap/com.github.zehsteam.SellMyScrap.v40-v72.xml",
+      "size": 11011,
+      "sha256": "ee12bb8621fd69ea3d55f1e4e1d11d98365e22c3eca173f5546b3125482ffe5e"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-SellMyScrap/com.github.zehsteam.SellMyScrap.xml",
+      "size": 11003,
+      "sha256": "d24e59a664a1eb1f591c9c0cd96510e883a14d44fc7b6f5f232b5ad28b9db7ea"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-SellMyScrap/icon.png",
+      "size": 68903,
+      "sha256": "3ed2d61b0617097e16d92efbb535784fdc12c60cc0f93e8e4c1ac8df78f8b8d1"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-SellMyScrap/LICENSE.txt",
+      "size": 1082,
+      "sha256": "879183a7022ffe339e7b0f6cd52af63cf63c627d3e09693228de1874684ecd33"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-SellMyScrap/README.md",
+      "size": 14826,
+      "sha256": "049c3e424713c75d398f3af8d96a30bf278b96235448ea8549be6026ea4ae050"
+    },
+    {
+      "path": "BepInEx/plugins/Zehs-SellMyScrap/sellmyscrap_assets",
+      "size": 29652247,
+      "sha256": "f5a89a507601cd84ed3ad296bc714d466a398527ed28efec17073403a408894a"
+    },
+    {
+      "path": "BepInEx/plugins/ZetaArcade-SpectateEnemiesFork/CHANGELOG.md",
+      "size": 5474,
+      "sha256": "bf2c0fc836544fd58b8527dc711422f2943d7a6e21fb4f50018e5e9697de19e7"
+    },
+    {
+      "path": "BepInEx/plugins/ZetaArcade-SpectateEnemiesFork/icon.png",
+      "size": 102483,
+      "sha256": "dc0d0228ed4baa1e067e5b36f5d770df3693c90430a11efe7dfaef7460a00872"
+    },
+    {
+      "path": "BepInEx/plugins/ZetaArcade-SpectateEnemiesFork/README.md",
+      "size": 3898,
+      "sha256": "9c5d7659fbac13e315597f31010bbe121d90386e6f9fb3808df05ccbe3218d30"
+    },
+    {
+      "path": "BepInEx/plugins/ZetaArcade-SpectateEnemiesFork/SpectateEnemy.dll",
+      "size": 22528,
+      "sha256": "da1e7fc8493f27834663cfd4cf1da98c4774edac62a1fd4ebcfd97cfc80c2bb2"
+    },
+    {
+      "path": "BepInEx/plugins/xilophor-StaticNetcodeLib/StaticNetcodeLib/Xilophor.StaticNetcodeLib.dll",
+      "size": 35328,
+      "sha256": "03dccf9a41259671150dd435b129c22ab7f7f2ac4e075d50848a834928a6b9da"
+    },
+    {
+      "path": "BepInEx/plugins/xilophor-LethalNetworkAPI/LethalNetworkAPI/LethalNetworkAPI.dll",
+      "size": 89088,
+      "sha256": "2c2ba6aaaa5f0d20e7c570cb18266d7cf279cf98b8f6f736420a6b4a17b31e4e"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/!more-suits.txt",
+      "size": 766,
+      "sha256": "a61bd0853cd145f572c142a336e0c9802dd333988b6e1ee1b5372e537e3904b4"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/Glow.png",
+      "size": 834494,
+      "sha256": "f519556fd4e3018ac0b7b2d895d8881703922a708b21c1366f98b042f6cd61b4"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/Kirby.png",
+      "size": 114784,
+      "sha256": "278cfbbb36b78850b34d206c25d60c9dc6a1fb2061a4ade56c76b6d62b1cdd92"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/Knuckles.png",
+      "size": 413229,
+      "sha256": "2339bb88937d04f32151cafb2bfaf76ebc649b6e01e1ec6a8214d9af7e7333fc"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/Luigi.png",
+      "size": 769079,
+      "sha256": "ee990cfa3683c391ccb3dffdfec4595aca63bd289d864c01f25e7484f58111d7"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/Mario.png",
+      "size": 774664,
+      "sha256": "fc3d4402135cb2a7f056fc82d1a60be803addd54ed0fd86efedd49d5adcc446f"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/Minion.png",
+      "size": 533425,
+      "sha256": "72d8cf391c920797b55e175fdf2960774a5faf89f9e2d1ba3c660ee6701d5072"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/Skeleton.png",
+      "size": 614319,
+      "sha256": "d5b9b6d3ed62edfdc6a90e37ca8787ad3f241599e07e0c9a43c1286b7486bf08"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/Slayer.png",
+      "size": 1910699,
+      "sha256": "d165abc664546f8a9cf365da4a3aa27078a65cd8f19e98866312b66b72b765af"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/Smile.png",
+      "size": 275139,
+      "sha256": "c7909989fbe38205cd97d65c04504d9073ed4da873646a4e93e1c1f4d8fe8d6b"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/advanced/Default (for making your own).png",
+      "size": 285547,
+      "sha256": "53c732543efe12f59592fb349f311eed7985564f204ecdb9d940ab68f8a2dfce"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/advanced/Glow.json",
+      "size": 245,
+      "sha256": "46a63cffa8bf42c94e301b9b79ba51b2050f23a30ce173cbd54b2c2435f1ccc3"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/advanced/glow.png",
+      "size": 686818,
+      "sha256": "b76854ade49f60cb581176c5ee4b699c1a8bc0669e77cc3aec84d5eada241c03"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/advanced/Kirby.json",
+      "size": 31,
+      "sha256": "b310a1054ad7f926b6ef663adb6c021cec088bf63a88e1a60c55f1e0581a8693"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/advanced/Knuckles.json",
+      "size": 31,
+      "sha256": "b310a1054ad7f926b6ef663adb6c021cec088bf63a88e1a60c55f1e0581a8693"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/advanced/Luigi.json",
+      "size": 31,
+      "sha256": "b310a1054ad7f926b6ef663adb6c021cec088bf63a88e1a60c55f1e0581a8693"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/advanced/Mario.json",
+      "size": 31,
+      "sha256": "b310a1054ad7f926b6ef663adb6c021cec088bf63a88e1a60c55f1e0581a8693"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/advanced/Minion.json",
+      "size": 31,
+      "sha256": "b310a1054ad7f926b6ef663adb6c021cec088bf63a88e1a60c55f1e0581a8693"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/advanced/PlayerSuitTex2b.png",
+      "size": 2858730,
+      "sha256": "5b68d7e57d245e9e14722e0e95aedcfd4f81626e328a54398d22de9e58a15858"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/advanced/Skeleton.json",
+      "size": 31,
+      "sha256": "b310a1054ad7f926b6ef663adb6c021cec088bf63a88e1a60c55f1e0581a8693"
+    },
+    {
+      "path": "BepInEx/plugins/x753-More_Suits/moresuits/advanced/Slayer.json",
+      "size": 31,
+      "sha256": "b310a1054ad7f926b6ef663adb6c021cec088bf63a88e1a60c55f1e0581a8693"
+    },
+    {
+      "path": "BepInEx/plugins/WhiteSpike-Moon_Day_Speed_Multiplier_Patcher/MoonDaySpeedMultiplierPatcher/MoonDaySpeedMultiplierPatcher.dll",
+      "size": 12288,
+      "sha256": "34b927003cfa4eb4adced60e0fd0ff1498c88401ae65759ea044491d2af39c68"
+    },
+    {
+      "path": "BepInEx/plugins/VirusTLNR-MaskedInvisFix/VirusTLNR-MaskedInvisFix/MaskedInvisFix.dll",
+      "size": 20480,
+      "sha256": "a91e28183619ba1282db491d87f0f1e826fe5ab997a647cd38689a02cfa9d57c"
+    },
+    {
+      "path": "BepInEx/plugins/tinyhoot-ShipLoot/ShipLoot/ShipLoot.dll",
+      "size": 11776,
+      "sha256": "f95e9e4261d43b4e1cbac14c1c9abe2dd9d75729b3416a93c7270cbaaa981b1f"
+    },
+    {
+      "path": "BepInEx/plugins/tinyhoot-ShipLobby/ShipLobby/ShipLobby.dll",
+      "size": 9728,
+      "sha256": "e9c948d767233017b44d945f11263d03d8492092be461710cd8ecdcd21efec9e"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/Assets/achievementbirds",
+      "size": 34200,
+      "sha256": "4b197b42ddb3459ddff281384224ef27372986108120032a6cce6f73d86d1ffe"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/Assets/achievementblackout",
+      "size": 4396,
+      "sha256": "77d0fa2dd4555667fb3269666de9913d1f697ca525e3532114582145fe3224bf"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/Assets/achievementbotanic",
+      "size": 8040,
+      "sha256": "c5e97ba5893957b1f8c3b4ed334ab50809aa0b852642caf74dfb888f5c969649"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/Assets/achievementemp",
+      "size": 5010,
+      "sha256": "6db9e14dcb494a601f578a137a5ab3d45eafc595179f8730e58fc386a19aae1e"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/Assets/achievementgreenhouse",
+      "size": 12079,
+      "sha256": "f3d01223cda6a2f0543995b277db2ed63dacd4ff5b078bb4a667cc2830e768e3"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/Assets/achievementpipe",
+      "size": 4539,
+      "sha256": "6806176dfdce675045d79f11aa1ebb741d93631006bdb432c37e9dd6824cc353"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/Assets/achievementred",
+      "size": 6403,
+      "sha256": "1feec6c2ed622a3d8020840162e46f53f91f2690d9864c43419b4255a86a5834"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/Assets/achievementteliot",
+      "size": 14436,
+      "sha256": "93975bc993fdc8d30a555c4ad5578995e87d070f84ced7f982e0bf184189e0cb"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/Assets/achievementtide",
+      "size": 6383,
+      "sha256": "054c3c612898e8488185f26c47d6ffa2009f6c1b7a63bb7a992c54649f0ee90b"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/Assets/achievementtrain",
+      "size": 4521,
+      "sha256": "8666ab073ae0a615a99ad2fde41392ee6fb1181e363c620c1228656259c12659"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/Assets/achievementweed",
+      "size": 8075,
+      "sha256": "be32ecd472f9bc369a1b381f0338b56bf2f42fdc65388593464ef1273a8a119a"
+    },
+    {
+      "path": "BepInEx/plugins/TheWildSkelaah-SkelaahsWildMoons/Assets/achievementziplines",
+      "size": 5592,
+      "sha256": "2e769a3e7ebc321606dbdbcacf6c72adbec3046f5ed238a47db1c8ed9b8cb6cf"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/com.github.teamxiaolan.dawnlib.compatibility.dll",
+      "size": 17920,
+      "sha256": "bf15598803ef262a7be4760f547b23f70fc3ae6b067b2ab18100584d399f23e4"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/com.github.teamxiaolan.dawnlib.dll",
+      "size": 615424,
+      "sha256": "9b4826a16eec1fa5091fb4246d010005bc9c3e04282034e8d067b499ab5c125b"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/com.github.teamxiaolan.dawnlib.dusk.dll",
+      "size": 336896,
+      "sha256": "3582f1a35efe3753004d7b209aea355a6c02b646b61cc1629c53a311ba8d1f03"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/com.github.teamxiaolan.dawnlib.interfaces.dll",
+      "size": 20992,
+      "sha256": "cc60c29da1057597dc51a2bba9eec3b895e4cfaff894384b1eb58b5b1ef12960"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/Assets/dawnlibmainnetwork",
+      "size": 2259,
+      "sha256": "afdb6c49defbabd643883d923549f047ac7d65f8de640168187f998ecbe5a671"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/Assets/dawnlibmainvanilla",
+      "size": 142974,
+      "sha256": "e34fb98e3e21e558cb733043b876ab05be085fd26bcfebf1a99adae84924425a"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/Assets/dusklibmain",
+      "size": 178260,
+      "sha256": "cc19a8ac89cd2d1bfefc3ca14576f50eaca865991a3d2ef2b654363c73624826"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/keys/extra.namespaced_keys.json",
+      "size": 184,
+      "sha256": "22319d6bf455a41c3a86c91a7d8f1017328866cb80f846bf1e7455324ec095a6"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/keys/vanilla.namespaced_keys.json",
+      "size": 17926,
+      "sha256": "54043834c67b5fd00d382701c6e0ef8cadfbb225ce34bacc6274300e9b380c9a"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/all.tag.json",
+      "size": 71,
+      "sha256": "18fffae641cfae8d0cc2b1638a25c71c1ca4dce4e680fefdc618037c34f9b71e"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/cold.tag.json",
+      "size": 134,
+      "sha256": "3f54dda7ac95946e78bd0974b597bea5a8100e4dcc8e15ae04743999efbab406"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/custom.tag.json",
+      "size": 77,
+      "sha256": "182384b872fa2b57c571f40110f858f3334d89824271d2016be568c371195865"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/hot.tag.json",
+      "size": 212,
+      "sha256": "2789f182227d46e9567d0b930885796d3379c8cc6335842bd31185e7fdf35662"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/military.tag.json",
+      "size": 87,
+      "sha256": "0fa925146d7230e257aa0a2bfaaad86606a9bfdac0d746737c77576f253a8a34"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/natural.tag.json",
+      "size": 185,
+      "sha256": "6fa0b364dd4faff0c116a85d779b64a0a18b5ca820e71f5fbaf92a1924163f95"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/paid.tag.json",
+      "size": 72,
+      "sha256": "f6cb89d1cdfd333fe59ca0d17f3432de4abf3e198ee5ecae09fddc954635ddcf"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/unimplemented.tag.json",
+      "size": 215,
+      "sha256": "41664281a6f6145b8aac719e18a5fecc2b7338bba67b7df7d7f723417dacc59e"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/vanilla.tag.json",
+      "size": 78,
+      "sha256": "5c250318cac8c0f944fa89db7515a0d7b24abe3362f4a07061423ead55e8e266"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/abandoned.tag.json",
+      "size": 120,
+      "sha256": "0fda9fd6b10e8afbbc92bf0c64daf30df18a6fc15585f9fe8b15b4a87acb5ccc"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/artificial.tag.json",
+      "size": 120,
+      "sha256": "5987670f1bd79fa957809a43ae5aac6fcaa318da86270db98b7c6872a03991ca"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/bunker.tag.json",
+      "size": 55,
+      "sha256": "ae976fbdcd4e2c4f188b9ad7b32b0e51114c63e58b9e7ceb302e7c87dc220465"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/catacomb.tag.json",
+      "size": 57,
+      "sha256": "8029059e90026302930127539ae65bc3f16b7b9e2b21eab776c577ec61f665c7"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/cavern.tag.json",
+      "size": 86,
+      "sha256": "d6858cebb2670cd78338de5b73f3353b3383795d23bc53fae97a35943a18f8d2"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/claustrophobic.tag.json",
+      "size": 125,
+      "sha256": "5f7fbb1185973250378bba76134240ddf3535153415814f3679f594f921d479d"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/dusty.tag.json",
+      "size": 116,
+      "sha256": "2706411072a9d6ae423cc8d94cad11ed466bd201b55cc3dfe8d98b4cab6e3c07"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/eerie.tag.json",
+      "size": 85,
+      "sha256": "c412c798f12dd39b3b9225811d183bca08506aeee29af51a3d010f559b5e303b"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/factory.tag.json",
+      "size": 86,
+      "sha256": "633e92a1cf9cadc5d89e8d573e9ec54e930382b9a79a86d17da409ffc4497016"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/flooded.tag.json",
+      "size": 87,
+      "sha256": "fb8baffc684a021182476c3bd769a9aae981e35beb1aa657065a323a005898ed"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/gothic.tag.json",
+      "size": 84,
+      "sha256": "0c79c37f7e57219d794cc76e1fed4b52e4152c9eaf995007b6ecc858267eeba0"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/grand.tag.json",
+      "size": 83,
+      "sha256": "986abb5802c2d30f07cc797c31df9e6105343498a3afa9bc38c19fea809a3481"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/industrial.tag.json",
+      "size": 121,
+      "sha256": "966f00cf3df99778cb91f99c2aa98467cbdc045b03174650b6083de74b92c108"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/lavish.tag.json",
+      "size": 84,
+      "sha256": "1e4694ff0080e153165133cf7d05ffbec7dbebc25e1076da7eedddc376274e74"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/maze.tag.json",
+      "size": 115,
+      "sha256": "e852541cf8c52dd96695812452967ced6593f5f8cb144494852775b03afa6bc2"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/mechanical.tag.json",
+      "size": 89,
+      "sha256": "b84525091976e0e86d0638a72ad0e391827171216f1233f7c665627610f2b645"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/monotone.tag.json",
+      "size": 119,
+      "sha256": "791f08a8e0d10b228c9fcf57f8d776b7cd8a0b306b859acedb7642e3147899cb"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/ornate.tag.json",
+      "size": 84,
+      "sha256": "2c72e11ddb8ed1a84e8df7629d96e8ea0aea9f3c6eabe46f8679e23fbf9fcba4"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/quarry.tag.json",
+      "size": 86,
+      "sha256": "b5240652e76f233a9dd1fe5a832dcc7208020001279b823cd0a1a846cdf73cb1"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/reactor.tag.json",
+      "size": 86,
+      "sha256": "5c01040897de2339fcb1dacb4e44f0bf0b43d6c74bb6be04c229d767da425e22"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/ruins.tag.json",
+      "size": 85,
+      "sha256": "49f58c01dda107229c0c1494f61fa5cdb85b0f0838f0610851c30fff9c91bfda"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/storage.tag.json",
+      "size": 86,
+      "sha256": "b423017aef1ea178d4e5c14329b55504cb3f104aa7b304b87fcc15a1c7a1638a"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Dungeon/withered.tag.json",
+      "size": 62,
+      "sha256": "3d5735f76402f02a20798bd70cacf36a47753637c7b789ac3899fbe5af7eedfd"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Enemies/biped.tag.json",
+      "size": 489,
+      "sha256": "ea2a7e5f5e8c2d0e06140d3d8df7d65805b3f8998824540f68487ba034447bf2"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Enemies/hostile.tag.json",
+      "size": 618,
+      "sha256": "f141597fcfcbd97df5cd96466f71a720e2e16ee98e1667721b99e9a5122020fd"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Enemies/killable.tag.json",
+      "size": 76,
+      "sha256": "6dd3b8d12a1209e4f16a0284a26f5b33cc5dbfc42a5c3643134ec3993193f20b"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Enemies/large.tag.json",
+      "size": 73,
+      "sha256": "7d5d6a543797e28af7b9290fd90a6ca0185f524059c9cceda5509d995ef9273f"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Enemies/medium.tag.json",
+      "size": 74,
+      "sha256": "bde2773a3a168ced62dc897d6dbe2b4e0b3293f55788df5a2068ab845d34b0fa"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Enemies/neutral.tag.json",
+      "size": 296,
+      "sha256": "ceff0c7f9d75f53cb8adddd6a0f8393413e496cb64c76ccd4e1d87551807a2d3"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Enemies/organic.tag.json",
+      "size": 725,
+      "sha256": "210e94400f3fb445aa6476d2a81cddfb73a762f104ea8d98cfea8aa683905682"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Enemies/passive.tag.json",
+      "size": 162,
+      "sha256": "3fcdf0a2238845a5cd3f4c05b9932be5921883da17028dc00a859baa005e1ac8"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Enemies/quadruped.tag.json",
+      "size": 245,
+      "sha256": "d22cce4d36b329256bb177f98762e0c64eae038d4ac774e60a015b7abe7c0cf2"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Enemies/small.tag.json",
+      "size": 73,
+      "sha256": "b928902152e33df661aee1464d19a168c5956568d709eb59a5cd76b649a1a605"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/beast_byproduct.tag.json",
+      "size": 154,
+      "sha256": "455d00728071c621539ca907a4bcd1b4e387830325c30a0fb91e8c025cdc2a63"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/body_parts.tag.json",
+      "size": 283,
+      "sha256": "61f9870fd0d6b8ac85a8e448d75bec45b5f2d983ae038111650ce02f304eddf2"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/chargeable.tag.json",
+      "size": 78,
+      "sha256": "6f35620aec4845ff6763688333b3ce07f297ba62d904da5450ad112272d59419"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/communicative.tag.json",
+      "size": 166,
+      "sha256": "0c395c81709c32d756869593af7911cf9c6f9c695f780a3727fa3dfd83af1343"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/conductive.tag.json",
+      "size": 78,
+      "sha256": "ca3ebbab582eb4c21bb1996bde31bf8f746d9509e4ff994c90e2dd964bb832b0"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/consumable.tag.json",
+      "size": 322,
+      "sha256": "20277901e1f035d4f383cccbad478d41167dbe4249f16e0597e3af0c910ad8f5"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/general_item_class_group.tag.json",
+      "size": 92,
+      "sha256": "b824ffe25fcd9d67d38270a4da52a404f6dcd947e8a254542fd2953a208d5f6c"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/harmful.tag.json",
+      "size": 442,
+      "sha256": "3249a37c56c6e88f76fb1537cc586a634b6a398929d9af8e45f750a261f8181d"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/heavy_weight.tag.json",
+      "size": 80,
+      "sha256": "57ba6f5c6e4a147915bf76858a556bd966220c25074e6eecf45f7f7777258ea4"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/high_value.tag.json",
+      "size": 78,
+      "sha256": "4fa6f8052acbe3727592f7106f468c5df7da585ba558f14ee827de7d0e2a2993"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/household.tag.json",
+      "size": 1041,
+      "sha256": "a8bacde4b14ef4a19f1caac2e5c2e2e7e752c8a129aeef9d1a2c73ecd632d7d5"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/information.tag.json",
+      "size": 126,
+      "sha256": "e23b208806dbecce7a1b50a1d9bcd4d16584b46955d592be3b959024e12a979d"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/interactable.tag.json",
+      "size": 80,
+      "sha256": "57588402b2005539426b6fa8f823060bc559128e61b28ebf8cba25d4896ac54b"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/light_weight.tag.json",
+      "size": 80,
+      "sha256": "6b082582d074d246156be410f6025b46f36deb7aa3020cbbd5cee75937def2f9"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/low_value.tag.json",
+      "size": 77,
+      "sha256": "a4faed4bb09e59d42079a8a6171c0ebd002f54adfcef608846db4748f1bd0c66"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/luminescent.tag.json",
+      "size": 230,
+      "sha256": "fcc57665aa1092d91f8199576002a1b8a5f0c69913d223b248e7b8bbe7ea4d12"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/machine_part.tag.json",
+      "size": 229,
+      "sha256": "7efe0c5295ea22a76e97a7b859629917c156aae65c2e532374b208d3022ac765"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/medium_value.tag.json",
+      "size": 80,
+      "sha256": "6cb972c8799e356831dd935db514e5ad191adbe95c301d3a7e387273e8952d63"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/medium_weight.tag.json",
+      "size": 81,
+      "sha256": "c9dce78ee925e9269f77c4ad350eadfe1bf8df91f36cf73c378d9dc491847de4"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/metal.tag.json",
+      "size": 743,
+      "sha256": "1f0d10b5da96d53170422c63c202ff17f439e78fca2cb86cb2e9db197a36085b"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/noisy.tag.json",
+      "size": 73,
+      "sha256": "a26562dbf2af2d6dbfb2b6404148fd564564e747612c8204dc65e22bcc829fd9"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/non_interactable.tag.json",
+      "size": 84,
+      "sha256": "e8f654524ca1907b4abbb247521dba92da21ff40ea4ca82f28228b2fa4fb5ed6"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/one_handed.tag.json",
+      "size": 78,
+      "sha256": "5b443085c3de9a61d9abae589551c804cb2c3a4d6f3b5fbf357d99a976a7e827"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/scrap.tag.json",
+      "size": 73,
+      "sha256": "a40a623fe4415ac7da51d7fb762c2aee6ed745f6e73f636d6355c44055923615"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/small_items_group.tag.json",
+      "size": 85,
+      "sha256": "df64bdf0882cfb6b2df8b38ee5b3450f1d8c83c10b24d5d1955b9cc1447adb16"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/tabletop_items_group.tag.json",
+      "size": 88,
+      "sha256": "dbffc8e0637b246d2716169d54535d033e7a10e710ac00a874b876b4b1ba521b"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/test_item_group.tag.json",
+      "size": 83,
+      "sha256": "f125ae993572ed70172ac4d7234d893c540cd45f109768e003d1e20cb5473df1"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/tool.tag.json",
+      "size": 72,
+      "sha256": "20383a08c2c2b2794eb945bbc94c6e1b0f47bb4de97fd3c12185465464307275"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/transportation.tag.json",
+      "size": 191,
+      "sha256": "7425a51db084263627595b220bbe8d5ebcc4e728f88ff1e8e577663105f7d3aa"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/two_handed.tag.json",
+      "size": 78,
+      "sha256": "7376551a231367fa1982d25ec72a7b5c46bd7ba263f252b42f424f0c7de740fe"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Items/weapon.tag.json",
+      "size": 74,
+      "sha256": "bc94ddac6c403e785e8945b8e215b7c88d15b5c4b135bb818e41126cfdfe5f31"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/amethyst.tag.json",
+      "size": 86,
+      "sha256": "b8d674df7cac1bb4c3843ca4ff184d63f1c9d08ffd83d93e4be0aa162d32d2f1"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/canyon.tag.json",
+      "size": 117,
+      "sha256": "e5545478776755c2226b699df00c2e91a4d69b7b351f46e0bd211ae7c4824448"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/company.tag.json",
+      "size": 100,
+      "sha256": "152ac2a76acf034969b72e91b95bd669283ea00738008766218565c945627991"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/desert.tag.json",
+      "size": 116,
+      "sha256": "bf6112a806bb5eefcc9a45a78c802d949c859d77faa716df32ec0221242c9b1b"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/forest.tag.json",
+      "size": 152,
+      "sha256": "e3898e4f40c340c66c8337861a27a438e0669a10ce5aaf27fbf3851ed14a369d"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/free.tag.json",
+      "size": 97,
+      "sha256": "daa2be72706881db267e215bead65f1d6317934a769b06e0990602955f07db83"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/habitable.tag.json",
+      "size": 208,
+      "sha256": "b4a87937d4e012eb3dfa7b2f861e2c3e749878c9a7f1e98a89c24ca78efedf70"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/inhabited.tag.json",
+      "size": 87,
+      "sha256": "1cd799853056601726179f42c6e80c4c6c9772e112754f10962bd61d32c10f41"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/marsh.tag.json",
+      "size": 84,
+      "sha256": "426086efca40dcf414f7c90eac221e20c29af1170f1a3ab842843f6d7b2d9fc5"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/plains.tag.json",
+      "size": 85,
+      "sha256": "5b59c9718a01af8731698b4b37875c7f4b33d8c215f3ec7be5d5cc56017651bb"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/rocky.tag.json",
+      "size": 83,
+      "sha256": "206138214a6e10af3269f7aa3ad71500bcdf8328fa4340ffbc78215f3eaa6468"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/temperate.tag.json",
+      "size": 142,
+      "sha256": "66018b46062a4b6739678fca70679620fdebf3df33cb72cb0af86a9c151709d4"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/tundra.tag.json",
+      "size": 136,
+      "sha256": "d13a923e9a160e74642230e175b91052a3e4568f9097906100b10ba5a1107de1"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/valley.tag.json",
+      "size": 139,
+      "sha256": "86e9846ea52f1b3ee53a44ba3a7e77e82d54a26ba0060db785d02eebf7ba44dc"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/wasteland.tag.json",
+      "size": 95,
+      "sha256": "3b4af1996eeff5358d6aedef971ef8a8569e4e46b49fc36415b7008b9de3cee1"
+    },
+    {
+      "path": "BepInEx/plugins/TeamXiaolan-DawnLib/DawnLib/data/tags/Moons/wet.tag.json",
+      "size": 166,
+      "sha256": "b81d9bfd75b0039809e0929d977d2ef2f8b16a848d8d18721264f9a8d73a8ac9"
+    },
+    {
+      "path": "BepInEx/plugins/Sniper1_1-WaterAssetRestorer/MaterialReplacements/waters.json",
+      "size": 816,
+      "sha256": "16a51a3dafb5b16dbf100c67ba41f19f25eb0fce8f13fcd6e6a7b2d02c398ec8"
+    },
+    {
+      "path": "BepInEx/plugins/Smxrez-FashionableCompany/MoreCompanyCosmetics/FashionableCompany.cosmetics",
+      "size": 2175400,
+      "sha256": "5267a36d4b4e418a21f314c746f60d54faddd4c6eb2a557aa4759f8befb2dd65"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-Vandal_Electronics_Scanvan/scanvan/cruiser+.lethalbundle",
+      "size": 14106289,
+      "sha256": "cbdeec3f85b2d7c783aa6cd3b6dfd1d3ee2df10f4e6357393538c5691a456319"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-Vandal_Electronics_Scanvan/scanvan/RadioBrowser.dll",
+      "size": 35840,
+      "sha256": "260948ee7e0e9d69bfb7314e39ae47a606b9204e0b082285a1d016338247415d"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-Vandal_Electronics_Scanvan/scanvan/scandal.scanvan.dll",
+      "size": 267776,
+      "sha256": "405a3b0538eb37cf8129bb4fc6036d33071ecdf56e6e4fa9870cab6a5363df52"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-Scandals_Tweaks/scandalstweaks/scandal.scandalstweaks.dll",
+      "size": 44544,
+      "sha256": "b57e8f0129ef53cfd937fc57b67e4ba3c53653558bffd9365504c9037f7cec04"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-ScandalLib/scandallib/scandal.scandallib.dll",
+      "size": 119296,
+      "sha256": "14e8d47cfd4d8b612d714e10c92bdf3cb619359b161c1ad7981f69ddb2265bf2"
+    },
+    {
+      "path": "BepInEx/plugins/Scandal-ScandalLib/scandallib/scandalsharedassets",
+      "size": 4373946,
+      "sha256": "252d3ec9499bb7605cf987202dda6885358b47d7171e2977a593a25db8e4fa4a"
+    },
+    {
+      "path": "BepInEx/plugins/Rune580-LethalCompany_InputUtils/LethalCompanyInputUtils/LethalCompanyInputUtils.dll",
+      "size": 102912,
+      "sha256": "d8e311a4e3d61f0272acacac9072f12af2ba95d192cdb983cb24cfe8829c7e13"
+    },
+    {
+      "path": "BepInEx/plugins/Rune580-LethalCompany_InputUtils/LethalCompanyInputUtils/LethalCompanyInputUtils.pdb",
+      "size": 56796,
+      "sha256": "fbc38461b9d55a361c42b26be97858e03c87c3916cac2632f5831f862f410e1d"
+    },
+    {
+      "path": "BepInEx/plugins/Rune580-LethalCompany_InputUtils/LethalCompanyInputUtils/AssetBundles/ui-assets",
+      "size": 106590,
+      "sha256": "d5b288af031101643fabe662275af3660419edab541aa2654151261047eb0b88"
+    },
+    {
+      "path": "BepInEx/plugins/Rune580-LethalCompany_InputUtils/LethalCompanyInputUtils/Locale/en_US.json",
+      "size": 1903,
+      "sha256": "d967eba7009bb24a0aad279157392fbc1c7c446a3ebd6c45cf047134d4cc1b46"
+    },
+    {
+      "path": "BepInEx/plugins/Rune580-LethalCompany_InputUtils/LethalCompanyInputUtils/Locale/ru_RU.json",
+      "size": 2397,
+      "sha256": "8e12507eb6ef47cf9b50ba0b68e7c0071c037cd2fe8ac4a6eec6a41baffb8cc1"
+    },
+    {
+      "path": "BepInEx/plugins/Rune580-LethalCompany_InputUtils/LethalCompanyInputUtils/Locale/zh_CN.json",
+      "size": 1093,
+      "sha256": "9d174d1b3440dc4d841dcbba4578b7e34c4e701e45b3cdd4d56a7d4f0fc41d1e"
+    },
+    {
+      "path": "BepInEx/plugins/MMHOOK/core/MMHOOK_BepInEx.dll",
+      "size": 219648,
+      "sha256": "b0c66b45b159d5b0dc82db612b27587442b50efaf94c9b73281e170544e3b3d8"
+    },
+    {
+      "path": "BepInEx/plugins/MMHOOK/Managed/MMHOOK_Assembly-CSharp.dll",
+      "size": 3988480,
+      "sha256": "82f72c45c77c6064969190391d8e535631335442b2ed6cd07eb42f925a33228a"
+    },
+    {
+      "path": "BepInEx/plugins/MMHOOK/Managed/MMHOOK_DissonanceVoip.dll",
+      "size": 418816,
+      "sha256": "ac72bd00f7adc648e0846e87664601d38bacaf50e56bb75dbaf6852fc4c7f128"
+    },
+    {
+      "path": "BepInEx/plugins/MMHOOK/Managed/MMHOOK_DunGen.dll",
+      "size": 320000,
+      "sha256": "1c68040f3e406285e6b2cb8ed536a137cfa03a73c792ede09264ed0ef8bd1733"
+    },
+    {
+      "path": "BepInEx/plugins/MMHOOK/Managed/MMHOOK_Unity.Netcode.Runtime.dll",
+      "size": 965632,
+      "sha256": "da31625b9f02dddf3e268c7a63ae4c6953e48c1b65024cb3e139e79465125df5"
+    },
+    {
+      "path": "BepInEx/plugins/MMHOOK/Managed/MMHOOK_Unity.TextMeshPro.dll",
+      "size": 578560,
+      "sha256": "3fb4e1498bdfdac7575ad6c4104201e983f4f8bca3c03624faf25c2b6d4ec4a9"
+    },
+    {
+      "path": "BepInEx/plugins/MMHOOK/plugins/MMHOOK_com.willis.lc.lethalsettings.dll",
+      "size": 48128,
+      "sha256": "ad092a895da6b914bd53c0ff8f85310b927f7da2902cbd09af5296ac5c0be665"
+    },
+    {
+      "path": "BepInEx/plugins/MaxWasUnavailable-LethalModDataLib/LethalModDataLib/MaxWasUnavailable.LethalModDataLib.dll",
+      "size": 41984,
+      "sha256": "2d9b35d78dd71a08ec7497dfbd714d19f98b4d9f913e6601b00fd8029ce4875b"
+    },
+    {
+      "path": "BepInEx/plugins/loaforc-FacilityMeltdown/FacilityMeltdown/facilitymeltdown",
+      "size": 3081014,
+      "sha256": "9540af71850a014e8556df1c6d7377473ed6408ae18971d3f104314a8ec7ef70"
+    },
+    {
+      "path": "BepInEx/plugins/loaforc-FacilityMeltdown/FacilityMeltdown/FacilityMeltdown.dll",
+      "size": 105984,
+      "sha256": "e795f35803e9eb3335f531400f84b32e88f3e1a9138cd2de1d828039b8c62091"
+    },
+    {
+      "path": "BepInEx/plugins/loaforc-FacilityMeltdown/FacilityMeltdown/soundapi_mappings.json",
+      "size": 319,
+      "sha256": "14f8fb427d7711eb6c49ff2de385c7f7f77e33005b1a208923b1fcc43850eb31"
+    },
+    {
+      "path": "BepInEx/plugins/loaforc-FacilityMeltdown/FacilityMeltdown/sound_pack.json",
+      "size": 43,
+      "sha256": "a41195ca69c1e400f18e2e5dacc861a21f34693d5acefd0c0f2fe09e23279139"
+    },
+    {
+      "path": "BepInEx/plugins/loaforc-FacilityMeltdown/FacilityMeltdown/lang/en.json",
+      "size": 1930,
+      "sha256": "2d3536c9e41f0eb3f9c9ebf357dd1725a275a8e97f55a45628718516aec221f3"
+    },
+    {
+      "path": "BepInEx/plugins/loaforc-FacilityMeltdown/FacilityMeltdown/lang/es.json",
+      "size": 2288,
+      "sha256": "a1b05b342eec4f069b278f7e9c1c6ec73ad8a22b2cd91d44f393a9a9ce08112d"
+    },
+    {
+      "path": "BepInEx/plugins/loaforc-FacilityMeltdown/FacilityMeltdown/lang/kr.json",
+      "size": 2238,
+      "sha256": "cbe5e7aafe3005605a903ceceb42a616d58546c370c6e672ef67061dd18b0222"
+    },
+    {
+      "path": "BepInEx/plugins/loaforc-FacilityMeltdown/FacilityMeltdown/lang/ru.json",
+      "size": 3367,
+      "sha256": "ef3568d3f794743d8e81e4dee771c610c92bdc2b5faae45ad41ec78c11160222"
+    },
+    {
+      "path": "BepInEx/plugins/loaforc-FacilityMeltdown/FacilityMeltdown/lang/zh.json",
+      "size": 1608,
+      "sha256": "eb8fb36bb99b9629e5a1519f107e0418405599e96f805ea07853f82750ad2531"
+    },
+    {
+      "path": "BepInEx/plugins/loaforc-FacilityMeltdown/FacilityMeltdown/replacers/empty.txt",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/ByeByeThereMeltdown.ogg",
+      "size": 5816885,
+      "sha256": "a95bd4b3f7d0b560bda3362e3e90f4eb9abbf6349a3b710858cbbf50c829405a"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/DistastefulAnchovi.ogg",
+      "size": 3916199,
+      "sha256": "a9099a34d9637fcfdcb4c59a6fb2cc17d2b4aee280da5a8a235c22e41e705fb2"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/DistastefulAnchoviMeltdown.ogg",
+      "size": 3919642,
+      "sha256": "2109e775a84bffe0cce89bcf6de48d60498852cca818a75fa7d34a2f4288ca9c"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/INeedANoise.ogg",
+      "size": 6258005,
+      "sha256": "7fad0b35f699e7f608248cf85f2bffc10dd289a0b8e21ee997a7317c9c06a55c"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/INeedANoiseMeltdown.ogg",
+      "size": 6139759,
+      "sha256": "1da0f315be8837a0c8942920e0feab750c0da182364825c26170597b22503ba5"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/ItsPizzaTimeMeltdown.ogg",
+      "size": 3569524,
+      "sha256": "71d224be7c92e8ae884f8512a97768fa84f42e686e98052618cae65e96f55ac2"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/PizzaTimeNeverEnds.ogg",
+      "size": 5884739,
+      "sha256": "51d71000b2a7763705f2fb7cacacb40711b05ea850b6c77bc1879c3636d127e7"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/PizzaTimeNeverEndsMeltdown.ogg",
+      "size": 5871761,
+      "sha256": "0607f880e2f4f81c4ac9c3a691bbdb6c0605c7f6505be51bb0acda757e45389a"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/TheDeathThatIDeservioliMeltdown.ogg",
+      "size": 3404031,
+      "sha256": "9b961f4b07fc293a6c8bdac3bc5fe53fc4d92273bae47d905bb3e84298d13e30"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/TheOpenedWayMeltdown.ogg",
+      "size": 2326798,
+      "sha256": "63435a7e7e1e535e0ed54776d624674bc9a5faa014f0383cc96024f81f8361d6"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/ThousandMarchMeltdown.ogg",
+      "size": 4216481,
+      "sha256": "e430551ba4aee8355fbe0a74211d2fa2c8846f56a8935053d91a33fb37329367"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/Tsunami.ogg",
+      "size": 3961820,
+      "sha256": "afa783da25dcb603c21f20b4146538a893520aeb77ad8a725b01cbacdc154d6c"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/TsunamiMeltdown.ogg",
+      "size": 3929355,
+      "sha256": "52ed13b5f9e979fb32abc107438e09c1a0ce81a5cf9911baa97f65ec52771f43"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/Unexpectancy.ogg",
+      "size": 4467935,
+      "sha256": "a8416f4a6c4077694b83987228c9cb7e484a18ff972b22ec645ceee5a54624b4"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/UnexpectancyMeltdown.ogg",
+      "size": 4482355,
+      "sha256": "35ebf04a75beed95f228951824d776c3a94ab0369a9823c245c3adbca104e5dd"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/WorldWideNoise.ogg",
+      "size": 2595298,
+      "sha256": "5d5ceef1b82a5eab05eb8bc457ce63d23a94932c7244e09720fed4c1f6e06798"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/WorldWideNoiseMeltdown.ogg",
+      "size": 2612907,
+      "sha256": "c55e199066d833decfd2ee291b517501a8c5695d3c33a3fc37a4776b581daeda"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Music/YouKnowWhatYou'veGotToDoMeltdown.ogg",
+      "size": 2442926,
+      "sha256": "48f88a12dcf4473562cbedbf2fa3ebe64b4252708713a1ee47566a67d782e59e"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Scripts/Default+.json",
+      "size": 8593,
+      "sha256": "947c3c4a5ae62b30d257fcf7ff8a9ec7ce2fa737328a048b06680749903e10c5"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Scripts/DefaultOff.json",
+      "size": 3066,
+      "sha256": "a76c2f80402ea7fe1a867f1c436e4dbe13de6eaf4007de1898ab564b8b608992"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Scripts/DefaultTsmi.json",
+      "size": 3180,
+      "sha256": "a9182fd4843cb7c776d8e2ddc692c110c73993a44de5207832ea6374b9ec8ed3"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Scripts/Meltdown+++.json",
+      "size": 10322,
+      "sha256": "063c276a9b2b685041cf7dbd75a5e16b004b3bab14166bc35739d1a958de3e71"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Scripts/Meltdown++.json",
+      "size": 9600,
+      "sha256": "212356796cd7f4e82e0429583bc21272147825ee6668da30b5f591386096f619"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Scripts/Meltdown+.json",
+      "size": 8471,
+      "sha256": "a4c876b427da62b685e049e12bceeee0276e48d70afe99392dbdc55ae86585fe"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Scripts/Meltdown.json",
+      "size": 5871,
+      "sha256": "7252b92897343bfce9c39dac75bb57d4013b9d0a0dcb0f4f83dd8e5c7ca704f6"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Scripts/MeltdownAlt.json",
+      "size": 4736,
+      "sha256": "c2d537c466fbac534e9a88eb45e51d9dea4ad061878eb969c7691f18d43a6d92"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Scripts/MeltdownSotC.json",
+      "size": 3285,
+      "sha256": "6bf2b41ff67d3540635e28c37929d06eb4c1c418d19b2c4a3aa98a1f04484fc5"
+    },
+    {
+      "path": "BepInEx/plugins/lethal_coder-PizzaProbabilityUpdated/BGN-PizzaTowerEscapeMusic/Scripts/MeltdownTsmi.json",
+      "size": 3267,
+      "sha256": "1a8cb238ab93d14bc0585be42b68084619606b000289ffa35fba2b8475a407e4"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-JLL/JLL/JLL.dll",
+      "size": 188928,
+      "sha256": "bbe20f86805f8cb90cf8c88893b27b664d39ea79107edc826e1089f0ac473f5a"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-JLL/JLL/JLLItemsModule.dll",
+      "size": 39424,
+      "sha256": "9ac51bdaea96ba0792fa896940dd0ede26d1436e912f756c27b21e265bb2fd0d"
+    },
+    {
+      "path": "BepInEx/plugins/JacobG5-JLL/JLL/WesleyMoonScripts.dll",
+      "size": 49152,
+      "sha256": "366f4ac03e77dc63bbba1118f6fbb821064237e3f745b4442b0c9ea7dbfbfcf8"
+    },
+    {
+      "path": "BepInEx/plugins/Glojam-Company_Hauler/companyhauler/companyhauler.lethalbundle",
+      "size": 21687666,
+      "sha256": "40098a0a3b5969ee982d2b75e0929e09f7764bbe9c57fec9402cfd32e054ff7a"
+    },
+    {
+      "path": "BepInEx/plugins/Glojam-Company_Hauler/companyhauler/glojam.CompanyHauler.dll",
+      "size": 170496,
+      "sha256": "0b864d20067bbc99e9981f037bb66c590e465822b5e7cd2176754f36274bd5eb"
+    },
+    {
+      "path": "BepInEx/plugins/Ghostx10-Even_More_Suits/moresuits/Sonic.png",
+      "size": 405322,
+      "sha256": "25016ba84a103db56030debb63c5fbb4f02fc141938eead9763d51f0fa22369a"
+    },
+    {
+      "path": "BepInEx/plugins/Ghostx10-Even_More_Suits/moresuits/Spongebob.png",
+      "size": 426713,
+      "sha256": "4de618fdf2982b9a2182327c38b9943c4503617385cceaf76f16c8b0188c6b51"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/Assets/compressed_audio",
+      "size": 32609640,
+      "sha256": "d4981c9e8524bcad1b3b8855d0d4d85fdf0ab00824d902a331a3eefbe418f201"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/Assets/compressed_audio_dmca",
+      "size": 28440523,
+      "sha256": "cc0e11802d78524a468ca0abd5c75f48fedc8c6f554be5d0433efbc51cfd812a"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/Assets/emotes_0",
+      "size": 8677437,
+      "sha256": "53f7e7a865283aae43d992b53ae58340c66cb20e0119d744e03cbdb3a1699655"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/Assets/emotes_1",
+      "size": 18460165,
+      "sha256": "23f4f08138025a073cd3d8aeab9a2668022f5730c21dc2137ed5b3c1702b9268"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/Assets/emotes_2",
+      "size": 12389474,
+      "sha256": "aca3e9434741f765f5ebca0b0f5e90bfbd0d41907da6af57b51239b739783e5a"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/Assets/emotes_3",
+      "size": 1633360,
+      "sha256": "3eafe5d1cd00fd19284e80052cccd39b2c6269110e21ba6ce84dff0a97af75a6"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/Assets/emotes_complementary",
+      "size": 1483579,
+      "sha256": "ef25daf5f7b7e50d9b8bbc8de9541421c8b6906387b29587b4263fe91b8d3ea7"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/Assets/emotes_special",
+      "size": 2192496,
+      "sha256": "b0f5592d6f0a24040cbf383fcca5e68bdf1cf66849029f211e9cb0aec8207895"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/Assets/emote_props",
+      "size": 17580992,
+      "sha256": "d31252a3fcf0d7f3aa4d82f3dc1185e6ee88444c19d1dfdf8e3680e12a782f49"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/Assets/misc",
+      "size": 518350,
+      "sha256": "6e7561d5161b8fff52c4c7aff69ecaf86576581aca95702cef717212ae24f42d"
+    },
+    {
+      "path": "BepInEx/plugins/FlipMods-TooManyEmotes/Assets/radial_menu",
+      "size": 96138,
+      "sha256": "399778c2c9f65ab3303c4b5846d2883f9630fa8fde958540a24a26b280ed74a7"
+    },
+    {
+      "path": "BepInEx/plugins/Evaisa-LethalLib/LethalLib/lethallib",
+      "size": 519854,
+      "sha256": "de966b79f49e9af0eda2dfc4aebc8ef5fe55f5b0047508e28a0e2992c8a694b0"
+    },
+    {
+      "path": "BepInEx/plugins/Evaisa-LethalLib/LethalLib/LethalLib.dll",
+      "size": 101888,
+      "sha256": "28fde57d12bf14222c916d81fbc9995608639857f3c5e9dd712dd6424efa45bc"
+    },
+    {
+      "path": "BepInEx/plugins/DiFFoZ-LethalPerformance/LethalPerformance/LethalPerformance.dll",
+      "size": 163840,
+      "sha256": "c29493026bfd89945a12daee392cd5035b0689c1028f2677450adf2b74620aff"
+    },
+    {
+      "path": "BepInEx/plugins/DiFFoZ-LethalPerformance/LethalPerformance/LethalPerformance.Unity.dll",
+      "size": 21504,
+      "sha256": "563a7533d7d3ed16c37f8f3be38f97b2d8d0c1fcdcc07ac339d731c65f70a73a"
+    },
+    {
+      "path": "BepInEx/plugins/DiFFoZ-LethalPerformance/LethalPerformance/lib_burst_generated.data",
+      "size": 1313280,
+      "sha256": "3bfdf22fd56c248e02cb8f15bfb1571173639f96d9b0340556501c0a3e4e7465"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-LethalError/LethalError/LethalError.deps.json",
+      "size": 38247,
+      "sha256": "e1b2c4b946820de62c9a237ff58dac17a950f948888915c5771310110303b787"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-LethalError/LethalError/LethalError.dll",
+      "size": 69632,
+      "sha256": "23d4bedfa94ef3563a9a952b4cf1d77fa1edee6ad918b048ee5462efbfa80001"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-LethalError/LethalError/LethalError.Mods.yml",
+      "size": 18797,
+      "sha256": "014c2b3666c1d3ab45ae2925c3f3eda20008139ebc120428d122a649a2349c1d"
+    },
+    {
+      "path": "BepInEx/plugins/chuxiaaaa-LethalError/LethalError/YamlDotNet.dll",
+      "size": 291840,
+      "sha256": "9172f0758ed76963e0ede3b5ca9a1fb5b82f64c7e7a92cb3a6de39efa933a668"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Triskelion/Assets/starlancertriskelion",
+      "size": 2753740,
+      "sha256": "cf514b1356e76c46e982d7345230f3eb3dd101c657bd5bac1c0e3eaeb54e8e2b"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Triskelion/Assets/starlancertriskelionscene",
+      "size": 20092302,
+      "sha256": "42e90badcc53287b2dc804b8adee60a185bc6009e3576c50c2138e1f20635e9f"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-StarlancerZero/Assets/starlancerzero",
+      "size": 3056529,
+      "sha256": "4bceb3a9c1f29fd0837432ff6a90b641e75d2a6e8f30d08ad7e3174c877d1b4f"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-StarlancerZero/Assets/starlancerzeroscene",
+      "size": 58135694,
+      "sha256": "2ec85e731eebe4e5b86c931b5fc898d8fffabc849ae6dac97466aad69081d3db"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Solace/Assets/starlancersolace",
+      "size": 4096815,
+      "sha256": "a5a32214790c3f3d20e5b30d72cdd92bd7eae5e072c90ac496f713740c37d309"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Solace/Assets/starlancersolacescene",
+      "size": 92739658,
+      "sha256": "dac03bfd6251e3bb05bad0ab0d7d8b99a51e359fdc2f533386bd52272c798190"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Auralis/Assets/starlancerauralis",
+      "size": 3753642,
+      "sha256": "107a925fa8746c3613afb89db02d87be1c5bb4901a8b4c02b4946dc0388ed9f0"
+    },
+    {
+      "path": "BepInEx/plugins/AudioKnight-Auralis/Assets/starlancerauralisscene",
+      "size": 65017872,
+      "sha256": "66d3f5c145137571565fe5ae226b609dd81fec20742818f24446989ccc377585"
+    },
+    {
+      "path": "BepInEx/patchers/Hamunii-AutoHookGenPatcher/BepInEx.MonoMod.AutoHookGenPatcher.dll",
+      "size": 35328,
+      "sha256": "9f95f5b734c0862119d9e5f892c390f07d979536944b1dc6c0b1322b32badc79"
+    },
+    {
+      "path": "BepInEx/patchers/Hamunii-DetourContext_Dispose_Fix/Hamunii.DetourContext.Dispose_Fix.dll",
+      "size": 13312,
+      "sha256": "b83972a8a2972e4ab19efe2251a336cce8b8e93e3dfed0e20c24e4bf14e50ddb"
+    },
+    {
+      "path": "BepInEx/patchers/IAmBatby-LethalLevelLoader/LethalLevelLoader.Patcher.dll",
+      "size": 16896,
+      "sha256": "78c1ed2ea8acac6248a91632dea93533615d1113802407e6ed0e5aa98c657d91"
+    },
+    {
+      "path": "BepInEx/patchers/mattymatty-AsyncLoggers/AsyncLoggers.dll",
+      "size": 248832,
+      "sha256": "1c866a1024759938b20b02aa95488fca6391415c3cd4f8ee95a145886658a6fe"
+    },
+    {
+      "path": "BepInEx/patchers/mattymatty-AsyncLoggers_Experimental/AsyncLoggers.dll",
+      "size": 249344,
+      "sha256": "f751902cac413214a691a94b5d7a6bd18418aa4689ba4d78794cb0ab0f8f9448"
+    },
+    {
+      "path": "BepInEx/patchers/mattymatty-MonkeyInjectionLibrary/MonkeyInjectionLibrary.dll",
+      "size": 49664,
+      "sha256": "72941836dfcb96654ce1fee08aeb850681c202788ad2d0581eebb4b53aa5195c"
+    },
+    {
+      "path": "BepInEx/patchers/MonoDetour-MonoDetour_BepInEx_5/0.com.github.MonoDetour.BepInEx.5.dll",
+      "size": 12288,
+      "sha256": "86e332ea3bcdfaac2fa6b3b1ee41c77735193a6a518f4cf8d91ee64e8a4ae989"
+    },
+    {
+      "path": "BepInEx/patchers/XuXiaolan-ReXuvination/Development.cfg",
+      "size": 783,
+      "sha256": "a6fc4e2cf11b914920d9bed2b3c3251d571c7e09b600b05a4bb29360cf0da6ab"
+    },
+    {
+      "path": "BepInEx/patchers/XuXiaolan-ReXuvination/ReXuvination.Preloader.dll",
+      "size": 18432,
+      "sha256": "2d2aac6dd4ee06e149787f599f7713afb9d369392f0fd215313c00268feb603b"
+    },
+    {
+      "path": "BepInEx/patchers/Zaggy1024-DunGenReferenceFixer/DunGenReferenceFixer.dll",
+      "size": 20480,
+      "sha256": "3247a5d04b95c97c3f57a34386b7331ae351bef46a833397f7f2a7db28499dc8"
+    },
+    {
+      "path": "BepInEx/patchers/Evaisa-HookGenPatcher/BepInEx.MonoMod.HookGenPatcher/BepInEx.MonoMod.HookGenPatcher.dll",
+      "size": 9728,
+      "sha256": "95fe40f8b8c49a991b9e69a1a1898575735c478ea6715a8f71f70bfc214d0b2b"
+    },
+    {
+      "path": "BepInEx/patchers/Evaisa-HookGenPatcher/BepInEx.MonoMod.HookGenPatcher/MonoMod.dll",
+      "size": 66048,
+      "sha256": "cc7a1093d6ead17f75545c8d8cc455fdafcb1aca48d9b887735cc21095833bb8"
+    },
+    {
+      "path": "BepInEx/patchers/Evaisa-HookGenPatcher/BepInEx.MonoMod.HookGenPatcher/MonoMod.RuntimeDetour.HookGen.dll",
+      "size": 23552,
+      "sha256": "79b2c4cef86328a482f4edc9a5973895f19d3f59566d4b57b0080bdf1872e802"
+    },
+    {
+      "path": "BepInEx/patchers/Evaisa-FixPluginTypesSerialization/FixPluginTypesSerialization/FixPluginTypesSerialization.dll",
+      "size": 97792,
+      "sha256": "22d0ed164e740173cdf01f66b4abfcb070b73c95846f857bcb9351826f817d6c"
+    },
+    {
+      "path": "BepInEx/patchers/Evaisa-FixPluginTypesSerialization/FixPluginTypesSerialization/Microsoft.Deployment.Compression.Cab.dll",
+      "size": 49152,
+      "sha256": "396d5c26a253cd68b880620391a2ac46881995ab8374aa65315a2c250c18b88f"
+    },
+    {
+      "path": "BepInEx/patchers/Evaisa-FixPluginTypesSerialization/FixPluginTypesSerialization/Microsoft.Deployment.Compression.dll",
+      "size": 36864,
+      "sha256": "3077b23b8637bb07e4abf83f03613e56e324d28475694b93e8bf74130e88909c"
+    },
+    {
+      "path": "BepInEx/patchers/DiFFoZ-LethalPerformance/LethalPerformance/LethalPerformance.Patcher.dll",
+      "size": 59904,
+      "sha256": "ca20171263b8b34cb9fe18a3c31ae3f4ec220ea88a41427048dab4b4e481419b"
+    },
+    {
+      "path": "BepInEx/patchers/DiFFoZ-HarmonyXTranspilerFix/HarmonyXTranspilerFix/HarmonyXTranspilerFix.dll",
+      "size": 30720,
+      "sha256": "6306d25806f1913732c9a80fca6ff0fd1a2c8c5ab0460d977a2ca44e6effdd50"
+    },
+    {
+      "path": "BepInEx/patchers/DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher/BepInExFasterLoadAssetBundles/BepInExFasterLoadAssetBundles.dll",
+      "size": 45568,
+      "sha256": "f0f039907f9b6c28703782f24926cad55e515b1b9882056fe95db86995f00929"
+    },
+    {
+      "path": "BepInEx/core/Bobbie-NAudio/NAudio.Asio.dll",
+      "size": 34304,
+      "sha256": "ca03780217139b37f7f5b6921d59defb8d24988315b16b167a77fa88caa7d00f"
+    },
+    {
+      "path": "BepInEx/core/Bobbie-NAudio/NAudio.Core.dll",
+      "size": 187904,
+      "sha256": "fcf493fc47a2f478a65303886b975fbdbf714cbb1f2d79f7fce97e4bb16b01a8"
+    },
+    {
+      "path": "BepInEx/core/Bobbie-NAudio/NAudio.dll",
+      "size": 7680,
+      "sha256": "8bf0f2e8dadf3967757191c2212c269333ccd9d7e59839eea968212c64787be9"
+    },
+    {
+      "path": "BepInEx/core/Bobbie-NAudio/NAudio.Midi.dll",
+      "size": 46592,
+      "sha256": "f246e29921797b173b54229685e997a11f9cc388fa1e589c212328abd7a94ebe"
+    },
+    {
+      "path": "BepInEx/core/Bobbie-NAudio/NAudio.Wasapi.dll",
+      "size": 179200,
+      "sha256": "618ef0e49d64e7a66dfe64bbf6ae81705b9d9683d8a9f321e5c3024d666bdf82"
+    },
+    {
+      "path": "BepInEx/core/Bobbie-NAudio/NAudio.WinForms.dll",
+      "size": 40960,
+      "sha256": "cf92f2f143c22806b88c82f7ec1556f0d814bbd81aca998814709b0da7437f12"
+    },
+    {
+      "path": "BepInEx/core/Bobbie-NAudio/NAudio.WinMM.dll",
+      "size": 57344,
+      "sha256": "749a01ebbb5edd8b1a03c5263b04de6acadecf52e4cc84d7412bc6e93f180958"
+    },
+    {
+      "path": "BepInEx/core/Bobbie-UniTask/UniTask.Addressables.dll",
+      "size": 4096,
+      "sha256": "0674d5e8f458a934ef83d1641c561b14c0a108a0f65bcdf5a5ca3ef9fd1be43a"
+    },
+    {
+      "path": "BepInEx/core/Bobbie-UniTask/UniTask.dll",
+      "size": 542720,
+      "sha256": "9ee576801e3122c9d628d8d357f217833be93e0c408426ccbba3a24165f4b956"
+    },
+    {
+      "path": "BepInEx/core/Bobbie-UniTask/UniTask.DOTween.dll",
+      "size": 4096,
+      "sha256": "dcd88283772f3ba7c61ca4d6cc6d09a4a2e6a7e2a88653a4b2b42ca92d63d4da"
+    },
+    {
+      "path": "BepInEx/core/Bobbie-UniTask/UniTask.Linq.dll",
+      "size": 702976,
+      "sha256": "20a6958af19e7c99a695a1b15723f4f31c255100668cfd844d8bdbc0d365f425"
+    },
+    {
+      "path": "BepInEx/core/Bobbie-UniTask/UniTask.TextMeshPro.dll",
+      "size": 12800,
+      "sha256": "529c5f883321d44fef56b450fb5342c5be82f9035bb4663ff6c4f6db92420c9e"
+    },
+    {
+      "path": "BepInEx/core/Hamunii-AutoHookGenPatcher/MonoMod.dll",
+      "size": 66048,
+      "sha256": "cc7a1093d6ead17f75545c8d8cc455fdafcb1aca48d9b887735cc21095833bb8"
+    },
+    {
+      "path": "BepInEx/core/Hamunii-AutoHookGenPatcher/MonoMod.RuntimeDetour.HookGen.dll",
+      "size": 23552,
+      "sha256": "79b2c4cef86328a482f4edc9a5973895f19d3f59566d4b57b0080bdf1872e802"
+    },
+    {
+      "path": "BepInEx/core/MonoDetour-MonoDetour/com.github.MonoDetour.Bindings.Reorg.dll",
+      "size": 22528,
+      "sha256": "0127b4f106a2bc161e530d6d0f1ac436688a1194de49066564251ab309445081"
+    },
+    {
+      "path": "BepInEx/core/MonoDetour-MonoDetour/com.github.MonoDetour.dll",
+      "size": 179200,
+      "sha256": "b1cd96942485778582b821612c33115596a559324de017b7af9a78a9e18380c3"
+    },
+    {
+      "path": "BepInEx/core/MonoDetour-MonoDetour/com.github.MonoDetour.Reflection.dll",
+      "size": 17920,
+      "sha256": "9b21abc87b17068dcd1b3276b271e2b8e6b646f110d1645e26df61c06c98d335"
+    },
+    {
+      "path": "BepInEx/core/MonoDetour-MonoDetour_BepInEx_5/com.github.MonoDetour.Interop.HarmonyX.dll",
+      "size": 51200,
+      "sha256": "557b1c32adc9a21172a541fcd6be8c5a57d81d964eb4a91e2e3ed6bd2e5f55ba"
+    },
+    {
+      "path": "BepInEx/core/NakiriFox-LC_Simplified_Chinese_Localization/XUnity.Common.dll",
+      "size": 67584,
+      "sha256": "ed24563a481229019cf4bcf16107df4aa47c215572301cbbec50ea4e0a3a1575"
+    },
+    {
+      "path": "BepInEx/core/Lordfirespeed-OdinSerializer/OdinSerializer/OdinSerializer.dll",
+      "size": 366592,
+      "sha256": "032df552d13df91a58e796d9324eb69ec8ba0999ef2c6a0c00b9c0b924e33b84"
+    },
+    {
+      "path": "BepInEx/core/Lordfirespeed-OdinSerializer/OdinSerializer/OdinSerializer.pdb",
+      "size": 513312,
+      "sha256": "bac7e36b45c0fabe888be0d66794f4180b36b45873080a3d19cac554313966d3"
+    },
+    {
+      "path": "BepInEx/config/AsyncLoggers/Config.cfg",
+      "size": 2667,
+      "sha256": "5d7f5ea50c8161141ab524e48cee8efd63dbac0d16f8fb15ed9af47783beda1a"
+    },
+    {
+      "path": "BepInEx/config/AsyncLoggers/LogLevels.cfg",
+      "size": 38379,
+      "sha256": "faa6be5b50cc54a943a0a82ec22ca6e08208b82ab6df35aeb2fd4e118f63dcf9"
+    },
+    {
+      "path": "BepInEx/config/JKConfig/GenericGMD.GI Bunker Scrap.cfg",
+      "size": 4606,
+      "sha256": "8d54ca76648094a500e77f5cb95b663b21a86078033fbafb9262de8d0e47045b"
+    },
+    {
+      "path": "BepInEx/config/JKConfig/GenericGMD.GI Impact Flash.cfg",
+      "size": 1539,
+      "sha256": "4237892229e15eafbe2a19618919a30d7007febd23f1118f8c40b6036d5b7780"
+    },
+    {
+      "path": "BepInEx/config/JKConfig/GenericGMD.GI Jammer.cfg",
+      "size": 1529,
+      "sha256": "d5f3e2895e983daed308aef0b978ff8323e3a4e724f1448ab8584b2637ab5bec"
+    },
+    {
+      "path": "BepInEx/config/JKConfig/GenericGMD.GI Light Crowbar.cfg",
+      "size": 1554,
+      "sha256": "42d655c2313ccb8df0e6fed62584462f6d83c0351583a666d4a3b91c8d67fdfb"
+    },
+    {
+      "path": "BepInEx/config/JKConfig/GenericGMD.GI Military Shotgun.cfg",
+      "size": 1559,
+      "sha256": "968a759e238231694ab88f60d30dbd9dedc3b21aecfa08f6393cad60fb568e92"
+    },
+    {
+      "path": "BepInEx/config/JKConfig/GenericGMD.GI Single Barrel.cfg",
+      "size": 1577,
+      "sha256": "5e5406d70d1666e110b8f7d6d91e145befec4f7a21f66fd9e35bca1e078356e2"
+    },
+    {
+      "path": "BepInEx/config/JLL/874-Obscura.Skelaah.cfg",
+      "size": 232,
+      "sha256": "29006c97bbe6155c0dbebda2a67652c77041224ed09550db59cffba7629d0b8b"
+    },
+    {
+      "path": "BepInEx/config/JLL/BoomsMods.BoomScraps.cfg",
+      "size": 132,
+      "sha256": "548341fdf6314663a2d9138c0f567f727ab4c25c329fb00a4f7a4b24773f11e9"
+    },
+    {
+      "path": "BepInEx/config/JLL/BoomsMods.LeadInteriors.cfg",
+      "size": 171,
+      "sha256": "f339767d1fb65eb2b3deadd49593bf4938e94e9d4394babf2cf81c136a7967e0"
+    },
+    {
+      "path": "BepInEx/config/JLL/Genericgmd.GenericInteriors.cfg",
+      "size": 1963,
+      "sha256": "c4235690d590950fc1cef7237df03590e3bd3f450613457479294dea78a95943"
+    },
+    {
+      "path": "BepInEx/config/JLL/Skelaah.3-Bilge.cfg",
+      "size": 180,
+      "sha256": "6ec3855c02b0b7b640bb672cfd09e27a41d947e6230cc9b50f1fe06171a53ea8"
+    },
+    {
+      "path": "BepInEx/config/JLL/Skelaah.69-Kanie.cfg",
+      "size": 147,
+      "sha256": "1ebc2ffb21d70eab83187f99cf0b2a189256a73b1fdd134c74da79ae619d4a39"
+    },
+    {
+      "path": "BepInEx/config/JLL/Skelaah.81-Deadlock.cfg",
+      "size": 309,
+      "sha256": "072d3da33922756d93da850b6c613c838c937145dc205803feda688972beb256"
+    },
+    {
+      "path": "BepInEx/config/MoreSuitsConfig/README.txt",
+      "size": 200,
+      "sha256": "4009a3c783eb8e7825287b5687c4f8dac3351aba12dc860b7f08f738b5d65633"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/CMD-PY-Translate.xml",
+      "size": 1188,
+      "sha256": "48124ec5a7a4c2053cfe36bc7a72829d7be3c58cd2170f651f9ce020dcd897b0"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/CMD-ZH-Translate.xml",
+      "size": 2123,
+      "sha256": "c00c690cb49261b538e49f366c6a40738a0c97421cf7f89221e6deb67f39db14"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/GuiText-Translate.xml",
+      "size": 2594,
+      "sha256": "08c507fbf2ee6a2273fe4040d47f40947757e4741fca220ea1692352a17cb2c6"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/HUD-Translate.xml",
+      "size": 9207,
+      "sha256": "7a46a456c60dfab00d7bebe55dca57d06005ae96dbcbeaa057e579ad26f195f9"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Item-Translate.cfg",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Item-Translate.xml",
+      "size": 9576,
+      "sha256": "5e08b9f7416c88cde8b600b2baa6509b04715991afa9070915ebb3fb2e5a8309"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/LXGW.xml",
+      "size": 20334652,
+      "sha256": "656e8c153c87a98f4326eb9d4eaeadbabdda923b4200631f8b89cb122b1a3ad1"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/MSYH.xml",
+      "size": 23698816,
+      "sha256": "cbc7aa6a066c0daf8b57b36c8c975e1f4e86b3003c0a4469a7874ed04b80f726"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Normal-Translate.xml",
+      "size": 102080,
+      "sha256": "357e4c7de6b4dee984836b0edc395f706a2f769f1901de2bf15d4bdb7fbfab08"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/SpecialText-Translate.xml",
+      "size": 24927,
+      "sha256": "3df0b39acb1fbb5ae1e82d879a4b87b3fb8c3a4a6344bfdebe8044f58f4ad1f7"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Terminal-Translate.xml",
+      "size": 118771,
+      "sha256": "4729fdc201ff8a0960093997d1835cb178462637b2623749764d3eaae9014b6d"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/AlertText [52CF932FDE-AB216CEFD9].png",
+      "size": 3343,
+      "sha256": "a8787b5e12f87b2e4170c056d9e1315dc0c90858e3d3f7c3a46070654975bee9"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/AlertText[52CF932FDE-AB216CEFD9].png",
+      "size": 3343,
+      "sha256": "a8787b5e12f87b2e4170c056d9e1315dc0c90858e3d3f7c3a46070654975bee9"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/endgameAllPlayersDead [7C79AB720A-AAE050C65E].png",
+      "size": 20142,
+      "sha256": "0b945858ade1123169f405848e9cd3b31a734e2f8cb5aaa48f7e330ba88f90c6"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/endgameAllPlayersDead[7C79AB720A-AAE050C65E].png",
+      "size": 20142,
+      "sha256": "0b945858ade1123169f405848e9cd3b31a734e2f8cb5aaa48f7e330ba88f90c6"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/endgameStatsBoxes [295886F7C3-4BC87000CE].png",
+      "size": 7516,
+      "sha256": "dee5a4c9b159a92b87a9c8cd07e5155dbab069ff37a25e24f59d709963f1cb1b"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/endgameStatsBoxes[295886F7C3-4BC87000CE].png",
+      "size": 7516,
+      "sha256": "dee5a4c9b159a92b87a9c8cd07e5155dbab069ff37a25e24f59d709963f1cb1b"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/endgameStatsDeceased [C6A5B6686B-D9522974DE].png",
+      "size": 5034,
+      "sha256": "27933c788eee56cc7d2a758da4acf6ffb1ba64bd25c04aff03af68f8f2dda2b4"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/endgameStatsDeceased[C6A5B6686B-D9522974DE].png",
+      "size": 5034,
+      "sha256": "27933c788eee56cc7d2a758da4acf6ffb1ba64bd25c04aff03af68f8f2dda2b4"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/endgameStatsMissing [72D507A3C8-DB73092A8A].png",
+      "size": 5061,
+      "sha256": "0086134396ad0809f7aa66acb6026fb3631c4e8ef81427a9dee949b8e15da2fd"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/endgameStatsMissing[72D507A3C8-DB73092A8A].png",
+      "size": 5061,
+      "sha256": "0086134396ad0809f7aa66acb6026fb3631c4e8ef81427a9dee949b8e15da2fd"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/Logo [83FCE83274-09B09F5E0E].png",
+      "size": 23406,
+      "sha256": "723965213616dcccb64f2925bf913b7ade1edaaf926b48bd0f406ffff0df15d2"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/LogoTextV1 [A6946826E1-170022950F].png",
+      "size": 33653,
+      "sha256": "d5af92c2e012feaba4a6b058ae254ead130f7076cc7ebd2a1239bade3c1c5fa1"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/LogoTextV1[A6946826E1-170022950F].png",
+      "size": 33653,
+      "sha256": "d5af92c2e012feaba4a6b058ae254ead130f7076cc7ebd2a1239bade3c1c5fa1"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/Logo[83FCE83274-09B09F5E0E].png",
+      "size": 23406,
+      "sha256": "723965213616dcccb64f2925bf913b7ade1edaaf926b48bd0f406ffff0df15d2"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/RedUIPanelGlitchB [C864CEDFD2-470F6C25C6].png",
+      "size": 2242,
+      "sha256": "b3334eb624aad0e1a46f6e02098e8032b114852c47fa4c17d40ef2cadd39f615"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/RedUIPanelGlitchBWarning [E5C5C6E52B-F9F9EA9261].png",
+      "size": 3731,
+      "sha256": "9e51a4b1e9530c952eb0a675b8f212678c7dcbd267a6656b2ba6715c9a64d901"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/RedUIPanelGlitchBWarningRadiation [FFCC97E055-2C688E6DC8].png",
+      "size": 20953,
+      "sha256": "3ccd9078a9057683bc33ef38f6965bfe8aa74265189539509069c7b8cf64fd71"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/RedUIPanelGlitchBWarningRadiationB [7D4ED37952-95F686DE01].png",
+      "size": 28675,
+      "sha256": "beb9ba55c44565e481d1deda3df95c86100666bf1aba43f23bfef80f63cd67d6"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/RedUIPanelGlitchBWarningRadiationB[7D4ED37952-95F686DE01].png",
+      "size": 28675,
+      "sha256": "beb9ba55c44565e481d1deda3df95c86100666bf1aba43f23bfef80f63cd67d6"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/RedUIPanelGlitchBWarningRadiationC [7FBAA1AA30-9E2C036778].png",
+      "size": 45343,
+      "sha256": "f6f271b9eb551515e4a4b7daf0258a64db1f12099f2298847b17061312334eab"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/RedUIPanelGlitchBWarningRadiationC[7FBAA1AA30-9E2C036778].png",
+      "size": 45343,
+      "sha256": "f6f271b9eb551515e4a4b7daf0258a64db1f12099f2298847b17061312334eab"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/RedUIPanelGlitchBWarningRadiationD [4877939F7B-47E20481B0].png",
+      "size": 53889,
+      "sha256": "715563029421b496893e37a871018b985354da6744c317eee0aef4a461e3e626"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/RedUIPanelGlitchBWarningRadiationD[4877939F7B-47E20481B0].png",
+      "size": 53889,
+      "sha256": "715563029421b496893e37a871018b985354da6744c317eee0aef4a461e3e626"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/RedUIPanelGlitchBWarningRadiation[FFCC97E055-2C688E6DC8].png",
+      "size": 20953,
+      "sha256": "3ccd9078a9057683bc33ef38f6965bfe8aa74265189539509069c7b8cf64fd71"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/RedUIPanelGlitchBWarning[E5C5C6E52B-F9F9EA9261].png",
+      "size": 3731,
+      "sha256": "9e51a4b1e9530c952eb0a675b8f212678c7dcbd267a6656b2ba6715c9a64d901"
+    },
+    {
+      "path": "BepInEx/config/translations/zh-CN/Texture/RedUIPanelGlitchB[C864CEDFD2-470F6C25C6].png",
+      "size": 2242,
+      "sha256": "b3334eb624aad0e1a46f6e02098e8032b114852c47fa4c17d40ef2cadd39f615"
+    }
+  ]
+}
